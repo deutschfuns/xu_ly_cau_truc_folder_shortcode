@@ -1,0 +1,13 @@
+[dquiz31 id="BT1.5.9.3.3" title="Nối các câu bên trái với nghĩa đúng bên phải"]
+Nối các câu bên trái với nghĩa đúng bên phải.
+
+[dans31 ans="1-B,2-A,3-C"]
+1. ein Viertel
+2. zweieinhalb
+3. ein Drittel
+A. 2 ½
+B. ¼
+C. ⅓
+[/dans31]
+
+[/dquiz31]

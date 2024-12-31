@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.7.8.5" title="Chọn đáp án đúng về thời gian của các mùa trong năm."]
+    [dans3 ans="D"]
+    A. Herbst kéo dài từ 1.6 đến 31.8
+    B. Winter kéo dài từ 1.9 đến 30.11
+    C. Frühling kéo dài từ 1.12 đến 28./29.2
+    D. Sommer kéo dài từ 1.6 đến 31.8
+    [/dans3]
+[/dquiz3]

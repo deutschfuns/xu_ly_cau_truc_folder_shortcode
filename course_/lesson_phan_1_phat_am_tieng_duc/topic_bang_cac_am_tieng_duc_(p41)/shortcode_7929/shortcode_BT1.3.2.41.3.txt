@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.41.3" title="Hãy chọn từ phù hợp để hoàn thành câu sau"]
+    Ich kann die Musik __.
+    [dans3 ans="C"]
+    A. dürfen
+    B. für
+    C. spüren
+    [/dans3]
+[/dquiz3]

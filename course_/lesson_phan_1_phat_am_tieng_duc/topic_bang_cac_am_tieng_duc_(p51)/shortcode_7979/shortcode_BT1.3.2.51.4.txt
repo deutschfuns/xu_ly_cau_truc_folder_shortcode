@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.51.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.51.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Frau[/hidden]
+    
+    [dans3 ans="C"]
+    A. Frisch
+    B. Freund
+    C. Frau
+    [/dans3]
+[/dquiz3]

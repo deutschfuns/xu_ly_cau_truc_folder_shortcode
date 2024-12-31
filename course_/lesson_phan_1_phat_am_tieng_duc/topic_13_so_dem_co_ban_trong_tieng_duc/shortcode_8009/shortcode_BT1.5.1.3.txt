@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.1.3" title="Nghe và chọn các số đếm đúng"]
+    [daudio]BT1.5.1.3.mp3[/daudio]
+    [dans3 ans="C,D"]
+    A. sieben
+    B. zwölf
+    C. eins
+    D. fünf
+    [/dans3]
+    [hidden]Nội dung file nghe: eins; fünf[/hidden]
+[/dquiz3]

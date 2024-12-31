@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.2" title="Từ nào sau đây có nghĩa là &quot;người nghiệp dư&quot;?"]
+    [dans3 ans="B"]
+    A. Kleid
+    B. Laie
+    C. Hais
+    D. mein
+    [/dans3]
+[/dquiz3]

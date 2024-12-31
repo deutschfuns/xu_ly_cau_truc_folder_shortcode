@@ -1,0 +1,16 @@
+[dquiz31 id="BT3.1.6.5" title="Nối các câu sau với nghĩa tiếng Việt tương ứng"]
+
+Nối các câu sau với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-B,2-C,3-A"]
+
+1. Wie bitte!
+2. Mach dir nichts draus.
+3. Das kann doch jedem einmal passieren.
+A. Điều đó có thể xảy ra với bất cứ ai.
+B. Xin vui lòng nhắc lại.
+C. Đừng lo lắng về điều đó.
+
+[/dans31]
+
+[/dquiz31]

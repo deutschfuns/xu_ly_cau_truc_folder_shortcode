@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.37.1" title="Chọn từ phù hợp để hoàn thành câu"]
+    Chúng ta cần ___ mới để đi làm.
+    [dans3 ans="C"]
+    A. Baum
+    B. Maus
+    C. Auto
+    D. Frau
+    [/dans3]
+[/dquiz3]

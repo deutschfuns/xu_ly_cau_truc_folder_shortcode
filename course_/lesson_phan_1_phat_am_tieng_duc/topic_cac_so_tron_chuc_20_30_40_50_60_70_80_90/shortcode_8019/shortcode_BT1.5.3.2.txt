@@ -1,0 +1,17 @@
+[dquiz58 id="BT1.5.3.2" title="Đọc và ghi âm lại" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Zwanzig
+Fünfzig
+Neunzig
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Zwanzig
+Fünfzig
+Neunzig[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

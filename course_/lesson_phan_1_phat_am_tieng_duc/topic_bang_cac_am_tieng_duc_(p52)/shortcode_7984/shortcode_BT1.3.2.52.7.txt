@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.52.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.52.7.mp3[/daudio]
+    
+    [dans3 ans="C"]
+    A. Treue
+    B. Treppe
+    C. Traum
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Traum[/hidden]
+[/dquiz3]

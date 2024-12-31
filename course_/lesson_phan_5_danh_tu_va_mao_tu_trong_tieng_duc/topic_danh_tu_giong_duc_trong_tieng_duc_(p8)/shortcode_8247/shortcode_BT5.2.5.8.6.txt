@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.8.6" title="Chọn đáp án đúng"]
+
+Welcher Wein ist weiß?
+[dans3 ans="B"]
+A. Rotwein
+B. Weißwein
+C. Portwein
+D. Apfelwein
+[/dans3]
+
+Was ist ein warmes Getränk?
+[dans3 ans="A"]
+A. Kaffee
+B. Wein
+C. Bier
+D. Sekt
+[/dans3]
+
+[/dquiz3]

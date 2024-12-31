@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.4.1.28" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    Die ____ haben die Ergebnisse besprochen.
+    (Các cô giáo đã thảo luận về các kết quả.)
+    [dans3 ans="B"]
+    A. Lehrer
+    B. Lehrerinnen
+    C. Ärztinnen
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.2.7.4.1" title="Chọn đáp án đúng"]
+
+    [daudio]V5.2.7_4.mp4[/daudio]
+
+    [dans3 ans="B"]
+    A. Museum có nghĩa là sân vận động.
+    B. Museum có nghĩa là bảo tàng.
+    C. Museum có nghĩa là bể cá.
+    D. Museum có nghĩa là diễn đàn.
+    [/dans3]
+
+[/dquiz3]

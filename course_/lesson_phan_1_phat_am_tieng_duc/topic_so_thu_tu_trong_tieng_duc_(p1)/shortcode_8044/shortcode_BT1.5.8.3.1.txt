@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.5.8.3.1" title="Đọc và chọn đáp án đúng"]
+    Số thứ tự của số 4 trong tiếng Đức là gì?
+    [dans3 ans="C"]
+    A. erste
+    B. zweite
+    C. vierte
+    D. fünfte
+    [/dans3]
+[/dquiz3]

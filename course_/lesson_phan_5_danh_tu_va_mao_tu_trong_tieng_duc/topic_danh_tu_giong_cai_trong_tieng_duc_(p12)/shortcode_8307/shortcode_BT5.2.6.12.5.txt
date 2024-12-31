@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.12.5" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+[daudio]BT5.2.6.12.5.mp3[/daudio]
+
+Hãy điền từ để hoàn thành câu sau:
+Die [dans44]Zitrone[/dans44] ist sehr sauer.
+
+[hidden]Nội dung file nghe: Die Zitrone ist sehr sauer.[/hidden]
+
+[/dquiz44]

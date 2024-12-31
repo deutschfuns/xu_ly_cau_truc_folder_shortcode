@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.31.4" title="Từ nào sau đây có nghĩa là &quot;nhiều&quot;?"]
+
+[dans3 ans="C"]
+A. Vogel
+B. Verbot
+C. viel
+[/dans3]
+
+[/dquiz3]

@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.5.3.4" title="Ghép từ với nghĩa tiếng Việt tương ứng"]
+Ghép từ với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-B,2-A,3-D,4-C"]
+1. Administrator
+2. Direktor
+3. Konditor
+4. Moderator
+A. Giám đốc
+B. Quản trị viên
+C. Người dẫn chương trình
+D. Thợ làm bánh kẹo
+[/dans31]
+
+[/dquiz31]

@@ -1,0 +1,17 @@
+[dquiz3 id="BT5.2.7.8.7" title="Chọn nghĩa tiếng Việt đúng"]
+
+Entwickeln
+[dans3 ans="B"]
+A. Quyết định
+B. Phát triển
+C. Chiến đấu
+[/dans3]
+
+Kämpfen
+[dans3 ans="A"]
+A. Chiến đấu
+B. Cười
+C. Đi dạo
+[/dans3]
+
+[/dquiz3]

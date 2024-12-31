@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.18.7" title="Chọn đáp án đúng để hoàn thành câu sau:"]
+    Anh ấy luôn uống ___ vào buổi sáng.
+    [dans3 ans="C"]
+    A. Mann
+    B. Musik
+    C. Milch
+    [/dans3]
+[/dquiz3]

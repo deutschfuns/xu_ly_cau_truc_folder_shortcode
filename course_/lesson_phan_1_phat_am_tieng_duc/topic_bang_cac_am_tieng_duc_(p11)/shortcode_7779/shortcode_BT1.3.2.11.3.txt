@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.11.3" title="Từ nào sau đây có nghĩa là &quot;bàn tay&quot;?"]
+    [dans3 ans="B"]
+    A. Haar
+    B. Hand
+    C. Heft
+    [/dans3]
+[/dquiz3]

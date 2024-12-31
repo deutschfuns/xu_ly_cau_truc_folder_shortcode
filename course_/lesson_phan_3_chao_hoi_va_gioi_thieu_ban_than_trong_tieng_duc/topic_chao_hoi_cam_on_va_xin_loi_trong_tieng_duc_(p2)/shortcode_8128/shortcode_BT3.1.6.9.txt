@@ -1,0 +1,10 @@
+[dquiz3 id="BT3.1.6.9" title="Hãy chọn câu trả lời đúng cho các tình huống xin lỗi sau đây."]
+
+Ai đó vô tình làm rơi cốc nước của bạn.
+[dans3 ans="C"]
+A. Entschuldigung
+B. Ja, was möchten Sie?
+C. Macht nichts
+[/dans3]
+
+[/dquiz3]

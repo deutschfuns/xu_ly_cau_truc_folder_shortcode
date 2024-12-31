@@ -1,0 +1,14 @@
+[dquiz37 id="BT1.3.2.11.1" title="Nghe và sắp xếp từ để tạo thành câu"]
+
+[daudio]BT1.3.2.11.1.mp3[/daudio]
+
+[dans37 ans="C-D-B-A"]
+A. klein
+B. ist
+C. Mein
+D. Hund
+[/dans37]
+
+[hidden]Nội dung file nghe: Mein Hund ist klein[/hidden]
+
+[/dquiz37]

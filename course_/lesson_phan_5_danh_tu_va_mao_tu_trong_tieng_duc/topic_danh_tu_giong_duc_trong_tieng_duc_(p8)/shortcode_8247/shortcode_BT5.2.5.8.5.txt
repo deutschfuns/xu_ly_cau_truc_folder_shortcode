@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.5.8.5" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+    [dans31 ans="1-C,2-B,3-A,4-D"]
+    1. Champagner
+    2. Grüntee
+    3. Schwarzkaffee
+    4. Apfelwein
+    A. Cà phê đen
+    B. Trà xanh
+    C. Rượu vang sâm banh
+    D. Rượu táo
+    [/dans31]
+[/dquiz31]

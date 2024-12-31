@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.25.4" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-C,3-D,4-A"]
+    1. Radio
+    2. Ruhe
+    3. Richtung
+    4. Rat
+    A. Lời khuyên
+    B. Đài
+    C. Sự yên tĩnh
+    D. Hướng
+    [/dans31]
+[/dquiz31]

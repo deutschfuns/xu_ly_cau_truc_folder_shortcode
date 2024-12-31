@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.30.7" title="Từ nào sau đây có nghĩa là &quot;ngọt&quot;?"]
+
+    [dans3 ans="A"]
+    A. süß
+    B. früh
+    C. müde
+    [/dans3]
+
+[/dquiz3]

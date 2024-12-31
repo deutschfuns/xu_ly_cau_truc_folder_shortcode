@@ -1,0 +1,5 @@
+[dquiz44 id="BT5.5.45" title="Nghe câu và điền từ thích hợp vào chỗ trống"]
+    [daudio]BT5.5.45.mp3[/daudio]
+    Der Arzt untersuchte meine [dans44]Zunge[/dans44].
+    [hidden]Nội dung file nghe: Der Arzt untersuchte meine Zunge.[/hidden]
+[/dquiz44]

@@ -1,0 +1,15 @@
+[dquiz58 id="BT5.4.1.10" title="Nói - Hãy nói dạng số nhiều của những từ sau"]
+
+    Hãy ghi âm lại dạng số nhiều của những từ sau.
+    Der Tisch
+    Der Tag
+
+    [hidden]Hãy ghi âm lại dạng số nhiều của những từ sau.
+    Der Tisch
+    Der Tag[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

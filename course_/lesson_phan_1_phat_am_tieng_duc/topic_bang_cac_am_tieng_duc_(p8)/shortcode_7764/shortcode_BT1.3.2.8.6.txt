@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.8.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-C,3-A"]
+    1. Karte
+    2. Nase
+    3. Torte
+    A. Bánh kem
+    B. Thẻ/Bản đồ
+    C. Mũi
+    [/dans31]
+[/dquiz31]

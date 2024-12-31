@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.3.2.7.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+
+[dans31 ans="1-C,2-B,3-A"]
+
+1. Ecke
+2. Echo
+3. Energie
+A. Năng lượng
+B. Tiếng vọng
+C. Góc
+
+[/dans31]
+
+[/dquiz31]

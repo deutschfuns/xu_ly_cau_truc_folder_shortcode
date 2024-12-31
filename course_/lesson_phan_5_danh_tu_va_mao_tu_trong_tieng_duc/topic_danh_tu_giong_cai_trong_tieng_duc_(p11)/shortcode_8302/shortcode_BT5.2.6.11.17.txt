@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.11.17" title="Ghép từ với nghề nghiệp tương ứng"]
+    [dans31 ans="1-A,2-D,3-C,4-B"]
+    1. Schauspielerin
+    2. Soldatin
+    3. Pilotin
+    4. Geschäftsfrau
+    A. Diễn viên nữ
+    B. Doanh nhân nữ
+    C. Phi công nữ
+    D. Lính nữ
+    [/dans31]
+[/dquiz31]

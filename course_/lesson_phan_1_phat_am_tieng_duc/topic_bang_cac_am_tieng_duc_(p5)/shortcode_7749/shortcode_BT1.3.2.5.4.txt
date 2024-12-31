@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.5.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.5.4.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Cocktail
+    B. Computer
+    C. City
+    [/dans3]
+    [hidden]Nội dung file nghe: City[/hidden]
+[/dquiz3]

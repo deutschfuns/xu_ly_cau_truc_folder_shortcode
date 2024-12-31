@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.10.7" title="Chọn từ phù hợp để điền vào câu sau"]
+    Buổi sáng, tôi thường nghe tiếng __ hót ngoài vườn.
+    [dans3 ans="C"]
+    A. Glas
+    B. Zug
+    C. Vogel
+    [/dans3]
+[/dquiz3]

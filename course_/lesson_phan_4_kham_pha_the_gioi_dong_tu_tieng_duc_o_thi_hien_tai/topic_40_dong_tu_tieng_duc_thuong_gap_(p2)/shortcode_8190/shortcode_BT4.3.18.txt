@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.3.18" title="Chọn động từ phù hợp để hoàn thành các câu sau."]
+
+Er ___ die Tür.
+[dans3 ans="B"]
+A. tragen
+B. schließt
+C. schwimmt
+[/dans3]
+
+Sie ___ mir das Buch.
+[dans3 ans="B"]
+A. gebt
+B. gibt
+C. fährt
+[/dans3]
+
+[/dquiz3]

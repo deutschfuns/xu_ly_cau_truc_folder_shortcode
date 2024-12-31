@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.5.7" title="Từ nào sau đây là tên một loại đồ uống?"]
+    [dans3 ans="B"]
+    A. Container
+    B. Cocktail
+    C. Couch
+    [/dans3]
+[/dquiz3]

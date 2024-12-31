@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.5.9.3.9" title="Viết lại từ vựng tiếng Đức tương ứng với nghĩa tiếng Việt"]
+
+    “Nửa” trong tiếng Đức là [dans44]ein halb[/dans44]
+    “Ba phần tư” trong tiếng Đức là [dans44]drei Viertel[/dans44]
+    “Một phần tư” trong tiếng Đức là [dans44]ein Viertel[/dans44]
+    “Một phần ba” trong tiếng Đức là [dans44]drittel[/dans44]
+    “Hai rưỡi” trong tiếng Đức là [dans44]zweieinhalb[/dans44]
+
+[/dquiz44]

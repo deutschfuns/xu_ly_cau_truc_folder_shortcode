@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.7.4.10" title="Nối các từ bên trái với nghĩa tiếng Việt bên phải"]
+Nối các từ bên trái với nghĩa tiếng Việt bên phải.
+
+[dans31 ans="1-B,2-D,3-A,4-C"]
+1. Zentrum
+2. Kriterium
+3. Praktikum
+4. Gymnasium
+A. thực tập
+B. trung tâm
+C. trường trung học
+D. tiêu chí
+[/dans31]
+
+[/dquiz31]

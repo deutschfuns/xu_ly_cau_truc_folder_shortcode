@@ -1,0 +1,19 @@
+[dquiz46 id="BT5.2.6.2.5" title="Sắp xếp các từ sau để tạo thành câu đúng"]
+    Sắp xếp các từ sau để tạo thành câu đúng.
+    
+    1. ist / Meine / richtig / Meinung / .
+    [dans46]
+    
+    2. wichtig / ist / Die / Entwicklung / sehr / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        1. ist / Meine / richtig / Meinung / . {{input}}
+        2. wichtig / ist / Die / Entwicklung / sehr / . {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

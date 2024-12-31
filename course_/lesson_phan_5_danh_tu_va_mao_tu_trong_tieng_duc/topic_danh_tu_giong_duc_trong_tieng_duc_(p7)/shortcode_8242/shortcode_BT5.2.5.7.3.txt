@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.7.3" title="Chọn từ đúng để hoàn thành câu mô tả"]
+
+    Der ____ ist sehr kalt.
+    [dans3 ans="B"]
+    A. Frühling
+    B. Winter
+    C. Sommer
+    D. Herbst
+    [/dans3]
+
+    Der ____ ist der erste Tag der Woche.
+    [dans3 ans="B"]
+    A. Sonntag
+    B. Montag
+    C. Mittwoch
+    D. Freitag
+    [/dans3]
+
+[/dquiz3]

@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.5.7.7" title="Nối từ tiếng Đức với nghĩa tương ứng"]
+Nối từ tiếng Đức với nghĩa tương ứng.
+
+[dans31 ans="1-B,2-A,3-D,4-C"]
+1. Winter
+2. Sommer
+3. Frühling
+4. Herbst
+A. Mùa hè
+B. Mùa đông
+C. Mùa thu
+D. Mùa xuân
+[/dans31]
+
+[/dquiz31]

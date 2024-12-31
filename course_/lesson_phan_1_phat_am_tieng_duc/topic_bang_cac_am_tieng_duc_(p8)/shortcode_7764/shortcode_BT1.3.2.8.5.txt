@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.8.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.8.5.mp3[/daudio]
+
+[dans44]Liebe[/dans44]
+[dans44]Straße[/dans44]
+[dans44]Katze[/dans44]
+
+[hidden]Nội dung file nghe: Liebe; Straße; Katze[/hidden]
+
+[/dquiz44]

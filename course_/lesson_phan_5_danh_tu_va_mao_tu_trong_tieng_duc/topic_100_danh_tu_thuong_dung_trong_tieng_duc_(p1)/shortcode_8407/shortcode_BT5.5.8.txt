@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.8" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Das ____ im Restaurant schmeckt gut.
+    (Đồ ăn ở nhà hàng rất ngon.)
+    [dans3 ans="B"]
+    A. Zimmer
+    B. Essen
+    C. Straße
+    [/dans3]
+[/dquiz3]

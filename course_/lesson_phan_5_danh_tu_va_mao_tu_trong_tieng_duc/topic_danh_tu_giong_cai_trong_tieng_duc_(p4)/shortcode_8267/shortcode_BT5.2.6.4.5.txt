@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.4.5" title="Ghép từ có đuôi &quot;-ei&quot; với nghĩa tiếng Việt phù hợp"]
+
+[dans31 ans="1-C,2-A,3-D,4-B"]
+1. Bäckerei
+2. Fischerei
+3. Gärtnerei
+4. Schneiderei
+A. Nghề cá
+B. Tiệm may
+C. Tiệm bánh
+D. Vườn ươm
+[/dans31]
+
+[/dquiz31]

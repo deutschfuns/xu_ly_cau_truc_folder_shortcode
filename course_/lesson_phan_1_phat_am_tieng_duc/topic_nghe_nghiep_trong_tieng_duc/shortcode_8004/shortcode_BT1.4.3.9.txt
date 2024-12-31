@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.4.3.9" title="Nghe và sắp xếp từ để tạo thành câu"]
+
+[daudio]BT1.4.3.9.mp3[/daudio]
+
+[dans37 ans="C-B-A"]
+A. Ingenieur
+B. bin
+C. Ich
+[/dans37]
+
+[hidden]Nội dung file nghe: Ich bin Ingenieur[/hidden]
+
+[/dquiz37]

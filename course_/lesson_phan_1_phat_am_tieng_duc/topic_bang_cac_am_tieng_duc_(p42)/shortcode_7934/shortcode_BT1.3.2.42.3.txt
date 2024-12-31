@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.42.3" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.42.3.mp3[/daudio]
+    [hidden]Nội dung file nghe: Nord[/hidden]
+
+    [dans3 ans="C"]
+    A. Động cơ
+    B. Từ vựng
+    C. Phía bắc
+    [/dans3]
+[/dquiz3]

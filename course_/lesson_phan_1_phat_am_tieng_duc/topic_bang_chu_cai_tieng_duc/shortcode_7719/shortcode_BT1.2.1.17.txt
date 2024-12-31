@@ -1,0 +1,14 @@
+[dquiz37 id="BT1.2.1.17" title="Nghe và sắp xếp theo thứ tự"]
+
+[daudio]BT1.2.1.17.mp3[/daudio]
+
+[dans37 ans="B-D-C-A"]
+A. Z
+B. W
+C. Y
+D. X
+[/dans37]
+
+[hidden]Nội dung file nghe: W; X; Y; Z[/hidden]
+
+[/dquiz37]

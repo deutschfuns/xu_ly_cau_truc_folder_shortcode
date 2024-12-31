@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.5.9" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.5.9.mp3[/daudio]
+
+[dans44]Cocktail[/dans44]
+[dans44]Curry[/dans44]
+[dans44]Cool[/dans44]
+
+[hidden]Nội dung file nghe: Cocktail; Curry; Cool[/hidden]
+
+[/dquiz44]

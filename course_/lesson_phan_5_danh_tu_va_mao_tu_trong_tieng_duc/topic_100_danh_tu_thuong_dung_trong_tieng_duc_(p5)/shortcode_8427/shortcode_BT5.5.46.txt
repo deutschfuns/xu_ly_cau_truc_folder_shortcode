@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.46" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Der Sekt
+    [dans46]
+    Das Brot
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Der Sekt
+        {{input}}
+        Das Brot
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

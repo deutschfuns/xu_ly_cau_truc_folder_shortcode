@@ -1,0 +1,13 @@
+[dquiz58 id="BT2.1.3.3" title="Đọc và ghi âm lại nội dung sau" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Wir haben eine große Familie.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Wir haben eine große Familie.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

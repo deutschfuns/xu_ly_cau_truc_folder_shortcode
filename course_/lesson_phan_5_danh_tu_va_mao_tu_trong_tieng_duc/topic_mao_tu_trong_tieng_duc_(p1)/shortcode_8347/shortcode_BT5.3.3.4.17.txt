@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.3.3.4.17" title="Nghe và chọn mạo từ sở hữu đúng để hoàn thành câu."]
+
+[daudio]BT5.3.3.4.17.mp3[/daudio]
+
+Das ist ____ Haus.
+[dans3 ans="B"]
+A. sein
+B. ihr
+C. unser
+[/dans3]
+
+[hidden]Nội dung file nghe: Das ist ihr Haus.[/hidden]
+
+[/dquiz3]

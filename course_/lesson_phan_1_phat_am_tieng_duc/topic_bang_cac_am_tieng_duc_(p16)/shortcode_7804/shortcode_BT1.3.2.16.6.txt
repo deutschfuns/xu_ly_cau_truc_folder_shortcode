@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.16.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-D,4-C"]
+    1. Tal
+    2. Schulter
+    3. Holz
+    4. mal
+    A. Thung lũng
+    B. Vai
+    C. Lần
+    D. Gỗ
+    [/dans31]
+[/dquiz31]

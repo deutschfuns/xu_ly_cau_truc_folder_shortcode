@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.52.1" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.52.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Giấc mơ
+    B. Khô
+    C. Buồn
+    [/dans3]
+    [hidden]Nội dung file nghe: traurig[/hidden]
+[/dquiz3]

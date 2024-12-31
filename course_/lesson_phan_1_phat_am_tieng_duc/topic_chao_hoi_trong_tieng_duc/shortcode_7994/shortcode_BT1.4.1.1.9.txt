@@ -1,0 +1,15 @@
+[dquiz58 id="BT1.4.1.1.9" title="Đọc và ghi âm lại đoạn hội thoại" ]
+
+    Đọc và ghi âm lại đoạn hội thoại sau:
+    A: Kannst du mir helfen? 
+    B: Ja, sicher. Worin kann ich helfen? 
+
+    [hidden]Đọc và ghi âm lại đoạn hội thoại sau:
+    A: Kannst du mir helfen? 
+    B: Ja, sicher. Worin kann ich helfen?[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+
+[/dquiz58]

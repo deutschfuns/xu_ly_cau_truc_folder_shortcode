@@ -1,0 +1,12 @@
+[dquiz3 id="BT4.2.2.8" title="Chọn đáp án đúng"]
+    [daudio]BT4.2.2.8.mp3[/daudio]
+
+    Người nói thăm ai?
+    [dans3 ans="B"]
+    A. Bạn bè
+    B. Bố mẹ
+    C. Anh chị
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Er besucht seine Eltern.[/hidden]
+[/dquiz3]

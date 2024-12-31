@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.6.7" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.6.7.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Produktion[/dans44] der Autos hat begonnen.
+
+    [hidden]Nội dung file nghe: Die Produktion der Autos hat begonnen.[/hidden]
+
+[/dquiz44]

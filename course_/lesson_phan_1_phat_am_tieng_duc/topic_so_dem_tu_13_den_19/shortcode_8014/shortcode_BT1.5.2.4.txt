@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.5.2.4" title="Đọc các số sau đây và nối chúng với nghĩa phù hợp"]
+
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. dreizehn
+    2. neunzehn
+    3. fünfzehn
+    4. sechzehn
+    A. 19
+    B. 13
+    C. 16
+    D. 15
+    [/dans31]
+
+[/dquiz31]

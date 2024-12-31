@@ -1,0 +1,7 @@
+[dquiz44 id="BT3.1.2.4" title="Điền vào chỗ trống lời chào hoặc tạm biệt phù hợp với ngữ cảnh sau" case-sensitive="false"]
+
+    Buổi tối, bạn nói “[dans44]Guten Abend[/dans44]” để chào khi gặp ai đó.
+    Khi kết thúc cuộc trò chuyện qua điện thoại, bạn nói “[dans44]Auf Wiederhören[/dans44]”.
+    Trước khi đi ngủ, bạn nói “[dans44]Gute Nacht[/dans44]” để chúc người khác ngủ ngon.
+
+[/dquiz44]

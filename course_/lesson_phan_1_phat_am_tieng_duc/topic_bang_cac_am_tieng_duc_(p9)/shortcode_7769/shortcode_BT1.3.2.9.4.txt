@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.9.4" title="Nghe và chọn nghĩa tiếng Việt"]
+    [daudio]BT1.3.2.9.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Familie[/hidden]
+
+    [dans3 ans="C"]
+    A. Máy bay
+    B. Con cá
+    C. Gia đình
+    [/dans3]
+[/dquiz3]

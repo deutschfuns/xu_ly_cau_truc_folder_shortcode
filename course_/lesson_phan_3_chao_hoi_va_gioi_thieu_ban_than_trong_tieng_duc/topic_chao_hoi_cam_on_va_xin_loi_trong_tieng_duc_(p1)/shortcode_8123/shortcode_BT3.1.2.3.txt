@@ -1,0 +1,12 @@
+[dquiz31 id="BT3.1.2.3" title="Nối câu chào và tạm biệt với nghĩa tiếng Việt tương ứng"]
+
+    [dans31 ans="1-C,2-A,3-B"]
+    1. Tschüss
+    2. Auf Wiedersehen
+    3. Guten Tag
+    A. Hẹn gặp lại
+    B. Xin chào
+    C. Tạm biệt
+    [/dans31]
+
+[/dquiz31]

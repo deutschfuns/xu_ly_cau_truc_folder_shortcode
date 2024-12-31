@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.4.12" title="Chọn từ thuộc giống đực trong các câu dưới đây"]
+    [dans3 ans="C"]
+    A. Sonne
+    B. Schule
+    C. Stuhl
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.4.1.33" title="Nghe câu và chọn dạng số nhiều đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.4.1.33.mp3[/daudio]
+
+    Die ____ sind sehr interessant.
+    [dans3 ans="B"]
+    A. Museen
+    B. Themen
+    C. Globen
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Themen sind sehr interessant.[/hidden]
+
+[/dquiz3]

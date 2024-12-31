@@ -1,0 +1,13 @@
+[dquiz46 id="BT5.5.53" title="Sắp xếp từ thành câu đúng"]
+    Sắp xếp các từ sau để tạo thành câu đúng.
+    passt / Armband / gut / Das / deinem / zu / Outfit.
+    [dans46]
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        passt / Armband / gut / Das / deinem / zu / Outfit.
+        {{input}}
+    [/hidden]
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.3.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.3.3.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Erklärung
+    B. Gärtnerei
+    C. Pfänder
+    [/dans3]
+    [hidden]Nội dung file nghe: Gärtnerei[/hidden]
+[/dquiz3]

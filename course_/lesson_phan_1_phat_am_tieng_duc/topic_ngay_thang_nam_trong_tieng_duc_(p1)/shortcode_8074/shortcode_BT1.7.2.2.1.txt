@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.7.2.2.1" title="Đọc các câu sau và chọn câu đúng với cách dùng ngày tháng trong tiếng Đức."]
+    [daudio]V1.7.1-2.mp4[/daudio]
+
+    [dans3 ans="C"]
+    A. Heute ist fünfter Oktober.
+    B. Heute ist der fünfte Oktober.
+    C. Es war ein fünfter Zehnter.
+    D. Wir treffen uns an fünfter Zehnter.
+    [/dans3]
+
+[/dquiz3]

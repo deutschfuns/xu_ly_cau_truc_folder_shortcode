@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.39.1" title="Từ nào sau đây có nghĩa là &quot;giấy&quot;?"]
+
+[daudio]V1.3.2_39.mp4[/daudio]
+
+[dans3 ans="B"]
+A. Bier
+B. Papier
+C. Tier
+[/dans3]
+
+[/dquiz3]

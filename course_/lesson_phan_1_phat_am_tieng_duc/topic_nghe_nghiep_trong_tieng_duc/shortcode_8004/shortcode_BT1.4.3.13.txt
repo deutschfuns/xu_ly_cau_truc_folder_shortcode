@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.3.13" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.3.13.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Koch
+    B. Lehrerin
+    C. Polizist
+    [/dans3]
+    [hidden]Nội dung file nghe: Polizist[/hidden]
+[/dquiz3]

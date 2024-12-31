@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.37.5" title="Chọn từ phù hợp để hoàn thành câu"]
+    Anh ấy rất ___ khi thấy kết quả không như ý muốn.
+    [dans3 ans="D"]
+    A. laufen
+    B. kaufen
+    C. Augen
+    D. sauer
+    [/dans3]
+[/dquiz3]

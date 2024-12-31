@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.7.9" title="Chọn từ đúng dựa trên mô tả"]
+
+    Ngày đầu tiên của tuần làm việc.
+    [dans3 ans="C"]
+    A. Sonntag
+    B. Freitag
+    C. Montag
+    D. Donnerstag
+    [/dans3]
+
+    Mùa bắt đầu vào tháng 3.
+    [dans3 ans="B"]
+    A. Sommer
+    B. Frühling
+    C. Herbst
+    D. Winter
+    [/dans3]
+
+[/dquiz3]

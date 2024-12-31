@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.9.9" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.9.9.mp3[/daudio]
+
+    [dans37 ans="B-C-A-D"]
+    A. ein
+    B. Ich
+    C. habe
+    D. Foto
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich habe ein Foto[/hidden]
+[/dquiz37]

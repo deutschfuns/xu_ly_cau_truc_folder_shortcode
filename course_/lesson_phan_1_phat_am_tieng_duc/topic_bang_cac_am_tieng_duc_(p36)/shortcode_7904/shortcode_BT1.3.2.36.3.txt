@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.36.3" title="Đọc  và nối các từ sau đây với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C,4-D"]
+    1. Kaiser
+    2. Wein
+    3. Kleidung
+    4. Eiswürfel
+    A. Rượu vang
+    B. Hoàng đế
+    C. Quần áo
+    D. Viên đá lạnh
+    [/dans31]
+[/dquiz31]

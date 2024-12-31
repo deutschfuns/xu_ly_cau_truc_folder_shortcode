@@ -1,0 +1,6 @@
+[dquiz44 id="BT1.7.2.2.3" title="Điền từ thích hợp vào chỗ trống dựa trên nội dung đã học" case-sensitive="false"]
+
+    Hôm nay là ngày mùng 5 tháng 10
+    Heute ist der [dans44]fünfte Zehnte[/dans44].
+
+[/dquiz44]

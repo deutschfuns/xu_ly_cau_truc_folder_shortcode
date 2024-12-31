@@ -1,0 +1,7 @@
+[dquiz3 id="BT4.2.6.9" title="Đọc câu sau và chọn đáp án đúng để hoàn thành câu."]
+
+Er [dans3 ans="mag"] (mögen) Musik.
+Ich [dans3 ans="weiß"] (wissen) die Antwort.
+Wir [dans3 ans="dürfen"] (dürfen) hier bleiben.
+
+[/dquiz3]

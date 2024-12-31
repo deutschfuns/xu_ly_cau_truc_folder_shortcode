@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.20.8" title="Chọn từ phù hợp với nghĩa của từ sau: &quot;sân&quot;"]
+
+[dans3 ans="C"]
+A. Brot
+B. rot
+C. Hof
+[/dans3]
+
+[/dquiz3]

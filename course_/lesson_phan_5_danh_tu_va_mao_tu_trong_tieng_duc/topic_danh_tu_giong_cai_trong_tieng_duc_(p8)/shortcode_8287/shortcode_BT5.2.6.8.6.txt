@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.6.8.6" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.8.6.mp3[/daudio]
+
+    Die [dans44]Grammatik[/dans44] ist wichtig beim Deutschlernen.
+
+    [hidden]Nội dung file nghe: Die Grammatik ist wichtig beim Deutschlernen.[/hidden]
+
+[/dquiz44]

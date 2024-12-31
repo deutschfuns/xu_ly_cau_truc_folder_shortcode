@@ -1,0 +1,9 @@
+[dquiz44 id="BT4.2.4.3" title="Nghe và điền từ để hoàn thành câu"]
+
+[daudio]BT4.2.4.3.mp3[/daudio]
+
+Er [dans44]gibt[/dans44] mir das Buch.
+
+[hidden]Nội dung file nghe: Er gibt mir das Buch.[/hidden]
+
+[/dquiz44]

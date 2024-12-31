@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.20.1" title="Chọn đáp án đúng để hoàn thành câu sau"]
+    [daudio]V1.3.2_20.mp4[/daudio]
+
+    Tôi ___ khi gặp lại bạn.
+    [dans3 ans="C"]
+    A. Boot
+    B. Hof
+    C. froh
+    [/dans3]
+[/dquiz3]

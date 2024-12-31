@@ -1,0 +1,14 @@
+[dquiz44 id="BT5.2.6.3.9" title="Nghe và điền từ vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.2.6.3.9.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Ich habe viel [dans44]Dankbarkeit[/dans44] für deine Hilfe.
+    In dieser Stadt gibt es viel [dans44]Geschwindigkeit[/dans44].
+
+    [hidden]Nội dung file nghe:
+    Ich habe viel Dankbarkeit für deine Hilfe.
+    In der Stadt gibt es viel Geschwindigkeit.[/hidden]
+
+[/dquiz44]

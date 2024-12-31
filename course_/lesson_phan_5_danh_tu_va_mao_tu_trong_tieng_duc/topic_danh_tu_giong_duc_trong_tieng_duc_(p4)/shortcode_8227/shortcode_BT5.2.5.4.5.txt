@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.5.4.5" title="Nghe và viết lại từ đã nghe"]
+
+    [daudio]BT5.2.5.4.5.mp3[/daudio]
+
+    [dans44]Kommunismus[/dans44]
+
+    [hidden]Nội dung file nghe: Kommunismus[/hidden]
+
+[/dquiz44]

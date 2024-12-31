@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.11.8" title="Chọn từ đúng để hoàn thành câu sau:"]
+    Giáo viên yêu cầu tôi lấy __ ra để ghi chép.
+    [dans3 ans="B"]
+    A. Hilfe
+    B. Heft
+    C. Haar
+    [/dans3]
+[/dquiz3]

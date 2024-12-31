@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.14.3" title="Từ nào sau đây có nghĩa là &quot;vua&quot;?"]
+    [dans3 ans="B"]
+    A. Kuchen
+    B. König
+    C. Karte
+    [/dans3]
+[/dquiz3]

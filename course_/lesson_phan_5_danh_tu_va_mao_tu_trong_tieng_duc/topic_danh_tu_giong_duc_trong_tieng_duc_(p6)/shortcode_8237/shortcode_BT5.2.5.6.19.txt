@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.5.6.19" title="Nối từ tiếng Đức với nghề nghiệp tương ứng"]
+    [dans31 ans="1-A,2-B,3-C,4-D"]
+    1. Sänger
+    2. Pilot
+    3. Journalist
+    4. Maurer
+    A. Ca sĩ
+    B. Phi công
+    C. Nhà báo
+    D. Thợ xây
+    [/dans31]
+[/dquiz31]

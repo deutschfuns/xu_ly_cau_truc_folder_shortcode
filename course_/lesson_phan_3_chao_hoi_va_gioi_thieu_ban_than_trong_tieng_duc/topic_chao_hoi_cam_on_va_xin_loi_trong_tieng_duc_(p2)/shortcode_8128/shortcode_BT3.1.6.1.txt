@@ -1,0 +1,17 @@
+[dquiz3 id="BT3.1.6.1" title="Hãy chọn câu cảm ơn phù hợp nhất với mỗi tình huống sau đây"]
+
+    Bạn nhận được một món quà từ bạn bè.
+    [dans3 ans="C"]
+    A. Entschuldigung
+    B. Wie bitte!
+    C. Vielen Dank
+    [/dans3]
+
+    Bạn muốn thể hiện sự chân thành khi cảm ơn ai đó đã giúp bạn nhiều.
+    [dans3 ans="B"]
+    A. Entschuldige
+    B. Ich danke Ihnen ganz herzlich dafür
+    C. Kein Problem
+    [/dans3]
+
+[/dquiz3]

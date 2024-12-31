@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.14.10" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.14.10.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="C,D"]
+A. Kuchen
+B. Karte
+C. Kind
+D. Kaffee
+E. kalt
+[/dans19]
+
+[hidden]Nội dung file nghe: Kind; Kaffee[/hidden]
+
+[/dquiz19]

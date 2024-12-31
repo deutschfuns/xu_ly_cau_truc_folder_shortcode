@@ -1,0 +1,17 @@
+[dquiz58 id="BT5.2.5.8.7" title="Đọc và ghi âm lại các từ vựng sau đây"]
+
+    Đọc và ghi âm lại các từ vựng sau đây.
+    Glühwein
+    Schwarztee
+    Rotwein
+
+    [hidden]Đọc và ghi âm lại các từ vựng sau đây.
+    Glühwein
+    Schwarztee
+    Rotwein[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

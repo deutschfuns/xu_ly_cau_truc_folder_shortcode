@@ -1,0 +1,25 @@
+[dquiz58 id="BT5.3.3.4.10" title="Nói - Luyện tập mạo từ xác định" ]
+
+    Đọc và ghi âm lại các trường hợp sử dụng mạo từ sau:
+    Die Wohnung
+    Eine Wohnung
+    Meine Wohnung
+    Deine Wohnung
+    Ihre Wohnung
+    Unsere Wohnung
+    Ihre Wohnung
+
+    [hidden]Đọc và ghi âm lại các trường hợp sử dụng mạo từ sau:
+    Die Wohnung
+    Eine Wohnung
+    Meine Wohnung
+    Deine Wohnung
+    Ihre Wohnung
+    Unsere Wohnung
+    Ihre Wohnung[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

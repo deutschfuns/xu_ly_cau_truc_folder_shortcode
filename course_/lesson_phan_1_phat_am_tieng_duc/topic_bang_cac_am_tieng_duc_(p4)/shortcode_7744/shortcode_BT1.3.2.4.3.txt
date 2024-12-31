@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.4.3" title="Từ nào sau đây có nghĩa là &quot;quả địa cầu&quot;?"]
+    [dans3 ans="C"]
+    A. Ball
+    B. Bein
+    C. Globus
+    [/dans3]
+[/dquiz3]

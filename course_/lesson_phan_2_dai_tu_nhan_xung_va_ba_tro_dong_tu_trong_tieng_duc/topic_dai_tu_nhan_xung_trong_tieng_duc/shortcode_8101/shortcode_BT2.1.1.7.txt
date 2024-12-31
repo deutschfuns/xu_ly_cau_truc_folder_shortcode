@@ -1,0 +1,9 @@
+[dquiz3 id="BT2.1.1.7" title="Nghe và chọn đại từ nhân xưng đúng"]
+    [daudio]BT2.1.1.7.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Du
+    B. Ich
+    C. Er
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich bin müde.[/hidden]
+[/dquiz3]

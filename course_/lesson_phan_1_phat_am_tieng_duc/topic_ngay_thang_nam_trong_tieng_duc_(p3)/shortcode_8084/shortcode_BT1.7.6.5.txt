@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.7.6.5" title="Luyện nói"]
+
+    Hãy ghi âm lại cách đọc của năm sinh của bạn bằng tiếng Đức.
+    Ví dụ: Ich bin im Jahr neunzehn-hundert-neunzig geboren.
+
+    [hidden]Hãy ghi âm lại cách đọc của năm sinh của bạn bằng tiếng Đức.
+    Ví dụ: Ich bin im Jahr neunzehn-hundert-neunzig geboren.[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

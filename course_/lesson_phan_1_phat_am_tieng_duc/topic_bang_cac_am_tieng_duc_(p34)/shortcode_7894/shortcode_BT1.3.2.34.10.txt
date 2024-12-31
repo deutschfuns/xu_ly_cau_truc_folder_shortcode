@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.34.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-B,3-A,4-D"]
+    1. verlangen
+    2. sterben
+    3. Lehrer
+    4. Wert
+    A. Thầy giáo
+    B. Chết
+    C. Yêu cầu
+    D. Giá trị
+    [/dans31]
+[/dquiz31]

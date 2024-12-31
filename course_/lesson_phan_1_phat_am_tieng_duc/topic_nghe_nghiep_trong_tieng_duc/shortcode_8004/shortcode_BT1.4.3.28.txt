@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.4.3.28" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.3.28.mp3[/daudio]
+    [hidden]Nội dung file nghe: Tischler[/hidden]
+    
+    [dans3 ans="B"]
+    A. Friseur
+    B. Tischler
+    C. Maler
+    [/dans3]
+[/dquiz3]

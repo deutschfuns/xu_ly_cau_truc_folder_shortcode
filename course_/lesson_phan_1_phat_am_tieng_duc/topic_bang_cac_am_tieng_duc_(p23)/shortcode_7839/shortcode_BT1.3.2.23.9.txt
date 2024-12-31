@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.23.9" title="Chọn từ phù hợp với nghĩa của từ sau: áo len"]
+    [dans3 ans="C"]
+    A. Punkt
+    B. Apfel
+    C. Pullover
+    [/dans3]
+[/dquiz3]

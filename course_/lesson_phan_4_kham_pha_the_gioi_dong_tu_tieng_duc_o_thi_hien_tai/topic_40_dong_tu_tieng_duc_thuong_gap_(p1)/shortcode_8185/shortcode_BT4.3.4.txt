@@ -1,0 +1,6 @@
+[dquiz44 id="BT4.3.4" title="Chọn và chia động từ phù hợp để hoàn thành câu." case-sensitive="false"]
+
+    Wir [dans44]sehen[/dans44] (sehen/machen) einen Film.
+    Du [dans44]schläfst[/dans44] (schlafen/lesen) sehr spät am Abend.
+
+[/dquiz44]

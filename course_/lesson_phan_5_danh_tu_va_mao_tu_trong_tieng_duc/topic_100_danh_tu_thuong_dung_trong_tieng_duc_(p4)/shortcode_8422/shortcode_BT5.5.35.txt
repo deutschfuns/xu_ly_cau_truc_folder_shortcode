@@ -1,0 +1,19 @@
+[dquiz46 id="BT5.5.35" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Die Frist
+    [dans46]
+    Der Vertrag
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Die Frist {{input}}
+        Der Vertrag {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

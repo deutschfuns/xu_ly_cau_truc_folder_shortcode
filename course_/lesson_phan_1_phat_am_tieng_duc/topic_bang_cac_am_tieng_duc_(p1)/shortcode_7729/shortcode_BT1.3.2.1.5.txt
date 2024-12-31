@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.1.5" title="Nghe và chọn những đáp án đúng sau đây"]
+
+    [daudio file="BT1.3.2.1.5.mp3"]
+
+    Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+    [dans19 ans="A,C"]
+    A. Karte
+    B. Hase
+    C. Name
+    D. Wagen
+    E. Salat
+    [/dans19]
+
+    [hidden]Nội dung file nghe: Karte; Name[/hidden]
+
+[/dquiz19]

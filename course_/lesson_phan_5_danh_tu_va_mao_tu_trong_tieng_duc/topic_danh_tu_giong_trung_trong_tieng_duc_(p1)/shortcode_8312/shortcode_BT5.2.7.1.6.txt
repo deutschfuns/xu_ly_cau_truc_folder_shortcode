@@ -1,0 +1,14 @@
+[dquiz37 id="BT5.2.7.1.6" title="Sắp xếp các từ sau để tạo thành câu đúng."]
+
+[daudio]BT5.2.7.1.6.mp3[/daudio]
+
+[dans37 ans="B-D-A-C"]
+A. ist
+B. Das
+C. klein
+D. Häuschen
+[/dans37]
+
+[hidden]Nội dung file nghe: Das Häuschen ist klein.[/hidden]
+
+[/dquiz37]

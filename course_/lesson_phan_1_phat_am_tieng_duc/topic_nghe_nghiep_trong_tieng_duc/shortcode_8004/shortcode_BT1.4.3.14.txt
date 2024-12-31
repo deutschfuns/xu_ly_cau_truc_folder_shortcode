@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.4.3.14" title="Hãy điền dạng đúng của từ vào chỗ trống"]
+Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+1. Kỹ sư nam - [dans44]Ingenieur[/dans44].
+2. Luật sư nữ - [dans44]Anwältin[/dans44].
+3. Phi công nữ - [dans44]Pilotin[/dans44].
+
+[hidden]Hãy điền dạng đúng của từ vào chỗ trống: (1) Kỹ sư nam - {{input}}. (2) Luật sư nữ - {{input}}. (3) Phi công nữ - {{input}}.[/hidden]
+[/dquiz44]

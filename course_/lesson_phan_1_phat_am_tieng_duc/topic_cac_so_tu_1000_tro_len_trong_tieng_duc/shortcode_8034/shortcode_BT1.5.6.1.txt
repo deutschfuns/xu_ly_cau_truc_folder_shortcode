@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.5.6.1" title="Nối các số sau đây với nghĩa phù hợp"]
+Nối các số sau đây với nghĩa phù hợp:
+
+[dans31 ans="1-C,2-A,3-B,4-D"]
+1. eine Million
+2. zwanzigtausend
+3. neunhunderttausend
+4. eine Milliarde
+A. 20.000
+B. 900.000
+C. 1.000.000
+D. 1.000.000.000
+[/dans31]
+
+[/dquiz31]

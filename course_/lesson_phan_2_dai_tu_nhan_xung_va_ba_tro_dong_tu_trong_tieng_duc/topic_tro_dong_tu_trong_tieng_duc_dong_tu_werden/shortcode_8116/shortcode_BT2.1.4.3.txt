@@ -1,0 +1,17 @@
+[dquiz46 id="BT2.1.4.3" title="Sắp xếp từ để tạo thành câu"]
+
+    Sắp xếp các từ sau thành câu hoàn chỉnh:
+    Lehrer / wird / ein / Er
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau thành câu hoàn chỉnh:
+        Lehrer / wird / ein / Er
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

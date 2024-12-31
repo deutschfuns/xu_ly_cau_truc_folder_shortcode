@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.19.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Name
+    2. Nacht
+    3. Natur
+    4. Nebel
+    A. Đêm
+    B. Tên
+    C. Sương mù
+    D. Thiên nhiên
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.45.10" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.45.10.mp3[/daudio]
+    [dans3 ans="B"]
+    A. schreiben
+    B. schon
+    C. Schuhe
+    [/dans3]
+    [hidden]Nội dung file nghe: schon[/hidden]
+[/dquiz3]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.6.12" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.5.6.12.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Chó cái
+    B. Chó đực
+    C. Mèo cái
+    D. Mèo đực
+    [/dans3]
+    [hidden]Nội dung file nghe: Rüde[/hidden]
+[/dquiz3]

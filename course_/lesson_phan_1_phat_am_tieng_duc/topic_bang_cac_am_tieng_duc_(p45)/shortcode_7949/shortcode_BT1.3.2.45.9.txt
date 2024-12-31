@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.45.9" title="Chọn từ phù hợp để điền vào câu sau"]
+    Con tàu màu __.
+    [dans3 ans="B"]
+    A. schnell
+    B. schwarz
+    C. Schild
+    [/dans3]
+[/dquiz3]

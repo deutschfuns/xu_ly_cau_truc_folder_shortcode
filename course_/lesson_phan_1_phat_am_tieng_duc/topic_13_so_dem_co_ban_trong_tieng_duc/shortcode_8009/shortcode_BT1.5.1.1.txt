@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.5.1.1" title="Sắp xếp các số đếm sau theo đúng thứ tự"]
+
+[dans37 ans="D-B-C-A"]
+
+eins
+drei
+fünf
+neun
+
+[/dans37]
+
+[/dquiz37]

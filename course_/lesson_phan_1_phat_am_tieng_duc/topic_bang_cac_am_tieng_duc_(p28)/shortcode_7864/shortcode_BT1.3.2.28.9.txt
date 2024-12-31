@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.28.9" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-C,4-D"]
+    1. Tasche
+    2. Tag
+    3. Traum
+    4. Tür
+    A. Cái túi
+    B. Ngày
+    C. Giấc mơ
+    D. Cửa
+    [/dans31]
+[/dquiz31]

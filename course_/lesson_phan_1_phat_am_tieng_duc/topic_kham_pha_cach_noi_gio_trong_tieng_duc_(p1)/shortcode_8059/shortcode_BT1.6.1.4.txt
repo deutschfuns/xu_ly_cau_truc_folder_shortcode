@@ -1,0 +1,24 @@
+[dquiz46 id="BT1.6.1.4" title="Viết câu trả lời đúng theo cách nói giờ dân gian"]
+Viết lại các câu sau theo cách nói giờ dân gian bằng tiếng Đức
+
+Bây giờ là 6:15.
+[dans46]
+
+Bây giờ là 8:30.
+[dans46]
+
+Bây giờ là 4:50.
+[dans46]
+
+[hidden]
+Viết lại các câu sau theo cách nói giờ dân gian bằng tiếng Đức
+Bây giờ là 6:15.{{input}}
+Bây giờ là 8:30.{{input}}
+Bây giờ là 4:50.{{input}}
+[/hidden]
+
+[prompt]
+[sc name="prompt46"][/sc]
+[/prompt]
+
+[/dquiz46]

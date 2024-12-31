@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.37.6" title="Từ nào sau đây là động từ?"]
+    [dans3 ans="C"]
+    A. Auto
+    B. Frau
+    C. kaufen
+    D. Baum
+    [/dans3]
+[/dquiz3]

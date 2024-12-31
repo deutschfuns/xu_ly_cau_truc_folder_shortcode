@@ -1,0 +1,17 @@
+[dquiz58 id="BT5.2.6.4.7" title="Đọc và ghi âm lại các từ vựng sau" ]
+
+    Đọc và ghi âm lại các từ vựng sau.
+    Bäckerei
+    Fischerei
+    Metzgerei
+
+    [hidden]Đọc và ghi âm lại các từ vựng sau.
+    Bäckerei
+    Fischerei
+    Metzgerei[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

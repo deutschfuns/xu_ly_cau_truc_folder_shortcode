@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.7.3.6" title="Đọc và ghi âm lại các danh từ sau" ]
+
+    Đọc và ghi âm lại các danh từ sau:
+    Argument
+    Regiment
+    Engagement
+    Monument
+
+    [hidden]Đọc và ghi âm lại các danh từ sau:
+    Argument
+    Regiment
+    Engagement
+    Monument[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

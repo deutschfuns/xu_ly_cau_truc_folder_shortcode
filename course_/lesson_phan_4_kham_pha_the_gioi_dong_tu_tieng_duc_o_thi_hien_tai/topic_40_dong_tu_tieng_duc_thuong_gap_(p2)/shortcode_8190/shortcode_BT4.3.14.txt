@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.3.14" title="Chọn động từ đúng để hoàn thành các câu sau."]
+
+Sie ___ das Fenster.
+[dans3 ans="C"]
+A. öffne
+B. öffnest
+C. öffnet
+[/dans3]
+
+Du ___ gut Deutsch.
+[dans3 ans="B"]
+A. erklärst
+B. sprichst
+C. schließt
+[/dans3]
+
+[/dquiz3]

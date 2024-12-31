@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.7.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.7.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Aktivität
+    B. Solidarität
+    C. Universität
+    D. Spezialität
+    [/dans3]
+    [hidden]Nội dung file nghe: Universität[/hidden]
+[/dquiz3]

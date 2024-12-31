@@ -1,0 +1,23 @@
+[dquiz46 id="BT4.2.4.6" title="Viết lại câu sao cho đúng với động từ chia ở thì hiện tại"]
+
+    Viết lại các câu sau sao cho đúng với động từ chia ở thì hiện tại.
+
+    Du / geben / das Buch
+    [dans46]
+
+    Er / fallen / vom / Stuhl
+    [dans46]
+
+    [hidden]
+        Viết lại các câu sau sao cho đúng với động từ chia ở thì hiện tại.
+        Du / geben / das Buch
+        {{input}}
+        Er / fallen / vom / Stuhl
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

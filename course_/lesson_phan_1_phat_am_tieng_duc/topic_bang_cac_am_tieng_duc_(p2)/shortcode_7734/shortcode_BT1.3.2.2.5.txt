@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.2.5" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.2.5.mp3[/daudio]
+    [hidden]Nội dung file nghe: satt[/hidden]
+    [dans3 ans="C"]
+    A. Kamm
+    B. Schlamm
+    C. satt
+    [/dans3]
+[/dquiz3]

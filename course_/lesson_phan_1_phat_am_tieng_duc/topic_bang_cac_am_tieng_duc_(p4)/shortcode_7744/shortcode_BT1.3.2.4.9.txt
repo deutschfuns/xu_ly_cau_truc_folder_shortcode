@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.4.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.4.9.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Banane
+    B. Zebra
+    C. Tauben
+    [/dans3]
+    [hidden]Nội dung file nghe: Zebra[/hidden]
+[/dquiz3]

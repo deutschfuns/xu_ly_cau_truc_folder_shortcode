@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.2.4.20" title="Viết từ vựng"]
+Viết một danh từ giống đực tiếng Đức phù hợp cho mỗi đuôi từ đã cho bên dưới.
+
+-uss → [dans46]
+-el → [dans46]
+-amm → [dans46]
+-aum → [dans46]
+-hl → [dans46]
+-ast → [dans46]
+-ock → [dans46]
+-er → [dans46]
+-ken → [dans46]
+-eil → [dans46]
+
+[hidden]Viết một danh từ giống đực tiếng Đức phù hợp cho mỗi đuôi từ đã cho bên dưới.{{input}}{{input}}{{input}}{{input}}{{input}}{{input}}{{input}}{{input}}{{input}}{{input}}[/hidden]
+
+[prompt]
+    [sc name="prompt46"][/sc]
+[/prompt]
+
+[/dquiz46]

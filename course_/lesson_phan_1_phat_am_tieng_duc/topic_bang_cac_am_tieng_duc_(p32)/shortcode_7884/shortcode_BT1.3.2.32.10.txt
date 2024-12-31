@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.32.10" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.32.10.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Wasser
+    B. wissen
+    C. Wort
+    [/dans3]
+    [hidden]Nội dung file nghe: wissen[/hidden]
+[/dquiz3]

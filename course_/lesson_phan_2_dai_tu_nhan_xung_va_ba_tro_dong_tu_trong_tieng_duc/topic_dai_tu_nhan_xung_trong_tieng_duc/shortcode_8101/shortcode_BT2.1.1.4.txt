@@ -1,0 +1,24 @@
+[dquiz3 id="BT2.1.1.4" title="Điền đại từ nhân xưng thích hợp để điền vào chỗ trống."]
+
+___ bin müde. (Tôi mệt.)
+[dans3 ans="B"]
+A. Du
+B. Ich
+C. Wir
+[/dans3]
+
+___ bist mein Freund. (Bạn là bạn của tôi.)
+[dans3 ans="A"]
+A. Du
+B. Sie
+C. Er
+[/dans3]
+
+___ sind Lehrer. (Họ là giáo viên.)
+[dans3 ans="C"]
+A. Er
+B. Es
+C. Sie
+[/dans3]
+
+[/dquiz3]

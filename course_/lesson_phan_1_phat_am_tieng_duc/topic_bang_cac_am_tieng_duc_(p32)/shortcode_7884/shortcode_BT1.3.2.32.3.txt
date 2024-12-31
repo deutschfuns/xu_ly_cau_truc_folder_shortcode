@@ -1,0 +1,12 @@
+[dquiz58 id="BT1.3.2.32.3" title="Đọc và ghi âm lại từ" ]
+
+Hãy đọc và ghi âm lại từ sau:
+Wochenende
+
+[hidden]Hãy đọc và ghi âm lại từ sau: Wochenende[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

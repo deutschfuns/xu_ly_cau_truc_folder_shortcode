@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.7.8.2" title="Chọn câu đúng với ngày lễ trong tiếng Đức."]
+    [dans3 ans="B"]
+    A. Weihnachten là Tết Trung Thu
+    B. Weihnachten là Giáng sinh
+    C. Neujahr là Đêm giao thừa
+    D. Ostern là Tết Nguyên Đán
+    [/dans3]
+[/dquiz3]

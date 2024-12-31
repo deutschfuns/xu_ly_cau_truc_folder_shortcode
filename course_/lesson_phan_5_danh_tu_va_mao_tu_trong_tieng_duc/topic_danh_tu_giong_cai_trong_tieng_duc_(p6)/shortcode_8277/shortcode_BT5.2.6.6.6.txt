@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.6.6" title="Nghe từ và nối với nghĩa tiếng Việt phù hợp"]
+    [daudio]BT5.2.6.6.6.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Khí thải
+    B. Trầm cảm
+    C. Cách mạng
+    D. Tình huống
+    [/dans3]
+    [hidden]Nội dung file nghe: Depression[/hidden]
+[/dquiz3]

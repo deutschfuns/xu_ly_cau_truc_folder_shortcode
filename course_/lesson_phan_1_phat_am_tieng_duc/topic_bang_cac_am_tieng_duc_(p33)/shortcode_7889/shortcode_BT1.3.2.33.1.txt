@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.33.1" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.33.1.mp3[/daudio]
+    [hidden]Nội dung file nghe: Zeit[/hidden]
+
+    [dans3 ans="C"]
+    A. Đường
+    B. Răng
+    C. Thời gian
+    [/dans3]
+[/dquiz3]

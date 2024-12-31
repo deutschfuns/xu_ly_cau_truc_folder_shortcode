@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.12.4" title="Nghe câu và chọn từ thích hợp để hoàn thành câu sau"]
+    [daudio]BT5.2.6.12.4.mp3[/daudio]
+    Ich esse eine ____.
+    [dans3 ans="C"]
+    A. Pomelo
+    B. Traube
+    C. Banane
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich esse eine Banane.[/hidden]
+[/dquiz3]

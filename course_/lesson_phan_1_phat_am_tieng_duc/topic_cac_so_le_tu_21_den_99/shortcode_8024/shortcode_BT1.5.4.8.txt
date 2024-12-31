@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.4.8" title="Nghe và chọn nghĩa tiếng Đức của số 58"]
+    [daudio]BT1.5.4.8.mp3[/daudio]
+    [hidden]Nội dung file nghe: achtundfünfzig[/hidden]
+
+    [dans3 ans="C"]
+    A. siebenundachtzig
+    B. achtunddreißig
+    C. achtundfünfzig
+    [/dans3]
+[/dquiz3]

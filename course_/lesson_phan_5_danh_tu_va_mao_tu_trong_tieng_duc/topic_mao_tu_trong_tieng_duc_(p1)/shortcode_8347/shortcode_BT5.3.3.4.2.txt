@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.3.3.4.2" title="Nghe và chọn mạo từ xác định đúng để hoàn thành câu."]
+
+    [daudio]BT5.3.3.4.2.mp3[/daudio]
+
+    ____ Tische stehen im Esszimmer.
+    [dans3 ans="C"]
+    A. Der
+    B. Das
+    C. Die
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Tische stehen im Esszimmer.[/hidden]
+
+[/dquiz3]

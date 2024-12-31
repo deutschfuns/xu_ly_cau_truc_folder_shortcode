@@ -1,0 +1,15 @@
+[dquiz46 id="BT2.1.2.7" title="Trả lời câu hỏi bằng tiếng Đức"]
+    Hãy đọc câu hỏi và trả lời các câu hỏi sau bằng tiếng Đức.
+    Bist du zu Hause?
+    [dans46]
+    Sind Sie Ärztin?
+    [dans46]
+    [hidden]
+        Hãy đọc câu hỏi và trả lời các câu hỏi sau bằng tiếng Đức.
+        Bist du zu Hause?{{input}}
+        Sind Sie Ärztin?{{input}}
+    [/hidden]
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

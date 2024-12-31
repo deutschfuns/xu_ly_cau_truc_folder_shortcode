@@ -1,0 +1,13 @@
+[dquiz58 id="BT4.3.13" title="Đọc và ghi âm lại từ" ]
+
+    Đọc và ghi âm lại câu có sử dụng động từ “antworten” sau:
+    Er antwortet schnell.
+
+    [hidden]Đọc và ghi âm lại câu có sử dụng động từ “antworten” sau:
+    Er antwortet schnell.[/hidden]
+
+    [prompt]
+        [sc name="prompt54"][/sc]
+    [/prompt]
+
+[/dquiz58]

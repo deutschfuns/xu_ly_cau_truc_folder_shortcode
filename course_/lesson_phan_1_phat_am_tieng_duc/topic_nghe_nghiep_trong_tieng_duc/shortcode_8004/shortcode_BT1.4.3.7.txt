@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.4.3.7" title="Từ nào sau đây có nghĩa là &quot;Lehrer&quot;?"]
+    [dans3 ans="A"]
+    A. Giáo viên nam
+    B. Kỹ sư nữ
+    C. Đầu bếp nữ
+    [/dans3]
+[/dquiz3]

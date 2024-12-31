@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.3.2.45.8" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.45.8.mp3[/daudio]
+
+    [dans37 ans="D-E-B-C-A"]
+    A. Tisch
+    B. auf
+    C. dem
+    D. Ich
+    E. schreibe
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich schreibe auf dem Tisch.[/hidden]
+[/dquiz37]

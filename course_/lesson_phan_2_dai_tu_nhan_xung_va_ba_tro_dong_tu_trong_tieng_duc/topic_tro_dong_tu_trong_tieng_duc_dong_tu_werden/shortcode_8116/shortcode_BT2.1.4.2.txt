@@ -1,0 +1,8 @@
+[dquiz3 id="BT2.1.4.2" title="Chọn từ đúng để hoàn thành câu sau:"]
+Ich ______ bald 30 Jahre alt.
+[dans3 ans="B"]
+A. wirst
+B. werde
+C. wird
+[/dans3]
+[/dquiz3]

@@ -1,0 +1,7 @@
+[dquiz44 id="BT1.5.8.3.5" title="Viết dạng số thứ tự của các số sau đây"]
+
+(1) 1 -> [dans44]erste[/dans44]
+(2) 3 -> [dans44]dritte[/dans44]
+(3) 10 -> [dans44]zehnte[/dans44]
+
+[/dquiz44]

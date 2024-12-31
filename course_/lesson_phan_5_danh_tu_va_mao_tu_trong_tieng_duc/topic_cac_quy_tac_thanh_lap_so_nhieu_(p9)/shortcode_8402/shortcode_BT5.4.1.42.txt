@@ -1,0 +1,19 @@
+[dquiz46 id="BT5.4.1.42" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau ở dạng số nhiều:
+    Die Personalien 
+    [dans46]
+    Die Einkünfte 
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau ở dạng số nhiều:
+        Die Personalien {{input}}
+        Die Einkünfte {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

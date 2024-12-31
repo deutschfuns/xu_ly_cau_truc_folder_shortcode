@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.37.3" title="Nghe và chọn từ đúng với nghĩa &quot;mắt&quot;"]
+    [daudio]BT1.3.2.37.3.mp3[/daudio]
+    [hidden]Nội dung file nghe: Augen[/hidden]
+    
+    [dans3 ans="D"]
+    A. Baum
+    B. Auto
+    C. kaufen
+    D. Augen
+    [/dans3]
+[/dquiz3]

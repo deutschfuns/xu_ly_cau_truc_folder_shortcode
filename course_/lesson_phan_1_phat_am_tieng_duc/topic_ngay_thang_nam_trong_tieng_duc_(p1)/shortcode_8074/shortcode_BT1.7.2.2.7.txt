@@ -1,0 +1,8 @@
+[dquiz46 id="BT1.7.2.2.7" title="Luyện viết"]
+    Hãy viết một câu để nói về ngày bạn sẽ đi du lịch, sử dụng cấu trúc đã học.
+    [dans46]
+    [hidden]Hãy viết một câu để nói về ngày bạn sẽ đi du lịch, sử dụng cấu trúc đã học.{{input}}[/hidden]
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

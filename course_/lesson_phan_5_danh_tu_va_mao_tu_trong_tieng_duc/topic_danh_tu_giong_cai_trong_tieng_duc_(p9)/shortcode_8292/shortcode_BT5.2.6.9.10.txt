@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.9.10" title="Nghe và điền từ" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.6.9.10.mp3[/daudio]
+
+    Die [dans44]Flasche[/dans44] ist leer.
+
+    [hidden]Nội dung file nghe: Die Flasche ist leer.[/hidden]
+
+[/dquiz44]

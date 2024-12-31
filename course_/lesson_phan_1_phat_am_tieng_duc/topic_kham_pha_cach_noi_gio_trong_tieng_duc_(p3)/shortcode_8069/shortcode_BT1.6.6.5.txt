@@ -1,0 +1,12 @@
+[dquiz3 id="BT1.6.6.5" title="Nghe đoạn ghi âm và chọn thời gian chính xác"]
+    [daudio]BT1.6.6.5.mp3[/daudio]
+    
+    Phim bắt đầu lúc mấy giờ?
+    [dans3 ans="B"]
+    A. sieben Uhr
+    B. acht Uhr
+    C. halb acht
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Der Film beginnt um acht Uhr.[/hidden]
+[/dquiz3]

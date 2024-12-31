@@ -1,0 +1,8 @@
+[dquiz44 id="BT1.7.2.5.4" title="Điền tên các ngày trong tuần thích hợp vào chỗ trống" case-sensitive="false"]
+
+    Ngày đầu tuần là [dans44]Montag[/dans44].
+    Ngày trước thứ bảy là [dans44]Freitag[/dans44].
+    Ngày sau thứ ba là [dans44]Mittwoch[/dans44].
+    Ngày cuối tuần là [dans44]Sonntag[/dans44].
+
+[/dquiz44]

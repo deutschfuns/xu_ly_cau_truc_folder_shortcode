@@ -1,0 +1,10 @@
+[dquiz3 id="BT2.1.3.1" title="Hãy chọn đáp án đúng để hoàn thành câu sau"]
+    [daudio]V2.1.3.mp4[/daudio]
+
+    Ich ______ ein Auto.
+    [dans3 ans="B"]
+    A. hast
+    B. habe
+    C. habt
+    [/dans3]
+[/dquiz3]

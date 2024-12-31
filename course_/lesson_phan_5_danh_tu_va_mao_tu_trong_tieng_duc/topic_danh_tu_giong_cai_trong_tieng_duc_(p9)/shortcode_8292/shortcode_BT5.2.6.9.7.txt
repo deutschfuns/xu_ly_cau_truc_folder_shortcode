@@ -1,0 +1,14 @@
+[dquiz37 id="BT5.2.6.9.7" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+[daudio]BT5.2.6.9.7.mp3[/daudio]
+
+[dans37 ans="C-A-D-B"]
+A. Schule
+B. groß
+C. Die
+D. ist
+[/dans37]
+
+[hidden]Nội dung file nghe: Die Schule ist groß.[/hidden]
+
+[/dquiz37]

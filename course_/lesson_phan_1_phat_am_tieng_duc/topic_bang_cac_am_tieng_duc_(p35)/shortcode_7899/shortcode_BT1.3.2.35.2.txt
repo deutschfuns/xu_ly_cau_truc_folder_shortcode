@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.35.2" title="Từ nào sau đây có nghĩa là &quot;ngọn lửa&quot;?"]
+    [dans3 ans="C"]
+    A. Baum
+    B. Neu
+    C. Feuer
+    [/dans3]
+[/dquiz3]

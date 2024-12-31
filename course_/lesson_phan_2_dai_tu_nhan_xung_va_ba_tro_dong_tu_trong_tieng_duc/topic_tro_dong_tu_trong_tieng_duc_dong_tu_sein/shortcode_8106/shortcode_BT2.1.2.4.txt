@@ -1,0 +1,9 @@
+[dquiz44 id="BT2.1.2.4" title="Nghe và điền từ đúng vào chỗ trống"]
+    [daudio]BT2.1.2.4.mp3[/daudio]
+
+    Er [dans44]ist[/dans44] mein Bruder.
+    Du [dans44]bist[/dans44] schnell.
+    Wir [dans44]sind[/dans44] in Berlin.
+
+    [hidden]Nội dung file nghe: Er ist mein Bruder. Du bist schnell. Wir sind in Berlin.[/hidden]
+[/dquiz44]

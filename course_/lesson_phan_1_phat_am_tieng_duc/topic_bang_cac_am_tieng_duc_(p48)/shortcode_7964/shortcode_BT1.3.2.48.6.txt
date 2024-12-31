@@ -1,0 +1,15 @@
+[dquiz37 id="BT1.3.2.48.6" title="Sắp xếp các từ sau đây để tạo thành câu hoàn chỉnh"]
+
+[daudio]BT1.3.2.48.6.mp3[/daudio]
+
+[dans37 ans="B-D-E-A-C"]
+A. neues
+B. Ich
+C. Spielzeug
+D. möchte
+E. ein
+[/dans37]
+
+[hidden]Nội dung file nghe: Ich möchte ein neues Spielzeug.[/hidden]
+
+[/dquiz37]

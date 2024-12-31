@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.27.7" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Straße
+    2. Schweiß
+    3. Maß
+    4. Gruß
+    A. Mồ hôi
+    B. Đường phố
+    C. Lời chào hỏi
+    D. Sự đo lường
+    [/dans31]
+[/dquiz31]

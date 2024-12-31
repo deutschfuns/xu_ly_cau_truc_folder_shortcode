@@ -1,0 +1,15 @@
+[dquiz31 id="BT4.3.11" title="Nối động từ bên trái với nghĩa tiếng Việt tương ứng bên phải"]
+Nối động từ bên trái với nghĩa tiếng Việt tương ứng bên phải.
+
+[dans31 ans="1-D,2-A,3-C,4-B"]
+1. fragen
+2. öffnen
+3. schwimmen
+4. helfen
+A. mở
+B. giúp
+C. bơi
+D. hỏi
+[/dans31]
+
+[/dquiz31]

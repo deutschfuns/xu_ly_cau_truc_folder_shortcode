@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.47.6" title="Từ nào sau đây có nghĩa là &quot;giọng nói&quot;?"]
+    [dans3 ans="B"]
+    A. Stück
+    B. Stimme
+    C. Stadt
+    [/dans3]
+[/dquiz3]

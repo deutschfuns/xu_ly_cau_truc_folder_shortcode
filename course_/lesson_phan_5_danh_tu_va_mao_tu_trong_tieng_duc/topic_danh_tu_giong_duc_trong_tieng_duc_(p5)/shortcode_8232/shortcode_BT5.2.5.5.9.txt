@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.5.9" title="Chọn nghĩa tiếng Đức đúng cho các từ sau."]
+
+Học sinh
+[dans3 ans="B"]
+A. Maler
+B. Schüler
+C. Fahrer
+D. Politiker
+[/dans3]
+
+Người bán hàng
+[dans3 ans="A"]
+A. Verkäufer
+B. Gärtner
+C. Schüler
+D. Lehrer
+[/dans3]
+
+[/dquiz3]

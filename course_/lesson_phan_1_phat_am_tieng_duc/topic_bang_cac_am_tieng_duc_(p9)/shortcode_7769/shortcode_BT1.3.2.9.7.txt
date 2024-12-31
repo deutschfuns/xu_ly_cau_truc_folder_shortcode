@@ -1,0 +1,12 @@
+[dquiz3 id="BT1.3.2.9.7" title="Nghe và điền vào chỗ trống"]
+    [daudio]BT1.3.2.9.7.mp3[/daudio]
+    
+    Buổi sáng tôi uống một tách __.
+    [dans3 ans="A"]
+    A. Kaffee
+    B. Fenster
+    C. Sofa
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Kaffee[/hidden]
+[/dquiz3]

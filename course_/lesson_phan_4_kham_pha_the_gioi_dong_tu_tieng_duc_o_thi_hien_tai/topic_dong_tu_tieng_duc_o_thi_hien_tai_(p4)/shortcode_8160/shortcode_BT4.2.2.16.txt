@@ -1,0 +1,10 @@
+[dquiz31 id="BT4.2.2.16" title="Nối câu hỏi với câu trả lời phù hợp"]
+    [dans31 ans="1-C,2-B,3-A"]
+    1. Was machen die Kinder?
+    2. Was macht er?
+    3. Was horcht sie?
+    A. Sie horcht auf die Vögel.
+    B. Er hört Musik.
+    C. Die Kinder lachen laut.
+    [/dans31]
+[/dquiz31]

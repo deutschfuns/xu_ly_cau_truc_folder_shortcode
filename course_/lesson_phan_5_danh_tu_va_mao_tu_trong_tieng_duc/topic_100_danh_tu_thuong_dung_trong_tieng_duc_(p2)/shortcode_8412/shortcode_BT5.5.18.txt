@@ -1,0 +1,18 @@
+[dquiz46 id="BT5.5.18" title="Sắp xếp từ thành câu đúng"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    Tisch / liegt / Buch / dem / auf / Ein.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        Tisch / liegt / Buch / dem / auf / Ein.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

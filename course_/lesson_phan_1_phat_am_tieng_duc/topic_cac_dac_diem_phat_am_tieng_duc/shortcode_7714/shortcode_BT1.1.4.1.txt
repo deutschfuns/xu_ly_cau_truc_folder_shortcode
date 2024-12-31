@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.1.4.1" title="Phát âm tiếng Đức có mấy đặc điểm cần lưu ý?"]
+
+[daudio]V1.1.mp4[/daudio]
+
+[dans3 ans="A"]
+A. 3
+B. 5
+C. 7
+[/dans3]
+
+[/dquiz3]

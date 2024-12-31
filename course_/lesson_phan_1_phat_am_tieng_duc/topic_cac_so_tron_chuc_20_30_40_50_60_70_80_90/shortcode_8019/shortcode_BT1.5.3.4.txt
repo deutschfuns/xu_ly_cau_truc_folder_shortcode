@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.5.3.4" title="Chọn từ phù hợp để điền vào câu sau"]
+Trong tiếng Đức, số 40 được viết là __.
+[dans3 ans="B"]
+A. fünfzig
+B. vierzig
+C. siebzig
+[/dans3]
+[/dquiz3]

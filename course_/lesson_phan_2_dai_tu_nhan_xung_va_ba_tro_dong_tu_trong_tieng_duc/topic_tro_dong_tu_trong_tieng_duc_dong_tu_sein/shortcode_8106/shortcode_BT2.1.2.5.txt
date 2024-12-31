@@ -1,0 +1,15 @@
+[dquiz31 id="BT2.1.2.5" title="Nối câu ở cột bên trái với nghĩa tương ứng ở cột bên phải."]
+    Nối câu ở cột bên trái với nghĩa tương ứng ở cột bên phải.
+
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Ich bin Lehrer.
+    2. Du bist mein Freund.
+    3. Es ist mein Buch.
+    4. Sie ist Ärztin.
+    A. Bạn là bạn của tôi.
+    B. Tôi là giáo viên.
+    C. Cô ấy là bác sĩ.
+    D. Đó là sách của tôi.
+    [/dans31]
+
+[/dquiz31]

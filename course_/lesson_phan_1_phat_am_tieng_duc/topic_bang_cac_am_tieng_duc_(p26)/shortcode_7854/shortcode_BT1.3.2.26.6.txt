@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.26.6" title="Đọc và ghi âm lại từ" ]
+
+Hãy đọc và ghi âm lại từ sau:
+Salzig
+
+[hidden]Hãy đọc và ghi âm lại từ sau:
+Salzig[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

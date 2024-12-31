@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.32.6" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.32.6.mp3[/daudio]
+    [hidden]Nội dung file nghe: Wasser[/hidden]
+
+    [dans3 ans="C"]
+    A. Thời tiết
+    B. Cuối tuần
+    C. Nước
+    [/dans3]
+[/dquiz3]

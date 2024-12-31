@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.2.2.12" title="Chọn từ đúng trong các đáp án dưới đây để hoàn thành câu."]
+
+Wir ___ auf gutes Wetter. (hoffen)
+[dans3 ans="C"]
+A. hoffe
+B. hoffst
+C. hoffen
+[/dans3]
+
+Er ___ das neue Essen. (probieren)
+[dans3 ans="A"]
+A. probiert
+B. probieren
+C. probierst
+[/dans3]
+
+[/dquiz3]

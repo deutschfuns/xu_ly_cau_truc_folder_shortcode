@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.40.4" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.40.4.mp3[/daudio]
+
+    [dans37 ans="B-D-C-A"]
+    A. kurz
+    B. Der
+    C. ist
+    D. Kurs
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Der Kurs ist kurz.[/hidden]
+[/dquiz37]

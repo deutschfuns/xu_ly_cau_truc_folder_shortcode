@@ -1,0 +1,31 @@
+[dquiz3 id="BT5.2.6.9.9" title="Chọn nghĩa tiếng Việt đúng cho mỗi từ."]
+
+Wiese
+[dans3 ans="B"]
+A. Màu sắc
+B. Đồng cỏ
+C. Bánh ngọt
+[/dans3]
+
+Farbe
+[dans3 ans="A"]
+A. Màu sắc
+B. Đồng cỏ
+C. Chai
+[/dans3]
+
+Lampe
+[dans3 ans="B"]
+A. Bánh ngọt
+B. Đèn
+C. Mèo
+[/dans3]
+
+Torte
+[dans3 ans="B"]
+A. Mèo
+B. Bánh ngọt
+C. Đèn
+[/dans3]
+
+[/dquiz3]

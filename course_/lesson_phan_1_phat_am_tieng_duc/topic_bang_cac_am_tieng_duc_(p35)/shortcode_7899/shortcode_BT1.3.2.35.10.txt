@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.35.10" title="Chọn từ có nghĩa ngược với &quot;buồn rầu&quot;"]
+    [dans3 ans="B"]
+    A. deutlich
+    B. freuen
+    C. Europa
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.10.11" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.10.11.mp3[/daudio]
+    [hidden]Nội dung file nghe: groß[/hidden]
+
+    [dans3 ans="B"]
+    A. gelb
+    B. groß
+    C. grün
+    [/dans3]
+[/dquiz3]

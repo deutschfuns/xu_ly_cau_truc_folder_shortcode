@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.5.52" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+Mein ____ ist steif.
+[dans3 ans="C"]
+A. Armband
+B. Schuh
+C. Hals
+[/dans3]
+[/dquiz3]

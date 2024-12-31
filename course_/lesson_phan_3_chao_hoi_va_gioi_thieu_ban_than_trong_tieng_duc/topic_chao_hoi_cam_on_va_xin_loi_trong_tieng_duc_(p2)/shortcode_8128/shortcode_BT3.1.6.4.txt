@@ -1,0 +1,11 @@
+[dquiz37 id="BT3.1.6.4" title="Nghe và sắp xếp các câu hội thoại dưới đây theo đúng thứ tự"]
+    [daudio]BT3.1.6.4.mp3[/daudio]
+
+    [dans37 ans="B-C-A"]
+    A. Schon gut.
+    B. Entschuldigung, ich bin zu spät!
+    C. Das macht nichts.
+    [/dans37]
+
+    [hidden]Nội dung file nghe: A: Entschuldigung, ich bin zu spät! B: Das macht nichts. A: Schon gut.[/hidden]
+[/dquiz37]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.5.3.3" title="Từ nào sau đây có nghĩa là &quot;90&quot; trong tiếng Đức?"]
+    [dans3 ans="B"]
+    A. fünfzig
+    B. neunzig
+    C. dreißig
+    [/dans3]
+[/dquiz3]

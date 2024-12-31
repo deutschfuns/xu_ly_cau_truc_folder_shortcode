@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.12.14" title="Từ nào sau đây là động từ?"]
+    [dans3 ans="C"]
+    A. Kitten
+    B. Himmel
+    C. hindern
+    [/dans3]
+[/dquiz3]

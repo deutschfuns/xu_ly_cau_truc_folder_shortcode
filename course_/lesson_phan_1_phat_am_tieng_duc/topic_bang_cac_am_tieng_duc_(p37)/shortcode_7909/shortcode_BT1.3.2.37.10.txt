@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.37.10" title="Chọn từ đúng để điền vào câu"]
+    Cô ấy có đôi ___ rất đẹp.
+    [dans3 ans="C"]
+    A. Maus
+    B. Frau
+    C. Augen
+    D. Auto
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.31.1" title="Từ nào sau đây có nghĩa là &quot;số bốn&quot;?"]
+
+    [daudio]V1.3.2_31.mp4[/daudio]
+
+    [dans3 ans="C"]
+    A. Vater
+    B. viel
+    C. vier
+    [/dans3]
+
+[/dquiz3]

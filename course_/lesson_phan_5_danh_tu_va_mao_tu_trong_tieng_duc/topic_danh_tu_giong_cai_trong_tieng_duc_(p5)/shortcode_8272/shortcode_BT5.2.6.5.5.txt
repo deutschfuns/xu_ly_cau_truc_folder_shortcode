@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.5.5" title="Nghe và chọn đáp án có nghĩa tiếng Việt phù hợp"]
+    [daudio]BT5.2.6.5.5.mp4[/daudio]
+    [dans3 ans="C"]
+    A. Tình bạn
+    B. Đam mê
+    C. Nền kinh tế
+    D. Quốc tịch
+    [/dans3]
+    [hidden]Nội dung file nghe: Wirtschaft[/hidden]
+[/dquiz3]

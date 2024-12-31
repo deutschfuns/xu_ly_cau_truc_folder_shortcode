@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.4.1.1.6" title="Nghe và sắp xếp lại thứ tự của câu thành đoạn"]
+    [daudio file="BT1.4.1.1.6.mp3"]
+
+    [dans37 ans="C-D-B-A"]
+    A. Ich arbeite bei Viet Duc Zentrum.
+    B. Ich bin Köchin.
+    C. Mein Name ist Hasie.
+    D. Ich komme aus Vietnam.
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Mein Name ist Hasie. Ich komme aus Vietnam. Ich bin Köchin. Ich arbeite bei Viet Duc Zentrum.[/hidden]
+
+[/dquiz37]

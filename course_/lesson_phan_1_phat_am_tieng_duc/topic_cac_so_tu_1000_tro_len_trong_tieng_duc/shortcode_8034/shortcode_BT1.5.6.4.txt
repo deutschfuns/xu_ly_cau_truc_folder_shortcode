@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.6.4" title="Nghe và chọn nghĩa tiếng Việt của số sau"]
+    [daudio]BT1.5.6.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: zwanzigtausend[/hidden]
+
+    [dans3 ans="C"]
+    A. 2.000
+    B. 200.000
+    C. 20.000
+    [/dans3]
+[/dquiz3]

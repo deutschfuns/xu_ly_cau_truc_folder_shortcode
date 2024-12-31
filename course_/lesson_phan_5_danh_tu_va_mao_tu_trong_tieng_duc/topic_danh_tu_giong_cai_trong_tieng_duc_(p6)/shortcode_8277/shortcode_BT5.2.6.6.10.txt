@@ -1,0 +1,13 @@
+[dquiz58 id="BT5.2.6.6.10" title="Đọc và ghi âm lại từ" ]
+
+    Đọc và ghi âm lại từ sau.
+    Funktion
+
+    [hidden]Đọc và ghi âm lại từ sau.
+    Funktion[/hidden]
+
+    [prompt]
+        [sc name="prompt54"][/sc]
+    [/prompt]
+
+[/dquiz58]

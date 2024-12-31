@@ -1,0 +1,15 @@
+[dquiz58 id="BT4.2.2.10" title="Luyện nói"]
+
+    Hãy ghi âm 1 câu bằng tiếng Đức về hoạt động mà bạn làm hàng ngày, sử dụng động từ gehen ở thì hiện tại.
+    Ví dụ: Ich gehe jeden Morgen zur Schule. (Tôi đi học mỗi sáng.)
+
+    [hidden]
+        Hãy ghi âm 1 câu bằng tiếng Đức về hoạt động mà bạn làm hàng ngày, sử dụng động từ gehen ở thì hiện tại.
+        Ví dụ: Ich gehe jeden Morgen zur Schule. (Tôi đi học mỗi sáng.)
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

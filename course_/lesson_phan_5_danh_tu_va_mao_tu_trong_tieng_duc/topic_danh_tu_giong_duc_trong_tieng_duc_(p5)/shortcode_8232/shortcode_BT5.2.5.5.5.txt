@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.5.5" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    1. ist / Bauer / Der / Feld / auf / dem.
+    [dans46]
+
+    2. im / das / bringt / Kellner / Restaurant / Essen / Der.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        1. ist / Bauer / Der / Feld / auf / dem.
+        {{input}}
+        2. im / das / bringt / Kellner / Restaurant / Essen / Der.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

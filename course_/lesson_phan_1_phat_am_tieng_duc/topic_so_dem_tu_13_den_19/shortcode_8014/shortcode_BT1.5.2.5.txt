@@ -1,0 +1,11 @@
+[dquiz37 id="BT1.5.2.5" title="Nghe và sắp xếp các từ để tạo thành câu đúng"]
+    [daudio file="BT1.5.2.5.mp3"]
+    [dans37 ans="D-E-B-A-C"]
+    A. Jahre
+    B. sechzehn
+    C. alt
+    D. Ich
+    E. bin
+    [/dans37]
+    [hidden]Nội dung file nghe: Ich bin sechzehn Jahre alt.[/hidden]
+[/dquiz37]

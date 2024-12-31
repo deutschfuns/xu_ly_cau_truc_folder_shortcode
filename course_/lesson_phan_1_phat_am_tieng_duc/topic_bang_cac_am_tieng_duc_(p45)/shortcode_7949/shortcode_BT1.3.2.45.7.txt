@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.45.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.45.7.mp3[/daudio]
+    [hidden]Nội dung file nghe: Schild[/hidden]
+    
+    [dans3 ans="C"]
+    A. Schule
+    B. Schnee
+    C. Schild
+    [/dans3]
+[/dquiz3]

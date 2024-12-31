@@ -1,0 +1,6 @@
+[dquiz44 id="BT1.6.4.2" title="Điền từ phù hợp vào chỗ trống để hoàn thành câu về thời gian"]
+    Bây giờ là 9 giờ sáng: 9 Uhr [dans44]morgens[/dans44].
+    Bây giờ là 12 giờ trưa: 12 Uhr [dans44]mittags[/dans44].
+    Bây giờ là 4 giờ chiều: 4 Uhr [dans44]nachmittags[/dans44].
+    Bây giờ là 11 giờ đêm: 11 Uhr [dans44]nachts[/dans44].
+[/dquiz44]

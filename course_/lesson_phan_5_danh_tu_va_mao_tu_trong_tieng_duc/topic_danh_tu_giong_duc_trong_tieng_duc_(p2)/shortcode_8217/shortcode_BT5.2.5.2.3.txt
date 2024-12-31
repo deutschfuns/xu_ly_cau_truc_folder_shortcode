@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.5.2.3" title="Nối mỗi từ với nghĩa tiếng Việt tương ứng"]
+
+    [dans31 ans="1-C,2-A,3-D,4-B"]
+    1. Lehrling
+    2. Frühling
+    3. Feigling
+    4. Schmetterling
+    A. Mùa xuân
+    B. Con bướm
+    C. Người học việc
+    D. Kẻ nhát gan
+    [/dans31]
+
+[/dquiz31]

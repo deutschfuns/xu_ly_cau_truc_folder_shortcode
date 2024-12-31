@@ -1,0 +1,10 @@
+[dquiz46 id="BT5.2.5.3.2" title="Viết từ vựng"]
+    Hãy viết 3 danh từ giống từ đuôi "or" khác nhau mà bạn đã học
+    [dans46]
+    [dans46]
+    [dans46]
+    [hidden] Hãy viết 3 danh từ giống từ đuôi "or" khác nhau mà bạn đã học {{input}} {{input}} {{input}}[/hidden]
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

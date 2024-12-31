@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.6.2.3" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Entwicklung
+[dans3 ans="A"]
+A. Sự phát triển
+B. Sự thay đổi
+C. Kết nối
+D. Lời xin lỗi
+[/dans3]
+
+Meinung
+[dans3 ans="C"]
+A. Sự chuẩn bị
+B. Sự giáo dục
+C. Quan điểm
+D. Lời giải thích
+[/dans3]
+
+[/dquiz3]

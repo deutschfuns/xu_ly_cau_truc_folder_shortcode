@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.21.8" title="Nghe và chọn từ có nghĩa là &quot;lo lắng&quot;"]
+    [daudio]BT1.3.2.21.8.mp3[/daudio]
+    [dans3 ans="C"]
+    A. kommen
+    B. wollen
+    C. sorgen
+    [/dans3]
+    [hidden]Nội dung file nghe: sorgen[/hidden]
+[/dquiz3]

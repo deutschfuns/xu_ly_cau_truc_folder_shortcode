@@ -1,0 +1,15 @@
+[dquiz58 id="BT5.4.1.6" title="Luyện nói - Hãy nói dạng số nhiều của những từ sau"]
+
+    Hãy ghi âm lại dạng số nhiều của những từ sau.
+    Der Apfel
+    Der Vogel
+
+    [hidden]Hãy ghi âm lại dạng số nhiều của những từ sau.
+    Der Apfel
+    Der Vogel[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

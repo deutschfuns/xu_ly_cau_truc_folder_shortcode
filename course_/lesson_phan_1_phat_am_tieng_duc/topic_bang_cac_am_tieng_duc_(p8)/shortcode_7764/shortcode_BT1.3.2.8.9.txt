@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.8.9" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.8.9.mp3[/daudio]
+
+[dans44]Tasse[/dans44]
+[dans44]Katze[/dans44]
+[dans44]Lampe[/dans44]
+
+[hidden]Nội dung file nghe: Tasse; Katze; Lampe[/hidden]
+
+[/dquiz44]

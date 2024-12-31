@@ -1,0 +1,15 @@
+[dquiz58 id="BT1.4.1.1.4" title="Đọc và ghi âm lại nội dung sau"]
+
+Hãy đọc và ghi âm lại nội dung sau:
+A: Hast du Geschwister?
+B: Ja, ich habe vier Geschwister.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+A: Hast du Geschwister?
+B: Ja, ich habe vier Geschwister.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

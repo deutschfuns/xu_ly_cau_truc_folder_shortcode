@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.7.2.5.8" title="Chọn đáp án đúng về trạng từ chỉ ngày trong tuần."]
+    [dans3 ans="B"]
+    A. donnerstags: vào thứ hai
+    B. montags: vào thứ hai
+    C. dienstags: vào thứ năm
+    D. mittwochs: vào thứ ba
+    [/dans3]
+[/dquiz3]

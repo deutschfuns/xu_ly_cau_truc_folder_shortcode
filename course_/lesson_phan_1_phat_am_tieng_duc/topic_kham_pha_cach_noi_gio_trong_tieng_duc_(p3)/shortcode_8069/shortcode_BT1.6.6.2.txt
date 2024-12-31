@@ -1,0 +1,14 @@
+[dquiz44 id="BT1.6.6.2" title="Điền vào chỗ trống để hoàn thành câu hỏi và trả lời liên quan đến giờ giấc" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    [dans44]Wie spät[/dans44] ist es?
+    Es ist neun Uhr.
+
+    [dans44]Um wie viel[/dans44] Uhr beginnt der Film?
+    Der Film beginnt um acht Uhr.
+
+    [dans44]Wann[/dans44] treffen wir uns heute Abend?
+    Wir treffen uns um halb acht.
+
+[/dquiz44]

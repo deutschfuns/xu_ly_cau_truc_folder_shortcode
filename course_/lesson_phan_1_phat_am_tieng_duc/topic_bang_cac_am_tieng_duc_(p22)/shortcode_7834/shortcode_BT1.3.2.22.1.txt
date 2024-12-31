@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.22.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.22.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="C,D"]
+A. Löffel
+B. hören
+C. Söhne
+D. schön
+E. fröhlich
+[/dans19]
+
+[hidden]Nội dung file nghe: Söhne; schön[/hidden]
+
+[/dquiz19]

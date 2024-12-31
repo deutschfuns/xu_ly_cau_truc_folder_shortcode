@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.7.4.5" title="Nghe từ tiếng Đức và chọn nghĩa tiếng Việt tương ứng"]
+    [daudio]BT5.2.7.4.5.mp3[/daudio]
+    [dans3 ans="D"]
+    A. Diễn đàn
+    B. Bể cá
+    C. Tài sản
+    D. Bảo tàng
+    [/dans3]
+    [hidden]Nội dung file nghe: Museum[/hidden]
+[/dquiz3]

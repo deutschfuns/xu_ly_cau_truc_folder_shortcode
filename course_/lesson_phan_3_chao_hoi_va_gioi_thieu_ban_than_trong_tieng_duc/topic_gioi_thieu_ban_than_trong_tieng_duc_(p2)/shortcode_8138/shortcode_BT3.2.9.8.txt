@@ -1,0 +1,13 @@
+[dquiz37 id="BT3.2.9.8" title="Nghe và sắp xếp các câu sau để tạo thành đoạn văn giới thiệu bản thân"]
+    [daudio file="BT3.2.9.8.mp3"]
+
+    [dans37 ans="B-C-A-D-E"]
+    A. Ich komme aus Vietnam.
+    B. Guten Abend!
+    C. Ich heiße Nam.
+    D. Ich bin Schüler.
+    E. Meine Muttersprache ist Vietnamesisch, und jetzt lerne ich Deutsch.
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Guten Abend! Ich heiße Nam. Ich komme aus Vietnam. Ich bin Schüler. Meine Muttersprache ist Vietnamesisch, und jetzt lerne ich Deutsch.[/hidden]
+[/dquiz37]

@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.5.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C"]
+    1. Cocktail
+    2. Camping
+    3. Container
+    A. Việc cắm trại
+    B. Cốc-tai
+    C. Container
+    [/dans31]
+[/dquiz31]

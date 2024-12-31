@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.5.9.3.8" title="Đọc và ghi âm lại câu có sử dụng phân số trong tiếng Đức sau" ]
+
+    Đọc và ghi âm lại câu có sử dụng phân số trong tiếng Đức sau:
+    Ich trinke jeden Tag einen halben Liter Kaffee.
+
+    [hidden]Đọc và ghi âm lại câu có sử dụng phân số trong tiếng Đức sau:
+    Ich trinke jeden Tag einen halben Liter Kaffee.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

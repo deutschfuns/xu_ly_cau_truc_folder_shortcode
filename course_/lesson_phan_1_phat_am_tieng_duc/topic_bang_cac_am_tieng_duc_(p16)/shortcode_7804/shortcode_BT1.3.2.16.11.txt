@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.16.11" title="Từ nào sau đây có nghĩa là &quot;sắp, sớm&quot;?"]
+
+    [dans3 ans="B"]
+    A. als
+    B. bald
+    C. folgen
+    [/dans3]
+
+[/dquiz3]

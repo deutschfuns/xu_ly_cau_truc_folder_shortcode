@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.12.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.12.9.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Kind
+    B. mindern
+    C. lind
+    [/dans3]
+    [hidden]Nội dung file nghe: mindern[/hidden]
+[/dquiz3]

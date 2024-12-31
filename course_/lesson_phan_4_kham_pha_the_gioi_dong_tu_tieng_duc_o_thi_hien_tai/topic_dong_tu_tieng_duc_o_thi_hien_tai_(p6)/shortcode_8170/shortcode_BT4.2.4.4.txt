@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.2.4.4" title="Chọn từ đúng để hoàn thành các câu sau."]
+
+Er ___ nach Berlin. (fahren)
+[dans3 ans="C"]
+A. fährst
+B. fahrt
+C. fährt
+[/dans3]
+
+Sie ___ mir bei den Hausaufgaben. (helfen)
+[dans3 ans="B"]
+A. helft
+B. hilft
+C. hilfst
+[/dans3]
+
+[/dquiz3]

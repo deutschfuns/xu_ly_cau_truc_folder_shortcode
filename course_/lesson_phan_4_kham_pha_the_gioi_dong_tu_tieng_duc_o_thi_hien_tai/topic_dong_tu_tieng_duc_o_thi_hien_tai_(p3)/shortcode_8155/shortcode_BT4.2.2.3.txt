@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.2.2.3" title="Chọn động từ chia đúng với chủ ngữ."]
+
+Ich ___ jeden Tag Deutsch. (lernen)
+[dans3 ans="B"]
+A. lernt
+B. lerne
+C. lernen
+[/dans3]
+
+Er ___ immer pünktlich. (kommen)
+[dans3 ans="A"]
+A. kommt
+B. kommen
+C. kommst
+[/dans3]
+
+[/dquiz3]

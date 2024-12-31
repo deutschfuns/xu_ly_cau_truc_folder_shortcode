@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.5.8.3.6" title="Đọc và ghi âm lại dãy số thứ tự" ]
+
+Hãy đọc và ghi âm lại dãy số thứ tự sau:
+Erste, zweite, dritte, vierte, fünfte.
+
+[hidden]Hãy đọc và ghi âm lại dãy số thứ tự sau:
+Erste, zweite, dritte, vierte, fünfte.[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

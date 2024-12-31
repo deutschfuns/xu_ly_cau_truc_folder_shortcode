@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.37.8" title="Chọn từ đúng để điền vào câu"]
+    Chúng tôi sống trong một ___ lớn gần công viên.
+    [dans3 ans="A"]
+    A. Haus
+    B. Maus
+    C. Augen
+    D. Baum
+    [/dans3]
+[/dquiz3]

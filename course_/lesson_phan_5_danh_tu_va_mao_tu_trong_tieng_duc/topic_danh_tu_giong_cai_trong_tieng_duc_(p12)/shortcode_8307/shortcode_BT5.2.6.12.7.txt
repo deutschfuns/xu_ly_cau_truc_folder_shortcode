@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.12.7" title="Ghép từ chỉ các loại quả với nghĩa tiếng Việt tương ứng"]
+    [dans31 ans="1-C,2-B,3-D,4-A"]
+    1. Erdbeere
+    2. Birne
+    3. Pomelo
+    4. Himbeere
+    A. Mâm xôi
+    B. Lê
+    C. Dâu tây
+    D. Bưởi
+    [/dans31]
+[/dquiz31]

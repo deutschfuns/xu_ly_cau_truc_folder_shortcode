@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.7.8" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.7.8.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="A,C"]
+A. Ecke
+B. Engel
+C. Energie
+D. Eben
+E. Esel
+[/dans19]
+
+[hidden]Nội dung file nghe: Ecke; Energie[/hidden]
+
+[/dquiz19]

@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.2.7.1.4" title="Nghe câu và chọn từ thích hợp để hoàn thành câu."]
+
+    [daudio]BT5.2.7.1.4.mp3[/daudio]
+
+    Ich sehe ein ____.
+    [dans3 ans="C"]
+    A. Schiffchen
+    B. Eichhörnchen
+    C. Mäuschen
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Ich sehe ein Mäuschen.[/hidden]
+
+[/dquiz3]

@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.7.4.6" title="Đọc và ghi âm lại từ" ]
+
+    Đọc và ghi âm lại các từ sau:
+    Kriterium
+    Stadium
+    Datum
+    Wachstum
+
+    [hidden]Đọc và ghi âm lại các từ sau:
+    Kriterium
+    Stadium
+    Datum
+    Wachstum[/hidden]
+
+    [prompt]
+        [sc name="prompt54"][/sc]
+    [/prompt]
+
+[/dquiz58]

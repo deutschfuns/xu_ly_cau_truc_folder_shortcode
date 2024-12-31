@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.27.2" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.27.2.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="A,D"]
+A. Straße
+B. Fußball
+C. groß
+D. Fuß
+E. Maß
+[/dans19]
+
+[hidden]Nội dung file nghe: Straße; Fuß[/hidden]
+
+[/dquiz19]

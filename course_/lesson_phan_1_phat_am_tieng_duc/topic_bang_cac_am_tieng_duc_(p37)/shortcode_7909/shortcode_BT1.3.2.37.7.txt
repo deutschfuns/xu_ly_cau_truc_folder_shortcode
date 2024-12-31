@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.3.2.37.7" title="Nối các từ sau với nghĩa phù hợp"]
+
+[dans31 ans="1-A,2-D,3-B,4-C"]
+1. Haus
+2. laufen
+3. Baum
+4. blau
+A. Nhà
+B. Cây
+C. Màu xanh dương
+D. Chạy
+[/dans31]
+
+[/dquiz31]

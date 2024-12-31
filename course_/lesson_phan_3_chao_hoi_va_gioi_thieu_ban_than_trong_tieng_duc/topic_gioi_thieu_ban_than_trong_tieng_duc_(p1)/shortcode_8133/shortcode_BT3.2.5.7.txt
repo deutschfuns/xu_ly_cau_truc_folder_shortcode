@@ -1,0 +1,12 @@
+[dquiz31 id="BT3.2.5.7" title="Nối mỗi câu hỏi với câu trả lời tương ứng"]
+
+    [dans31 ans="1-B,2-A,3-C"]
+    1. Wie alt bist du?
+    2. Wo wohnst du?
+    3. Wann bist du geboren?
+    A. Ich wohne in Berlin.
+    B. Ich bin 16 Jahre alt.
+    C. Ich bin am 10. Mai 2008 geboren.
+    [/dans31]
+
+[/dquiz31]

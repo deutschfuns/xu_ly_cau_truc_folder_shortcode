@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.1.1.10" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.1.1.10.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Ich bin einundzwanzig Jahre alt.
+    B. Ich bin siebzehn Jahre alt.
+    C. Ich bin achtzehn Jahre alt.
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich bin achtzehn Jahre alt.[/hidden]
+[/dquiz3]

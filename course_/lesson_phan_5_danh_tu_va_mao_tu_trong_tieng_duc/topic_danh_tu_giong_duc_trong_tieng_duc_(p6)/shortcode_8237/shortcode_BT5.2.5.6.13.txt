@@ -1,0 +1,5 @@
+[dquiz44 id="BT5.2.5.6.13" title="Nghe và viết lại từ"]
+    [daudio]BT5.2.5.6.13.mp3[/daudio]
+    [dans44]Maurer[/dans44]
+    [hidden]Nội dung file nghe: Maurer[/hidden]
+[/dquiz44]

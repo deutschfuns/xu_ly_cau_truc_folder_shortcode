@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.38.7" title="Từ nào sau đây có nghĩa là &quot;Frieden&quot;?"]
+
+[dans3 ans="B"]
+A. Tình yêu
+B. Hòa bình
+C. Bài hát
+[/dans3]
+
+[/dquiz3]

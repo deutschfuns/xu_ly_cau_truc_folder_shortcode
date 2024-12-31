@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.7.2" title="Nghe từ và nối với nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.7.7.2.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Bí mật
+    B. Trí nhớ
+    C. Sự hiểu biết
+    [/dans3]
+    [hidden]Nội dung file nghe: Geheimnis[/hidden]
+[/dquiz3]

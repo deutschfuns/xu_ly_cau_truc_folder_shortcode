@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.43.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.43.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,D"]
+A. Buch
+B. Koch
+C. Tisch
+D. Rauch
+E. Frau
+[/dans19]
+
+[hidden]Nội dung file nghe: Koch, Rauch[/hidden]
+
+[/dquiz19]

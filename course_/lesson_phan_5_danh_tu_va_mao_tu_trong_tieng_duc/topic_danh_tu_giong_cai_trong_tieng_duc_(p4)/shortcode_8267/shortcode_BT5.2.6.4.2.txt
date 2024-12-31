@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.6.4.2" title="Nối các danh từ có đuôi &quot;-ei&quot; với nghĩa tiếng Việt tương ứng"]
+    Nối các danh từ có đuôi &quot;-ei&quot; với nghĩa tiếng Việt tương ứng.
+
+    [dans31 ans="1-A,2-B,3-C,4-D"]
+    1. Bäckerei
+    2. Fischerei
+    3. Gärtnerei
+    4. Schneiderei
+    A. Tiệm bánh
+    B. Nghề cá
+    C. Vườn ươm
+    D. Tiệm may
+    [/dans31]
+
+[/dquiz31]

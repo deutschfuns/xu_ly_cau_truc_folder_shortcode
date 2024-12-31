@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.16.7" title="Từ nào sau đây có nghĩa là &quot;đất nước, nông thôn&quot;?"]
+    [dans3 ans="B"]
+    A. mal
+    B. Land
+    C. Ball
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,17 @@
+[dquiz3 id="BT1.5.8.4.2" title="Chọn đáp án đúng"]
+
+(1) Số thứ tự của số 2 trong tiếng Đức là:
+[dans3 ans="C"]
+A. zweit
+B. zweites
+C. zweite
+[/dans3]
+
+(2) Khi nói về Nữ hoàng Elisabeth II, ta sử dụng:
+[dans3 ans="C"]
+A. Elisabeth die Erste
+B. Elisabeth die Zweites
+C. Elisabeth die Zweite
+[/dans3]
+
+[/dquiz3]

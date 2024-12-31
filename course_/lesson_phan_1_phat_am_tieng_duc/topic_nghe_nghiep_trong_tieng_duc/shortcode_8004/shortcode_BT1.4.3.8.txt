@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.4.3.8" title="Nghe tiếng Đức và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.4.3.8.mp3[/daudio]
+    [hidden]Nội dung file nghe: Architekt[/hidden]
+
+    [dans3 ans="C"]
+    A. Phi công nữ
+    B. Cảnh sát nam
+    C. Kiến trúc sư nam
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,4 @@
+[dquiz44 id="BT5.3.3.4.8" title="Điền mạo từ sở hữu thích hợp vào chỗ trống"]
+    Das sind [dans44]seine[/dans44] Häuser.
+    [hidden]Das sind {{input}} Häuser.[/hidden]
+[/dquiz44]

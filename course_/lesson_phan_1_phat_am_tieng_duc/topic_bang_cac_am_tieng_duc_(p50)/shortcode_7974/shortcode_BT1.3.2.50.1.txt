@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.50.1" title="Nghe và chọn đáp án đúng sau đây"]
+    [daudio]BT1.3.2.50.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. groß
+    B. grün
+    C. Grafik
+    D. Gras
+    [/dans3]
+    [hidden]Nội dung file nghe: grün[/hidden]
+[/dquiz3]

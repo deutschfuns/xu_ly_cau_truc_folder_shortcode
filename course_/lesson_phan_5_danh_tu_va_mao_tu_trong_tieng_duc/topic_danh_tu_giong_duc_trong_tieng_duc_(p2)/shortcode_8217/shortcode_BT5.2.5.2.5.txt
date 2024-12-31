@@ -1,0 +1,21 @@
+[dquiz58 id="BT5.2.5.2.5" title="Đọc và ghi âm lại các danh từ giống đực sau" ]
+
+    Đọc và ghi âm lại các danh từ giống đực sau:
+    Lehrling
+    Schmetterling
+    Feigling
+    Frühling
+    Schützling
+
+    [hidden]Đọc và ghi âm lại các danh từ giống đực sau:
+    Lehrling
+    Schmetterling
+    Feigling
+    Frühling
+    Schützling[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+
+[/dquiz58]

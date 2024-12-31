@@ -1,0 +1,9 @@
+[dquiz3 id="BT4.2.6.5" title="Nghe câu sau và chọn dạng động từ đúng"]
+    [daudio]BT4.2.6.5.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ich sendet dir einen Brief.
+    B. Ich sende dir einen Brief.
+    C. Ich sendest dir einen Brief.
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich sende dir einen Brief.[/hidden]
+[/dquiz3]

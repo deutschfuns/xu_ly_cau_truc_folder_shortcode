@@ -1,0 +1,17 @@
+[dquiz44 id="BT5.2.5.3.6" title="Điền từ vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Der [dans44]Autor[/dans44] schreibt Bücher.
+    (Tác giả viết sách.)
+
+    Der [dans44]Doktor[/dans44] hilft den Patienten.
+    (Bác sĩ giúp đỡ các bệnh nhân.)
+
+    Der [dans44]Direktor[/dans44] leitet die Firma.
+    (Giám đốc điều hành công ty.)
+
+    Der [dans44]Motor[/dans44] des Autos ist kaputt.
+    (Động cơ của xe ô tô bị hỏng.)
+
+[/dquiz44]

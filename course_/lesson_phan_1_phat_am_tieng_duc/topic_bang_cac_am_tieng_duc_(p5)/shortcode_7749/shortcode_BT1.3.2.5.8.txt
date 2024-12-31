@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.5.8" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.5.8.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. City
+B. Club
+C. Café
+D. Container
+E. Camping
+[/dans19]
+
+[hidden]Nội dung file nghe: Club; Café[/hidden]
+
+[/dquiz19]

@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.7.7.6" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.2.7.7.6.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Das [dans44]Ereignis[/dans44] war eine große Überraschung.
+
+    [hidden]Nội dung file nghe: Das Ereignis war eine große Überraschung.[/hidden]
+
+[/dquiz44]

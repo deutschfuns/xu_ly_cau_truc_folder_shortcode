@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.3.2.41.4" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng:
+
+[dans31 ans="1-C,2-B,3-D,4-A"]
+1. für
+2. Tür
+3. Bürger
+4. spüren
+A. cảm nhận
+B. cửa nhà
+C. cho, vì
+D. công dân
+[/dans31]
+
+[/dquiz31]

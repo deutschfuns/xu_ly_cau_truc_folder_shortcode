@@ -1,0 +1,21 @@
+[dquiz58 id="BT1.4.3.1" title="Đọc và ghi âm lại nội dung sau" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Lehrerin
+Ingenieur
+Ingenieurin
+Koch
+Köchin
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Lehrerin
+Ingenieur
+Ingenieurin
+Koch
+Köchin[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.48.2" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-C,3-A,4-B"]
+    1. Sprache
+    2. Spielzeug
+    3. sparen
+    4. Spiegel
+    A. Tiết kiệm
+    B. Cái gương
+    C. Đồ chơi
+    D. Ngôn ngữ
+    [/dans31]
+[/dquiz31]

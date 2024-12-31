@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.5.4.8" title="Đọc và ghi âm lại các từ sau đây" ]
+
+    Đọc và ghi âm lại các từ sau đây.
+    Journalismus
+    Feminismus
+    Kommunismus
+    Polytheismus
+
+    [hidden]Đọc và ghi âm lại các từ sau đây.
+    Journalismus
+    Feminismus
+    Kommunismus
+    Polytheismus[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

@@ -1,0 +1,19 @@
+[dquiz46 id="BT5.4.1.46" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau ở dạng số ít:
+    Das Geld 
+    [dans46]
+    Die Geduld 
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau ở dạng số ít:
+        Das Geld {{input}}
+        Die Geduld {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

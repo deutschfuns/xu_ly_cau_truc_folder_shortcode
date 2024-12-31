@@ -1,0 +1,6 @@
+[dquiz44 id="BT2.1.3.4" title="Điền dạng đúng của động từ &quot;haben&quot; để hoàn thành đoạn hội thoại sau" case-sensitive="false"]
+
+    A: [dans44]Hast[/dans44] du ein Haustier?
+    B: Ja, ich [dans44]habe[/dans44] einen Hund.
+
+[/dquiz44]

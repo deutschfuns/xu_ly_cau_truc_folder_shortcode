@@ -1,0 +1,7 @@
+[dquiz44 id="BT3.1.6.2" title="Chọn từ thích hợp nhất trong các từ sau để điền vào chỗ trống: &quot;Danke&quot;, &quot;Entschuldigung&quot;, &quot;Wie bitte!&quot;" case-sensitive="false"]
+
+    Bạn không nghe rõ người đối diện và muốn họ nhắc lại: [dans44]Wie bitte![/dans44]
+    Bạn cảm ơn ai đó vì họ đã giúp bạn. [dans44]Danke[/dans44]
+    Bạn va vào một người trên đường và muốn xin lỗi họ. [dans44]Entschuldigung[/dans44]
+
+[/dquiz44]

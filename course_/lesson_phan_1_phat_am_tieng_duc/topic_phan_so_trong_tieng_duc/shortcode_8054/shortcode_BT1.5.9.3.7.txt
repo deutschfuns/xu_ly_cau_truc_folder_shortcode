@@ -1,0 +1,19 @@
+[dquiz46 id="BT1.5.9.3.7" title="Sắp xếp từ thành câu"]
+    Sắp xếp các từ sau thành câu hoàn chỉnh:
+    
+    1. ein / halbes / Liter / Kaffee / Ich / trinke.
+    [dans46]
+    
+    2. Viertel / Er / Liter / bestellt / hat / Wein / einen.
+    [dans46]
+    
+    [hidden]
+        Sắp xếp các từ sau thành câu hoàn chỉnh:
+        1. ein / halbes / Liter / Kaffee / Ich / trinke. {{input}}
+        2. Viertel / Er / Liter / bestellt / hat / Wein / einen. {{input}}
+    [/hidden]
+    
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

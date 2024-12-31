@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.11" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Der Schlüssel
+    [dans46]
+    Das Messer
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Der Schlüssel
+        {{input}}
+        Das Messer
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.6.7" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    1. ist / Vater / Mein / zu Hause / .
+    [dans46]
+
+    2. im / Der / arbeitet / Onkel / Büro / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        1. ist / Vater / Mein / zu Hause / .
+        {{input}}
+        2. im / Der / arbeitet / Onkel / Büro / .
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

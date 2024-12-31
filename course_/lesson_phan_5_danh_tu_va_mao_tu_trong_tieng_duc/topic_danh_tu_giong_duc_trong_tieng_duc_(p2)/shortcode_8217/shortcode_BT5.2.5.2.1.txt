@@ -1,0 +1,17 @@
+[dquiz31 id="BT5.2.5.2.1" title="Nối mỗi từ tiếng Đức với định nghĩa tiếng Việt"]
+Nối mỗi từ tiếng Đức với định nghĩa tiếng Việt.
+
+[dans31 ans="1-A,2-B,3-E,4-D,5-C"]
+1. Pflegling
+2. Fremdling
+3. Rohling
+4. Häftling
+5. Sämling
+A. Người được chăm sóc
+B. Người lạ
+C. Cây giống
+D. Tù nhân
+E. Kẻ thô lỗ
+[/dans31]
+
+[/dquiz31]

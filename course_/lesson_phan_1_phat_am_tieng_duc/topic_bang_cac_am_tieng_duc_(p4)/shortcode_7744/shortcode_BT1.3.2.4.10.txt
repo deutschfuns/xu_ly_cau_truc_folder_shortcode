@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.4.10" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Anh ấy có một __ rất đẹp treo trên tường.
+    [dans3 ans="C"]
+    A. Berg
+    B. Bahn
+    C. Bild
+    [/dans3]
+[/dquiz3]

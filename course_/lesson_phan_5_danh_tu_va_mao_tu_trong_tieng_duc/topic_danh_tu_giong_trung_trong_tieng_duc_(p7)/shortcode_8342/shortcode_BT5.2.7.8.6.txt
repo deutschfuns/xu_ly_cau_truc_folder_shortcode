@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.7.8.6" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+[daudio]BT5.2.7.8.6.mp3[/daudio]
+
+Hãy điền từ để hoàn thành câu sau:
+Das [dans44]Schlafen[/dans44] dauert lange.
+
+[hidden]Nội dung file nghe: Das Schlafen dauert lange.[/hidden]
+
+[/dquiz44]

@@ -1,0 +1,9 @@
+[dquiz1 title="Chọn Richtig hoặc Falsch cho mỗi câu dưới đây" id="BT5.2.5.6.8"]
+
+Der Pilot fährt das Auto.
+[dans1 title="Richtig/Falsch" ans="2"]Der Pilot fährt das Auto.[/dans1]
+
+Der Wissenschaftler arbeitet im Labor.
+[dans1 title="Richtig/Falsch" ans="1"]Der Wissenschaftler arbeitet im Labor.[/dans1]
+
+[/dquiz1]

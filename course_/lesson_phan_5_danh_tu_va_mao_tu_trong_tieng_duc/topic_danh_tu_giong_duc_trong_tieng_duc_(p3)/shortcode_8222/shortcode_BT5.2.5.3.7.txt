@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.5.3.7" title="Đọc và ghi âm lại từ vựng" ]
+
+    Đọc và ghi âm lại các từ vựng sau đây:
+    Professor
+    Moderator
+    Konditor
+    Administrator
+
+    [hidden]Đọc và ghi âm lại các từ vựng sau đây:
+    Professor
+    Moderator
+    Konditor
+    Administrator[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+
+[/dquiz58]

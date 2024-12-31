@@ -1,0 +1,9 @@
+[dquiz44 id="BT4.2.6.4" title="Chọn từ đúng để hoàn thành câu."]
+
+    Ich [dans44]bin[/dans44] (bin/bist) zu Hause.
+    Du [dans44]hast[/dans44] (hast/hat) ein Buch.
+    Er [dans44]ist[/dans44] (ist/sind) mein Freund.
+    Wir [dans44]mögen[/dans44] (mögen/mögt) Schokolade.
+    Ihr [dans44]könnt[/dans44] (könnt/können) Deutsch sprechen.
+
+[/dquiz44]

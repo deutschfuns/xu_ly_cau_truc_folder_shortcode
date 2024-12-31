@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.34.12" title="Chọn từ đúng để hoàn thành câu"]
+    Chúng tôi đã xem rất nhiều ___ trên tivi hôm qua.
+    [dans3 ans="B"]
+    A. Lehrer
+    B. Werbung
+    C. Herz
+    [/dans3]
+[/dquiz3]

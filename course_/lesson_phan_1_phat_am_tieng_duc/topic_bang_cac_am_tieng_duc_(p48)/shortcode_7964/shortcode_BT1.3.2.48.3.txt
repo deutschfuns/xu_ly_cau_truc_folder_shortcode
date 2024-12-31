@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.48.3" title="Từ nào sau đây có nghĩa là &quot;trò chơi&quot;?"]
+    [dans3 ans="B"]
+    A. Sprache
+    B. Spiel
+    C. Spur
+    [/dans3]
+[/dquiz3]

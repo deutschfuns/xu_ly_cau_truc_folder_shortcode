@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.7.2.2.6" title="Nghe đoạn ghi âm và chọn đáp án đúng"]
+    [daudio]BT1.7.2.2.6.mp3[/daudio]
+    [hidden]Nội dung file nghe: Wir treffen uns am fünften Oktober.[/hidden]
+
+    [dans3 ans="D"]
+    A. Mùng 5 tháng 9
+    B. Mùng 10 tháng 5
+    C. Mùng 15 tháng 10
+    D. Mùng 5 tháng 10
+    [/dans3]
+[/dquiz3]

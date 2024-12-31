@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.42" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Der ____ ist sehr frisch und lecker.
+    (Món salad rất tươi và ngon.)
+    [dans3 ans="B"]
+    A. Sekt
+    B. Salat
+    C. Mineralwasser
+    [/dans3]
+[/dquiz3]

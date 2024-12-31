@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.42.6" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.42.6.mp3[/daudio]
+
+[dans44]Wort[/dans44]
+[dans44]Motor[/dans44]
+[dans44]Tor[/dans44]
+
+[hidden]Nội dung file nghe: Wort; Motor; Tor[/hidden]
+
+[/dquiz44]

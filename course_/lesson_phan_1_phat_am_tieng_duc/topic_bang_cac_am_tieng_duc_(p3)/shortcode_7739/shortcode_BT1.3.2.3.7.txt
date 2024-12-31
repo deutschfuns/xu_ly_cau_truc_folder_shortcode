@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.3.7" title="Nghe và chọn những đáp án đúng sau đây"]
+    [daudio]BT1.3.2.3.7.mp3[/daudio]
+    [dans3 ans="D"]
+    A. Tränen
+    B. Bänder
+    C. Strände
+    D. Erklärung
+    [/dans3]
+    [hidden]Nội dung file nghe: Erklärung[/hidden]
+[/dquiz3]

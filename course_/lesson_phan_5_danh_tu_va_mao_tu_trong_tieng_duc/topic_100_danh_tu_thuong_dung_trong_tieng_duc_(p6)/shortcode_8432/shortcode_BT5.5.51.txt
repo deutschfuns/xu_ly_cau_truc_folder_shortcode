@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.5.51" title="Điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Ich habe mein [dans44]Knie[/dans44] beim Sport verletzt.
+    (Tôi đã làm tổn thương đầu gối của mình khi chơi thể thao.)
+
+[/dquiz44]

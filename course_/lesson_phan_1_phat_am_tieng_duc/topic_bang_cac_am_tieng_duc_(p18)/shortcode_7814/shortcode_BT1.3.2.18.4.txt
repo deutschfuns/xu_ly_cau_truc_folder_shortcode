@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.18.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.18.4.mp3[/daudio]
+    [dans3 ans="B"]
+    A. mehr
+    B. morgen
+    C. Mund
+    [/dans3]
+    [hidden]Nội dung file nghe: morgen[/hidden]
+[/dquiz3]

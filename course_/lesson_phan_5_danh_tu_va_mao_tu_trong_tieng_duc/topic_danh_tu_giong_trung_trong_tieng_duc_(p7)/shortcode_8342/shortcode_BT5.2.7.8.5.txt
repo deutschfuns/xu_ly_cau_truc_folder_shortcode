@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.7.8.5" title="Ghép các danh từ với định nghĩa phù hợp"]
+    [dans31 ans="1-A,2-C,3-D,4-B"]
+    1. Fahren
+    2. Verlieren
+    3. Gewinnen
+    4. Besuchen
+    A. Lái xe
+    B. Thăm
+    C. Mất
+    D. Chiến thắng
+    [/dans31]
+[/dquiz31]

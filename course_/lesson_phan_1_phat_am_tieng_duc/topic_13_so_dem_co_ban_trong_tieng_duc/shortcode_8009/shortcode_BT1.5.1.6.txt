@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.5.1.6" title="Từ nào sau đây có nghĩa là số &quot;4&quot;?"]
+    [dans3 ans="C"]
+    A. sechs
+    B. acht
+    C. vier
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,17 @@
+[dquiz3 id="BT3.2.5.2" title="Chọn câu trả lời đúng cho mỗi câu hỏi."]
+
+Wie ist dein Name?
+[dans3 ans="B"]
+A. Ich bin 16 Jahre alt.
+B. Mein Name ist Peter Schneider.
+C. Ich komme aus Vietnam.
+[/dans3]
+
+Woher kommst du?
+[dans3 ans="C"]
+A. Ich wohne in Berlin.
+B. Ich bin 27 Jahre alt.
+C. Ich komme aus Deutschland.
+[/dans3]
+
+[/dquiz3]

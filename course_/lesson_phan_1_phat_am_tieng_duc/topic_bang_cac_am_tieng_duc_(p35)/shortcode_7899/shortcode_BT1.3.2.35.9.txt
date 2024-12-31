@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.35.9" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.35.9.mp3[/daudio]
+
+    [dans37 ans="B-C-A-D"]
+    A. lernt
+    B. Mein
+    C. Bruder
+    D. Deutsch
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Mein Bruder lernt Deutsch[/hidden]
+[/dquiz37]

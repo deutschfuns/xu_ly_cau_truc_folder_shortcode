@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.8.8" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.8.8.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. Karte
+B. Schule
+C. Liebe
+D. Nase
+E. Torte
+[/dans19]
+
+[hidden]Nội dung file nghe: Schule; Liebe[/hidden]
+
+[/dquiz19]

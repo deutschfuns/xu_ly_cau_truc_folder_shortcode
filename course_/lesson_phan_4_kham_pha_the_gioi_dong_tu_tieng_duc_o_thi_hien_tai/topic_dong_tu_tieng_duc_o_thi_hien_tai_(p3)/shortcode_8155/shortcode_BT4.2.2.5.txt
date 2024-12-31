@@ -1,0 +1,15 @@
+[dquiz31 id="BT4.2.2.5" title="Nối câu tiếng Đức với nghĩa tiếng Việt tương ứng"]
+Nối câu tiếng Đức với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-A,2-D,3-B,4-C"]
+1. Sie deckt den Tisch.
+2. Ich danke dir für deine Hilfe.
+3. Er geht in die Schule.
+4. Das Kind gehorcht seinen Eltern.
+A. Cô ấy phủ khăn lên bàn.
+B. Anh ấy đi học.
+C. Đứa trẻ vâng lời cha mẹ.
+D. Tôi cảm ơn bạn vì sự giúp đỡ của bạn.
+[/dans31]
+
+[/dquiz31]

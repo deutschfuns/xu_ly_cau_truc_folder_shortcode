@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.7.2.5.1" title="Đọc các câu sau và chọn câu đúng với tên tháng bằng tiếng Đức."]
+    [daudio]V1.7.3-5.mp4[/daudio]
+
+    [dans3 ans="B"]
+    A. Januar là tháng Tư.
+    B. Januar là tháng Một.
+    C. Februar là tháng Ba.
+    D. März là tháng Hai.
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,21 @@
+[dquiz58 id="BT1.5.9.3.4" title="Đọc và ghi âm lại" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Ein halb 
+Ein Viertel 
+Drei Viertel 
+Fünfeinhalb 
+Drittel 
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Ein halb 
+Ein Viertel 
+Drei Viertel 
+Fünfeinhalb 
+Drittel[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

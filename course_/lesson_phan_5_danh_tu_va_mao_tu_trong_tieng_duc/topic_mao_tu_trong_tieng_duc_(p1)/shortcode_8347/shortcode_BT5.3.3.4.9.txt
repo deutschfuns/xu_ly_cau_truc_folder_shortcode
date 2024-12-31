@@ -1,0 +1,5 @@
+[dquiz44 id="BT5.3.3.4.9" title="Nghe câu và điền mạo từ không xác định đúng vào chỗ trống."]
+    [daudio]BT5.3.3.4.9.mp3[/daudio]
+    Ich habe [dans44]eine[/dans44] Wohnung gemietet.
+    [hidden]Nội dung file nghe: Ich habe eine Wohnung gemietet.[/hidden]
+[/dquiz44]

@@ -1,0 +1,10 @@
+[dquiz44 id="BT3.1.6.8" title="Nghe và điền từ hoặc cụm từ thích hợp vào chỗ trống." case-sensitive="false"]
+
+    [daudio]BT3.1.6.8.mp3[/daudio]
+
+    A: Entschuldigung!
+    B: [dans44]Kein Problem[/dans44]
+
+    [hidden]Nội dung file nghe: A: Entschuldigung! B: Kein Problem.[/hidden]
+
+[/dquiz44]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.21.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.21.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: hoffen[/hidden]
+    
+    [dans3 ans="C"]
+    A. Sonntag
+    B. Kollege
+    C. hoffen
+    [/dans3]
+[/dquiz3]

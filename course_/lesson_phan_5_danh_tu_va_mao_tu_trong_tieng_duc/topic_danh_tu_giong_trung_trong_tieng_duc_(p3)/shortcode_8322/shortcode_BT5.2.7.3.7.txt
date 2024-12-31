@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.7.3.7" title="Nghe câu sau và chọn từ phù hợp để hoàn thành câu"]
+    [daudio]BT5.2.7.3.7.mp3[/daudio]
+    Ich habe ein ______.
+    [dans3 ans="B"]
+    A. Testament
+    B. Apartment
+    C. Regiment
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich habe ein Apartment.[/hidden]
+[/dquiz3]

@@ -1,0 +1,13 @@
+[dquiz31 id="BT1.3.2.15.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Liebe
+    2. Lehrer
+    3. Lied
+    4. lächeln
+    A. Giáo viên
+    B. Bài hát
+    C. Tình yêu
+    D. Cười mỉm
+    [/dans31]
+[/dquiz31]

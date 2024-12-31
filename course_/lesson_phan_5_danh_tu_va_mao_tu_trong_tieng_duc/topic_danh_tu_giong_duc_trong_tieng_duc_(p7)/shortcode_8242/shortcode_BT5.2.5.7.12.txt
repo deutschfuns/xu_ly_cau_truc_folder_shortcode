@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.5.7.12" title="Đọc và ghi âm lại các từ vựng sau đây" ]
+
+    Đọc và ghi âm lại các từ vựng sau đây.
+    Montag
+    Frühling
+    Jahr
+    Süden
+
+    [hidden]Đọc và ghi âm lại các từ vựng sau đây.
+    Montag
+    Frühling
+    Jahr
+    Süden[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

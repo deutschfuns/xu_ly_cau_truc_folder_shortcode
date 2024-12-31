@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.22.3" title="Từ nào sau đây có nghĩa là &quot;vui vẻ&quot;?"]
+    [dans3 ans="C"]
+    A. können
+    B. Töchter
+    C. fröhlich
+    [/dans3]
+[/dquiz3]

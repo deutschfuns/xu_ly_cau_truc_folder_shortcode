@@ -1,0 +1,7 @@
+[dquiz44 id="BT1.7.2.5.18" title="Điền trạng từ chỉ ngày trong tuần thích hợp vào chỗ trống"]
+
+    Ich schwimme [dans44]dienstags[/dans44].
+    Wir haben eine Besprechung [dans44]donnerstags[/dans44].
+    Ich arbeite [dans44]freitags[/dans44].
+
+[/dquiz44]

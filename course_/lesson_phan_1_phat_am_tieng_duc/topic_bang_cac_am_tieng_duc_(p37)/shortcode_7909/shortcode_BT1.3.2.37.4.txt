@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.3.2.37.4" title="Sắp xếp các từ sau đây để tạo thành câu hoàn chỉnh"]
+    [daudio]BT1.3.2.37.4.mp3[/daudio]
+
+    [dans37 ans="A-B-C-D-E"]
+    A. Die
+    B. Frau
+    C. kauft
+    D. ein
+    E. Auto
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Frau kauft ein Auto[/hidden]
+[/dquiz37]

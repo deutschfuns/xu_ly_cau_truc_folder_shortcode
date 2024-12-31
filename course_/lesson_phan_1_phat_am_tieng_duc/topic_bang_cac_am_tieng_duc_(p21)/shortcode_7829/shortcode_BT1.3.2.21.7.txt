@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.21.7" title="Chọn đáp án đúng để hoàn thành câu sau:"]
+    Chúng ta sẽ gặp lại nhau vào ___.
+    [dans3 ans="C"]
+    A. Dorf
+    B. Kopf
+    C. Sonntag
+    [/dans3]
+[/dquiz3]

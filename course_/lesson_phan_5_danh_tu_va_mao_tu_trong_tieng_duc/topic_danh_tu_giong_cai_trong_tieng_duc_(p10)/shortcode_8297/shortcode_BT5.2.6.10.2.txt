@@ -1,0 +1,16 @@
+[dquiz31 id="BT5.2.6.10.2" title="Nối các danh từ có đuôi &quot;-ur&quot; với nghĩa tiếng Việt tương ứng"]
+
+Nối các danh từ có đuôi &quot;-ur&quot; với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-D,2-A,3-C,4-B"]
+1. Struktur
+2. Literatur
+3. Architektur
+4. Klausur
+A. Văn học
+B. Kỳ thi
+C. Kiến trúc
+D. Cấu trúc
+[/dans31]
+
+[/dquiz31]

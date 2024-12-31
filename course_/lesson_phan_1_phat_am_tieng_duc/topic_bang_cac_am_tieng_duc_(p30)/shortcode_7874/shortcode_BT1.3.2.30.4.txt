@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.30.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.30.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Tür[/hidden]
+    
+    [dans3 ans="B"]
+    A. grün
+    B. Tür
+    C. Küche
+    [/dans3]
+[/dquiz3]

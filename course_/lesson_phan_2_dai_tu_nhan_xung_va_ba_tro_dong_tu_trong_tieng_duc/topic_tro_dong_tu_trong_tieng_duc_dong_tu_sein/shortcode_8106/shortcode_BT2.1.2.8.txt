@@ -1,0 +1,12 @@
+[dquiz58 id="BT2.1.2.8" title="Luyện nói"]
+
+    Hãy ghi âm lại 1 câu tự giới thiệu về bản thân bằng tiếng Đức, sử dụng động từ „sein”.
+    Ví dụ: Ich bin Student. Ich bin 25 Jahre alt.
+
+    [hidden]Hãy ghi âm lại 1 câu tự giới thiệu về bản thân bằng tiếng Đức, sử dụng động từ „sein”.{{input}}[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

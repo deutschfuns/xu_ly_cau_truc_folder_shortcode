@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.4.9" title="Danh từ nào dưới đây là danh từ giống Đực?"]
+    [dans3 ans="C"]
+    A. Haus
+    B. Frau
+    C. Baum
+    [/dans3]
+[/dquiz3]

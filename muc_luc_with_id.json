@@ -1,0 +1,1347 @@
+{
+    "title": "TIẾNG ĐỨC A1",
+    "id": 7702,
+    "lessons": [
+        {
+            "title": "Giới thiệu tiếng Đức A1",
+            "id": 7703,
+            "topics": [
+                {
+                    "title": "Tiếng Đức A1 có những gì?",
+                    "topic_id": 7705,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Tiếng Đức A1 có những gì?",
+                        "id": 7707
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Phần 1: Phát âm tiếng Đức",
+            "id": 7710,
+            "topics": [
+                {
+                    "title": "Các đặc điểm phát âm tiếng Đức",
+                    "topic_id": 7712,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các đặc điểm phát âm tiếng Đức",
+                        "id": 7714
+                    }
+                },
+                {
+                    "title": "Bảng chữ cái tiếng Đức",
+                    "topic_id": 7717,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng chữ cái tiếng Đức",
+                        "id": 7719
+                    }
+                },
+                {
+                    "title": "Các âm trong tiếng Đức",
+                    "topic_id": 7722,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các âm trong tiếng Đức",
+                        "id": 7724
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P1)",
+                    "topic_id": 7727,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P1)",
+                        "id": 7729
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P2)",
+                    "topic_id": 7732,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P2)",
+                        "id": 7734
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P3)",
+                    "topic_id": 7737,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P3)",
+                        "id": 7739
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P4)",
+                    "topic_id": 7742,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P4)",
+                        "id": 7744
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P5)",
+                    "topic_id": 7747,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P5)",
+                        "id": 7749
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P6)",
+                    "topic_id": 7752,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P6)",
+                        "id": 7754
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P7)",
+                    "topic_id": 7757,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P7)",
+                        "id": 7759
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P8)",
+                    "topic_id": 7762,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P8)",
+                        "id": 7764
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P9)",
+                    "topic_id": 7767,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P9)",
+                        "id": 7769
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P10)",
+                    "topic_id": 7772,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P10)",
+                        "id": 7774
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P11)",
+                    "topic_id": 7777,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P11)",
+                        "id": 7779
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P12)",
+                    "topic_id": 7782,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P12)",
+                        "id": 7784
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P13)",
+                    "topic_id": 7787,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P13)",
+                        "id": 7789
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P14)",
+                    "topic_id": 7792,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P14)",
+                        "id": 7794
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P15)",
+                    "topic_id": 7797,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P15)",
+                        "id": 7799
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P16)",
+                    "topic_id": 7802,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P16)",
+                        "id": 7804
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P17)",
+                    "topic_id": 7807,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P17)",
+                        "id": 7809
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P18)",
+                    "topic_id": 7812,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P18)",
+                        "id": 7814
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P19)",
+                    "topic_id": 7817,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P19)",
+                        "id": 7819
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P20)",
+                    "topic_id": 7822,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P20)",
+                        "id": 7824
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P21)",
+                    "topic_id": 7827,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P21)",
+                        "id": 7829
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P22)",
+                    "topic_id": 7832,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P22)",
+                        "id": 7834
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P23)",
+                    "topic_id": 7837,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P23)",
+                        "id": 7839
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P24)",
+                    "topic_id": 7842,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P24)",
+                        "id": 7844
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P25)",
+                    "topic_id": 7847,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P25)",
+                        "id": 7849
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P26)",
+                    "topic_id": 7852,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P26)",
+                        "id": 7854
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P27)",
+                    "topic_id": 7857,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P27)",
+                        "id": 7859
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P28)",
+                    "topic_id": 7862,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P28)",
+                        "id": 7864
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P29)",
+                    "topic_id": 7867,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P29)",
+                        "id": 7869
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P30)",
+                    "topic_id": 7872,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P30)",
+                        "id": 7874
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P31)",
+                    "topic_id": 7877,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P31)",
+                        "id": 7879
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P32)",
+                    "topic_id": 7882,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P32)",
+                        "id": 7884
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P33)",
+                    "topic_id": 7887,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P33)",
+                        "id": 7889
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P34)",
+                    "topic_id": 7892,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P34)",
+                        "id": 7894
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P35)",
+                    "topic_id": 7897,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P35)",
+                        "id": 7899
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P36)",
+                    "topic_id": 7902,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P36)",
+                        "id": 7904
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P37)",
+                    "topic_id": 7907,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P37)",
+                        "id": 7909
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P38)",
+                    "topic_id": 7912,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P38)",
+                        "id": 7914
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P39)",
+                    "topic_id": 7917,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P39)",
+                        "id": 7919
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P40)",
+                    "topic_id": 7922,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P40)",
+                        "id": 7924
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P41)",
+                    "topic_id": 7927,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P41)",
+                        "id": 7929
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P42)",
+                    "topic_id": 7932,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P42)",
+                        "id": 7934
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P43)",
+                    "topic_id": 7937,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P43)",
+                        "id": 7939
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P44)",
+                    "topic_id": 7942,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P44)",
+                        "id": 7944
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P45)",
+                    "topic_id": 7947,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P45)",
+                        "id": 7949
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P46)",
+                    "topic_id": 7952,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P46)",
+                        "id": 7954
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P47)",
+                    "topic_id": 7957,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P47)",
+                        "id": 7959
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P48)",
+                    "topic_id": 7962,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P48)",
+                        "id": 7964
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P49)",
+                    "topic_id": 7967,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P49)",
+                        "id": 7969
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P50)",
+                    "topic_id": 7972,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P50)",
+                        "id": 7974
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P51)",
+                    "topic_id": 7977,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P51)",
+                        "id": 7979
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P52)",
+                    "topic_id": 7982,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P52)",
+                        "id": 7984
+                    }
+                },
+                {
+                    "title": "Bảng các âm tiếng Đức (P53)",
+                    "topic_id": 7987,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Bảng các âm tiếng Đức (P53)",
+                        "id": 7989
+                    }
+                },
+                {
+                    "title": "Chào hỏi trong tiếng Đức",
+                    "topic_id": 7992,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Chào hỏi trong tiếng Đức",
+                        "id": 7994
+                    }
+                },
+                {
+                    "title": "Giới thiệu bản thân",
+                    "topic_id": 7997,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Giới thiệu bản thân",
+                        "id": 7999
+                    }
+                },
+                {
+                    "title": "Nghề nghiệp trong tiếng Đức",
+                    "topic_id": 8002,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Nghề nghiệp trong tiếng Đức",
+                        "id": 8004
+                    }
+                },
+                {
+                    "title": "13 số đếm cơ bản trong tiếng Đức",
+                    "topic_id": 8007,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 13 số đếm cơ bản trong tiếng Đức",
+                        "id": 8009
+                    }
+                },
+                {
+                    "title": "Số đếm từ 13 đến 19",
+                    "topic_id": 8012,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Số đếm từ 13 đến 19",
+                        "id": 8014
+                    }
+                },
+                {
+                    "title": "Các số tròn chục 20, 30, 40, 50, 60, 70, 80, 90",
+                    "topic_id": 8017,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các số tròn chục 20, 30, 40, 50, 60, 70, 80, 90",
+                        "id": 8019
+                    }
+                },
+                {
+                    "title": "Các số lẻ từ 21 đến 99",
+                    "topic_id": 8022,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các số lẻ từ 21 đến 99",
+                        "id": 8024
+                    }
+                },
+                {
+                    "title": "Các số từ 100 đến 900",
+                    "topic_id": 8027,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các số từ 100 đến 900",
+                        "id": 8029
+                    }
+                },
+                {
+                    "title": "Các số từ 1000 trở lên trong tiếng Đức",
+                    "topic_id": 8032,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các số từ 1000 trở lên trong tiếng Đức",
+                        "id": 8034
+                    }
+                },
+                {
+                    "title": "Đếm số lẻ lớn hơn 100",
+                    "topic_id": 8037,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Đếm số lẻ lớn hơn 100",
+                        "id": 8039
+                    }
+                },
+                {
+                    "title": "Số thứ tự trong tiếng Đức (P1)",
+                    "topic_id": 8042,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Số thứ tự trong tiếng Đức (P1)",
+                        "id": 8044
+                    }
+                },
+                {
+                    "title": "Số thứ tự trong tiếng Đức (P2)",
+                    "topic_id": 8047,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Số thứ tự trong tiếng Đức (P2)",
+                        "id": 8049
+                    }
+                },
+                {
+                    "title": "Phân số trong tiếng Đức",
+                    "topic_id": 8052,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Phân số trong tiếng Đức",
+                        "id": 8054
+                    }
+                },
+                {
+                    "title": "Khám phá cách nói giờ trong tiếng Đức (P1)",
+                    "topic_id": 8057,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Khám phá cách nói giờ trong tiếng Đức (P1)",
+                        "id": 8059
+                    }
+                },
+                {
+                    "title": "Khám phá cách nói giờ trong tiếng Đức (P2)",
+                    "topic_id": 8062,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Khám phá cách nói giờ trong tiếng Đức (P2)",
+                        "id": 8064
+                    }
+                },
+                {
+                    "title": "Khám phá cách nói giờ trong tiếng Đức (P3)",
+                    "topic_id": 8067,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Khám phá cách nói giờ trong tiếng Đức (P3)",
+                        "id": 8069
+                    }
+                },
+                {
+                    "title": "Ngày tháng năm trong tiếng Đức (P1)",
+                    "topic_id": 8072,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ngày tháng năm trong tiếng Đức (P1)",
+                        "id": 8074
+                    }
+                },
+                {
+                    "title": "Ngày tháng năm trong tiếng Đức (P2)",
+                    "topic_id": 8077,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ngày tháng năm trong tiếng Đức (P2)",
+                        "id": 8079
+                    }
+                },
+                {
+                    "title": "Ngày tháng năm trong tiếng Đức (P3)",
+                    "topic_id": 8082,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ngày tháng năm trong tiếng Đức (P3)",
+                        "id": 8084
+                    }
+                },
+                {
+                    "title": "Ngày tháng năm trong tiếng Đức (P4)",
+                    "topic_id": 8087,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ngày tháng năm trong tiếng Đức (P4)",
+                        "id": 8089
+                    }
+                },
+                {
+                    "title": "Ngày tháng năm trong tiếng Đức (P5)",
+                    "topic_id": 8092,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ngày tháng năm trong tiếng Đức (P5)",
+                        "id": 8094
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Phần 2: Đại từ nhân xưng và ba trợ động từ trong tiếng Đức",
+            "id": 8097,
+            "topics": [
+                {
+                    "title": "Đại từ nhân xưng trong tiếng Đức",
+                    "topic_id": 8099,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Đại từ nhân xưng trong tiếng Đức",
+                        "id": 8101
+                    }
+                },
+                {
+                    "title": "Trợ động từ trong tiếng Đức -  Động từ \"sein\"",
+                    "topic_id": 8104,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Trợ động từ trong tiếng Đức -  Động từ \"sein\"",
+                        "id": 8106
+                    }
+                },
+                {
+                    "title": "Trợ động từ trong tiếng Đức -  Động từ \"haben \"",
+                    "topic_id": 8109,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Trợ động từ trong tiếng Đức -  Động từ \"haben \"",
+                        "id": 8111
+                    }
+                },
+                {
+                    "title": "Trợ động từ trong tiếng Đức -  Động từ \"werden\"",
+                    "topic_id": 8114,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Trợ động từ trong tiếng Đức -  Động từ \"werden\"",
+                        "id": 8116
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Phần 3: Chào hỏi và giới thiệu bản thân trong tiếng Đức",
+            "id": 8119,
+            "topics": [
+                {
+                    "title": "Chào hỏi, cảm ơn và xin lỗi trong tiếng Đức (P1)",
+                    "topic_id": 8121,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Chào hỏi, cảm ơn và xin lỗi trong tiếng Đức (P1)",
+                        "id": 8123
+                    }
+                },
+                {
+                    "title": "Chào hỏi, cảm ơn và xin lỗi trong tiếng Đức (P2)",
+                    "topic_id": 8126,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Chào hỏi, cảm ơn và xin lỗi trong tiếng Đức (P2)",
+                        "id": 8128
+                    }
+                },
+                {
+                    "title": "Giới thiệu bản thân trong tiếng Đức (P1)",
+                    "topic_id": 8131,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Giới thiệu bản thân trong tiếng Đức (P1)",
+                        "id": 8133
+                    }
+                },
+                {
+                    "title": "Giới thiệu bản thân trong tiếng Đức (P2)",
+                    "topic_id": 8136,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Giới thiệu bản thân trong tiếng Đức (P2)",
+                        "id": 8138
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Phần 4: Khám phá thế giới động từ tiếng Đức ở thì hiện tại",
+            "id": 8141,
+            "topics": [
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P1)",
+                    "topic_id": 8143,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P1)",
+                        "id": 8145
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P2)",
+                    "topic_id": 8148,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P2)",
+                        "id": 8150
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P3)",
+                    "topic_id": 8153,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P3)",
+                        "id": 8155
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P4)",
+                    "topic_id": 8158,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P4)",
+                        "id": 8160
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P5)",
+                    "topic_id": 8163,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P5)",
+                        "id": 8165
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P6)",
+                    "topic_id": 8168,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P6)",
+                        "id": 8170
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P7)",
+                    "topic_id": 8173,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P7)",
+                        "id": 8175
+                    }
+                },
+                {
+                    "title": "Động từ tiếng Đức ở thì hiện tại (P8)",
+                    "topic_id": 8178,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Động từ tiếng Đức ở thì hiện tại (P8)",
+                        "id": 8180
+                    }
+                },
+                {
+                    "title": "40 động từ tiếng Đức thường gặp (P1)",
+                    "topic_id": 8183,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 40 động từ tiếng Đức thường gặp (P1)",
+                        "id": 8185
+                    }
+                },
+                {
+                    "title": "40 động từ tiếng Đức thường gặp (P2)",
+                    "topic_id": 8188,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 40 động từ tiếng Đức thường gặp (P2)",
+                        "id": 8190
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Phần 5: Danh từ và mạo từ trong tiếng Đức",
+            "id": 8193,
+            "topics": [
+                {
+                    "title": "Ôn lại kiến thức cũ",
+                    "topic_id": 8195,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Ôn lại kiến thức cũ",
+                        "id": 8197
+                    }
+                },
+                {
+                    "title": "Danh từ trong tiếng Đức (P1)",
+                    "topic_id": 8200,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ trong tiếng Đức (P1)",
+                        "id": 8202
+                    }
+                },
+                {
+                    "title": "Danh từ trong tiếng Đức (P2)",
+                    "topic_id": 8205,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ trong tiếng Đức (P2)",
+                        "id": 8207
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P1)",
+                    "topic_id": 8210,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P1)",
+                        "id": 8212
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P2)",
+                    "topic_id": 8215,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P2)",
+                        "id": 8217
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P3)",
+                    "topic_id": 8220,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P3)",
+                        "id": 8222
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P4)",
+                    "topic_id": 8225,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P4)",
+                        "id": 8227
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P5)",
+                    "topic_id": 8230,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P5)",
+                        "id": 8232
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P6)",
+                    "topic_id": 8235,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P6)",
+                        "id": 8237
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P7)",
+                    "topic_id": 8240,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P7)",
+                        "id": 8242
+                    }
+                },
+                {
+                    "title": "Danh từ giống Đực trong tiếng Đức (P8)",
+                    "topic_id": 8245,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống Đực trong tiếng Đức (P8)",
+                        "id": 8247
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P1)",
+                    "topic_id": 8250,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P1)",
+                        "id": 8252
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P2)",
+                    "topic_id": 8255,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P2)",
+                        "id": 8257
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P3)",
+                    "topic_id": 8260,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P3)",
+                        "id": 8262
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P4)",
+                    "topic_id": 8265,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P4)",
+                        "id": 8267
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P5)",
+                    "topic_id": 8270,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P5)",
+                        "id": 8272
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P6)",
+                    "topic_id": 8275,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P6)",
+                        "id": 8277
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P7)",
+                    "topic_id": 8280,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P7)",
+                        "id": 8282
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P8)",
+                    "topic_id": 8285,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P8)",
+                        "id": 8287
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P9)",
+                    "topic_id": 8290,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P9)",
+                        "id": 8292
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P10)",
+                    "topic_id": 8295,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P10)",
+                        "id": 8297
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P11)",
+                    "topic_id": 8300,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P11)",
+                        "id": 8302
+                    }
+                },
+                {
+                    "title": "Danh từ giống cái trong tiếng Đức (P12)",
+                    "topic_id": 8305,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống cái trong tiếng Đức (P12)",
+                        "id": 8307
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P1)",
+                    "topic_id": 8310,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P1)",
+                        "id": 8312
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P2)",
+                    "topic_id": 8315,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P2)",
+                        "id": 8317
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P3)",
+                    "topic_id": 8320,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P3)",
+                        "id": 8322
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P4)",
+                    "topic_id": 8325,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P4)",
+                        "id": 8327
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P5)",
+                    "topic_id": 8330,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P5)",
+                        "id": 8332
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P6)",
+                    "topic_id": 8335,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P6)",
+                        "id": 8337
+                    }
+                },
+                {
+                    "title": "Danh từ giống trung trong tiếng Đức (P7)",
+                    "topic_id": 8340,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ giống trung trong tiếng Đức (P7)",
+                        "id": 8342
+                    }
+                },
+                {
+                    "title": "Mạo từ trong tiếng Đức (P1)",
+                    "topic_id": 8345,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Mạo từ trong tiếng Đức (P1)",
+                        "id": 8347
+                    }
+                },
+                {
+                    "title": "Mạo từ trong tiếng Đức (P2)",
+                    "topic_id": 8350,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Mạo từ trong tiếng Đức (P2)",
+                        "id": 8352
+                    }
+                },
+                {
+                    "title": "Danh từ số nhiều trong tiếng Đức",
+                    "topic_id": 8355,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Danh từ số nhiều trong tiếng Đức",
+                        "id": 8357
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P1)",
+                    "topic_id": 8360,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P1)",
+                        "id": 8362
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P2)",
+                    "topic_id": 8365,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P2)",
+                        "id": 8367
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P3)",
+                    "topic_id": 8370,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P3)",
+                        "id": 8372
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P4)",
+                    "topic_id": 8375,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P4)",
+                        "id": 8377
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P5)",
+                    "topic_id": 8380,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P5)",
+                        "id": 8382
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P6)",
+                    "topic_id": 8385,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P6)",
+                        "id": 8387
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P7)",
+                    "topic_id": 8390,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P7)",
+                        "id": 8392
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P8)",
+                    "topic_id": 8395,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P8)",
+                        "id": 8397
+                    }
+                },
+                {
+                    "title": "Các quy tắc thành lập số nhiều (P9)",
+                    "topic_id": 8400,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - Các quy tắc thành lập số nhiều (P9)",
+                        "id": 8402
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P1)",
+                    "topic_id": 8405,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P1)",
+                        "id": 8407
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P2)",
+                    "topic_id": 8410,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P2)",
+                        "id": 8412
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P3)",
+                    "topic_id": 8415,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P3)",
+                        "id": 8417
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P4)",
+                    "topic_id": 8420,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P4)",
+                        "id": 8422
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P5)",
+                    "topic_id": 8425,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P5)",
+                        "id": 8427
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P6)",
+                    "topic_id": 8430,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P6)",
+                        "id": 8432
+                    }
+                },
+                {
+                    "title": "100 danh từ thường dùng trong tiếng Đức (P7)",
+                    "topic_id": 8435,
+                    "video": "",
+                    "quiz": {
+                        "title": "shortcode - 100 danh từ thường dùng trong tiếng Đức (P7)",
+                        "id": 8437
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.4.1.50" title="Chọn danh từ số nhiều đúng để hoàn thành câu."]
+
+Die ____ waren sehr glücklich.
+(Mọi người đã rất hạnh phúc.)
+
+[dans3 ans="B"]
+A. Geschwister
+B. Leute
+C. Kosten
+[/dans3]
+
+[/dquiz3]

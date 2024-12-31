@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.7.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-B,3-A"]
+    1. Engel
+    2. Essig
+    3. Esel
+    A. Con lừa
+    B. Giấm ăn
+    C. Thiên thần
+    [/dans31]
+[/dquiz31]

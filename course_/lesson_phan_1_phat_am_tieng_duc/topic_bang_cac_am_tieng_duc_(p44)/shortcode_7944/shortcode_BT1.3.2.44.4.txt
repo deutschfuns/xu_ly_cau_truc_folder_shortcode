@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.44.4" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.44.4.mp3[/daudio]
+
+    [dans37 ans="A-B-C-D"]
+    A. Ich
+    B. komme
+    C. aus
+    D. München
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich komme aus München[/hidden]
+[/dquiz37]

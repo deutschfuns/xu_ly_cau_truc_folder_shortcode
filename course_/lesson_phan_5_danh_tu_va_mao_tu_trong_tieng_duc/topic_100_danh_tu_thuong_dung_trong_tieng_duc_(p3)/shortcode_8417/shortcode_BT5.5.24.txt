@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.5.24" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+
+Die ____ gefährdet die Gesundheit.
+[dans3 ans="C"]
+A. Liebe
+B. Bildung
+C. Umweltverschmutzung
+[/dans3]
+
+[/dquiz3]

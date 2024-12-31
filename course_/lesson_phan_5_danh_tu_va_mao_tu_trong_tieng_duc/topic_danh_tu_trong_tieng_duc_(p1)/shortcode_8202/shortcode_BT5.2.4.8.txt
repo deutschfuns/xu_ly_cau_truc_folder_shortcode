@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.4.8" title="Câu nào dưới đây là đúng về quy tắc viết danh từ trong tiếng Đức?"]
+    [dans3 ans="C"]
+    A. Danh từ chỉ cần viết hoa khi nó là tên riêng.
+    B. Chỉ viết hoa danh từ nếu nó ở đầu câu.
+    C. Tất cả danh từ đều viết hoa, bất kể vị trí trong câu.
+    [/dans3]
+[/dquiz3]

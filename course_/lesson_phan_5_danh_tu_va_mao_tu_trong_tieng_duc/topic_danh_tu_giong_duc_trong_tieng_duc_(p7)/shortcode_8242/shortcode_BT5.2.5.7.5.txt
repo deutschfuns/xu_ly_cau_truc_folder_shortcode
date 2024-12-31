@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.7.5" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.5.7.5.mp3[/daudio]
+    [hidden]Nội dung file nghe: Mittag[/hidden]
+    [dans3 ans="C"]
+    A. Morgen
+    B. Abend
+    C. Mittag
+    D. Nacht
+    [/dans3]
+[/dquiz3]

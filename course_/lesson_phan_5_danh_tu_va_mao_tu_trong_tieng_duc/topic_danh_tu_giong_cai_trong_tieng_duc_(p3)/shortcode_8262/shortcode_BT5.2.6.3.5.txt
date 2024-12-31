@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.3.5" title="Nối từ tiếng Đức với nghĩa tiếng Việt"]
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Gerechtigkeit
+    2. Geschwindigkeit
+    3. Höflichkeit
+    4. Feuchtigkeit
+    A. Tốc độ
+    B. Công lý
+    C. Độ ẩm
+    D. Lịch sự
+    [/dans31]
+[/dquiz31]

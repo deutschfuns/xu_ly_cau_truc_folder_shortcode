@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.17.7" title="Điền từ thích hợp vào chỗ trống"]
+Chiếc xe chạy rất __.
+[dans3 ans="C"]
+A. Vogel
+B. Apfel
+C. schnell
+[/dans3]
+[/dquiz3]

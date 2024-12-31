@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.25.9" title="Từ nào sau đây liên quan đến thời tiết?"]
+    [dans3 ans="A"]
+    A. regen
+    B. Ring
+    C. Rat
+    [/dans3]
+[/dquiz3]

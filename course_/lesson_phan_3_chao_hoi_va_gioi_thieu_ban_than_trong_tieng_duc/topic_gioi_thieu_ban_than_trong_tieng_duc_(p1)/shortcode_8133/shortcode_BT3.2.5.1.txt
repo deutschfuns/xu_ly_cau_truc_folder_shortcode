@@ -1,0 +1,7 @@
+[dquiz44 id="BT3.2.5.1" title="Hoàn thành các câu sau với từ thích hợp"]
+
+    Wie [dans44]heißt[/dans44] du?
+    Ich [dans44]heiße[/dans44] Peter Schneider.
+    Woher [dans44]kommst[/dans44] du?
+
+[/dquiz44]

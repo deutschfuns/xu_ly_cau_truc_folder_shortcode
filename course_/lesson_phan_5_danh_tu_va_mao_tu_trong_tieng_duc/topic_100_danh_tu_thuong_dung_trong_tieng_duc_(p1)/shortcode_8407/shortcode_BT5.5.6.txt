@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.5.6" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.5.6.mp3[/daudio]
+
+    Der Zug steht auf ____ 4.
+    [dans3 ans="B"]
+    A. Koffer
+    B. Gleis
+    C. Fahrkarte
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Der Zug steht auf Gleis 4.[/hidden]
+
+[/dquiz3]

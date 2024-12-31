@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.2.6" title="Nghe và chọn những đáp án đúng sau đây"]
+
+    [daudio file="BT1.3.2.2.6.mp3"]
+
+    Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+    [dans19 ans="A,B,D"]
+    A. Platz
+    B. Schrank
+    C. Mann
+    D. Kamm
+    E. Apfel
+    [/dans19]
+
+    [hidden]Nội dung file nghe: Platz; Schrank; Kamm[/hidden]
+
+[/dquiz19]

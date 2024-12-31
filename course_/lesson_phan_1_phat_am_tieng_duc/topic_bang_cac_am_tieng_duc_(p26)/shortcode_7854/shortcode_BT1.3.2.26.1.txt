@@ -1,0 +1,13 @@
+[dquiz3 id="BT1.3.2.26.1" title="Hãy hoàn thành câu sau với từ vựng thích hợp"]
+    [daudio]V1.3.2_26.mp4[/daudio]
+
+    Im ____ scheint die __ sehr stark.
+    (Vào mùa hè, mặt trời chiếu sáng rất mạnh)
+
+    [dans3 ans="B"]
+    A. Seite; See
+    B. Sommer; Sonne
+    C. See; Salz
+    [/dans3]
+
+[/dquiz3]

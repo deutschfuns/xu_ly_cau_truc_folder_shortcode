@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.25.1" title="Từ nào sau đây có nghĩa là &quot;mưa&quot;?"]
+
+[daudio]V1.3.2_25.mp4[/daudio]
+
+[dans3 ans="B"]
+A. reich
+B. regen
+C. Ring
+[/dans3]
+
+[/dquiz3]

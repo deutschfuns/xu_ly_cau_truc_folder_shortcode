@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.6.16" title="Đọc và chọn từ phù hợp"]
+
+    Người bán thịt là từ nào trong tiếng Đức?
+    [dans3 ans="A"]
+    A. Metzger
+    B. Tänzer
+    C. Sänger
+    D. Elektriker
+    [/dans3]
+
+    Thợ khóa là từ nào trong tiếng Đức?
+    [dans3 ans="B"]
+    A. Elektriker
+    B. Schlosser
+    C. Maurer
+    D. Journalist
+    [/dans3]
+
+[/dquiz3]

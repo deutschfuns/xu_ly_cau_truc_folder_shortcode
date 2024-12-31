@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.6.4" title="Nghe và điền từ" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.6.6.4.mp3[/daudio]
+
+    Die [dans44]Tradition[/dans44] ist wichtig.
+
+    [hidden]Nội dung file nghe: Die Tradition ist wichtig.[/hidden]
+
+[/dquiz44]

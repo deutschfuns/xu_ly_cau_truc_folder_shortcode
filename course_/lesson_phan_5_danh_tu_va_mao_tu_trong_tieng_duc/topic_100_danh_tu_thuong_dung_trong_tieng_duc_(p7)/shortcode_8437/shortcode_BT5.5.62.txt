@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.5.62" title="Nghe câu và điền từ thích hợp vào chỗ trống."]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.5.62.mp3[/daudio]
+    Der [dans44]Koch[/dans44] bereitet das Essen für die Gäste vor.
+    [hidden]Nội dung file nghe: Der Koch bereitet das Essen für die Gäste vor.[/hidden]
+[/dquiz44]

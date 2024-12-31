@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.5.4.1" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+
+[dans31 ans="1-C,2-A,3-B,4-D"]
+1. Tourismus
+2. Feminismus
+3. Organismus
+4. Kapitalismus
+A. Chủ nghĩa nữ quyền
+B. Sinh vật, cơ thể sống
+C. Ngành du lịch
+D. Chủ nghĩa tư bản
+[/dans31]
+
+[/dquiz31]

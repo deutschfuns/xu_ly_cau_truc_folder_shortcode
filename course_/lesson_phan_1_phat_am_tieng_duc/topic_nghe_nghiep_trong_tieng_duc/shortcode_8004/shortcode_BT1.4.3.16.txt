@@ -1,0 +1,17 @@
+[dquiz58 id="BT1.4.3.16" title="Đọc và ghi âm lại"]
+    Hãy đọc và ghi âm lại nội dung sau:
+    Mechaniker
+    Mechanikerin
+    Elektriker
+    Elektrikerin
+
+    [hidden]Hãy đọc và ghi âm lại nội dung sau:
+    Mechaniker
+    Mechanikerin
+    Elektriker
+    Elektrikerin[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+[/dquiz58]

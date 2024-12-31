@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.24.8" title="Nghe và chọn từ bạn nghe được"]
+    [daudio]BT1.3.2.24.8.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Qualität
+    B. Quartal
+    C. Quark
+    [/dans3]
+    [hidden]Nội dung file nghe: Quartal[/hidden]
+[/dquiz3]

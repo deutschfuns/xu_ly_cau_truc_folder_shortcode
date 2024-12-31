@@ -1,0 +1,15 @@
+[dquiz58 id="BT3.2.9.6" title="Đọc và ghi âm lại đoạn hội thoại về nghề nghiệp"]
+
+    Đọc và ghi âm lại đoạn hội thoại giới thiệu về nghề nghiệp bằng tiếng Đức.
+    A: Was bist du von Beruf?
+    B: Ich bin Koch von Beruf.
+
+    [hidden]Đọc và ghi âm lại đoạn hội thoại giới thiệu về nghề nghiệp bằng tiếng Đức.
+    A: Was bist du von Beruf?
+    B: Ich bin Koch von Beruf.[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.50.4" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.50.4.mp3[/daudio]
+
+    [dans37 ans="A-C-B-D"]
+    A. Die
+    B. ist
+    C. Gruppe
+    D. groß
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Gruppe ist groß.[/hidden]
+[/dquiz37]

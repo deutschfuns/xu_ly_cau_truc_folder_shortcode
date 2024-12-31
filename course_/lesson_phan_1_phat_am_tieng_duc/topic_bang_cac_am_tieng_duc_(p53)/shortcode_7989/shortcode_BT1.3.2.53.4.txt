@@ -1,0 +1,10 @@
+[dquiz44 id="BT1.3.2.53.4" title="Điền từ đúng vào chỗ trống"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Psychisch, Psychotherapie, Psychologie, Pseudonym
+
+    1. Cô ấy đang theo học ngành [dans44]Psychologie[/dans44].
+    2. Một số vấn đề [dans44]Psychisch[/dans44] có thể được chữa trị bằng liệu pháp tâm lý.
+    3. Ông ấy đã thay đổi tên thật bằng một [dans44]Pseudonym[/dans44].
+    4. Cô ấy đang trải qua [dans44]Psychotherapie[/dans44] để phục hồi tâm lý.
+
+[/dquiz44]

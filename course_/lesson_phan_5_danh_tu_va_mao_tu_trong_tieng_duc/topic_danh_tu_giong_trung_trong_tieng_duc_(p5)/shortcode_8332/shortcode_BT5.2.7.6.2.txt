@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.7.6.2" title="Nối các danh từ có đuôi &quot;-lein&quot; và &quot;-erl&quot; với nghĩa tiếng Việt tương ứng"]
+
+[dans31 ans="1-A,2-B,3-D,4-C"]
+1. Fläschlein
+2. Sackerl
+3. Vöglein
+4. Zuckerl
+A. Chai nhỏ
+B. Túi nhỏ
+C. Kẹo
+D. Chim nhỏ
+[/dans31]
+
+[/dquiz31]

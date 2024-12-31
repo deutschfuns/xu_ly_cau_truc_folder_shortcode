@@ -1,0 +1,11 @@
+[dquiz3 id="BT5.2.4.6" title="Khi danh từ là số ít, ta cần nhớ thêm gì?"]
+
+    Khi danh từ là số ít, ta cần nhớ thêm gì?
+
+    [dans3 ans="A"]
+    A. Giống của danh từ (Đực, Cái, Trung)
+    B. Màu sắc của danh từ
+    C. Danh từ luôn là giống Cái
+    [/dans3]
+
+[/dquiz3]

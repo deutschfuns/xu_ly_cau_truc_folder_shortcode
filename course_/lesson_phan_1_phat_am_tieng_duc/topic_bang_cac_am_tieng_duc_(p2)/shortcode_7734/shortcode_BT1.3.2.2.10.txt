@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.3.2.2.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-D,4-E,5-B"]
+    1. Mann
+    2. Apfel
+    3. Katze
+    4. Ratte
+    5. Kamm
+    A. Quả táo
+    B. Cái lược
+    C. Người đàn ông
+    D. Con mèo
+    E. Con chuột
+    [/dans31]
+[/dquiz31]

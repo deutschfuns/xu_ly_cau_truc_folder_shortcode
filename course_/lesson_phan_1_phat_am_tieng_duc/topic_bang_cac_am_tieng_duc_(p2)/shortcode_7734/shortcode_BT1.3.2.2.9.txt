@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.2.9" title="Từ nào diễn tả trạng thái sau khi ăn no?"]
+    [dans3 ans="B"]
+    A. Schlamm
+    B. satt
+    C. Ratte
+    D. Platz
+    [/dans3]
+[/dquiz3]

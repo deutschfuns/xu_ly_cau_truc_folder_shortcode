@@ -1,0 +1,15 @@
+[dquiz3 id="BT1.5.9.3.5" title="Chọn đáp án đúng"]
+
+    (1) 1/4 giờ trong tiếng Đức là:
+    [dans3 ans="B"]
+    A. ein Viertelstunde
+    B. eine Viertelstunde
+    [/dans3]
+
+    (2) Tôi đã làm sai 1/4 số câu hỏi:
+    [dans3 ans="A"]
+    A. ein Viertel der Fragen
+    B. ein Fünftel der Fragen
+    [/dans3]
+
+[/dquiz3]

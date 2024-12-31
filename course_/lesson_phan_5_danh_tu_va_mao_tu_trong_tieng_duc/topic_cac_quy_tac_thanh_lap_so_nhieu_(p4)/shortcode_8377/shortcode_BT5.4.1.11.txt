@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.4.1.11" title="Nghe câu và điền dạng số nhiều đúng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.4.1.11.mp3[/daudio]
+
+    Die [dans44]Bücher[/dans44] sind auf dem Tisch.
+
+    [hidden]Nội dung file nghe: Die Bücher sind auf dem Tisch.[/hidden]
+
+[/dquiz44]

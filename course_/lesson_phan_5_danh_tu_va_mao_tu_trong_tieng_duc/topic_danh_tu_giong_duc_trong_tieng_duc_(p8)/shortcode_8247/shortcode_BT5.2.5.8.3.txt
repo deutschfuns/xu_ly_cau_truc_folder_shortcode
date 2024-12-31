@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.5.8.3" title="Nghe và điền từ vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.5.8.3.mp3[/daudio]
+
+    Ich trinke gerne heißen [dans44]Tee[/dans44].
+
+    [hidden]Nội dung file nghe: Ich trinke gerne heißen Tee.[/hidden]
+
+[/dquiz44]

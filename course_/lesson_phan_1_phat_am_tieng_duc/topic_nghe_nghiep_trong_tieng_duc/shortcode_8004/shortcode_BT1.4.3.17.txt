@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.4.3.17" title="Từ nào sau đây có nghĩa là &quot;lính cứu hỏa nữ&quot;?"]
+    [dans3 ans="C"]
+    A. Mechanikerin
+    B. Krankenpfleger
+    C. Feuerwehrfrau
+    [/dans3]
+[/dquiz3]

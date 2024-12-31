@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.4.3" title="Câu nào sau đây là cách viết danh từ đúng trong tiếng Đức?"]
+
+[dans3 ans="C"]
+A. FRAU
+B. haus
+C. Mann
+[/dans3]
+
+[/dquiz3]

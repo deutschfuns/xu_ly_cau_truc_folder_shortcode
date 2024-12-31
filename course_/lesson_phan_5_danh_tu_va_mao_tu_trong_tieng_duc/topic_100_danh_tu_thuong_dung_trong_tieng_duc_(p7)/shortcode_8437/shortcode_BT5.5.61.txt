@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.5.61" title="Điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Der [dans44]Mechaniker[/dans44] hat mein Auto repariert.
+    (Thợ cơ khí đã sửa xe của tôi.)
+
+[/dquiz44]

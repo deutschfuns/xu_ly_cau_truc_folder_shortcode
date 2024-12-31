@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.6.11.13" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.6.11.13.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Mèo cái
+    B. Gấu cái
+    C. Ngựa cái
+    [/dans3]
+    [hidden]Nội dung file nghe: Bärin[/hidden]
+[/dquiz3]

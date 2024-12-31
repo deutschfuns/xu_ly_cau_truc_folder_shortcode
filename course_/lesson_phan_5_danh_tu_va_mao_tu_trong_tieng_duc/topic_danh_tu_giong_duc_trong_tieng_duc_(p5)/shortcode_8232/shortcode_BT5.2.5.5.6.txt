@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.5.5.6" title="Đọc và ghi âm lại các từ vựng sau đây" ]
+
+    Đọc và ghi âm lại các từ vựng sau đây.
+    Lehrer
+    Bäcker
+    Gärtner
+    Zugführer
+
+    [hidden]Đọc và ghi âm lại các từ vựng sau đây.
+    Lehrer
+    Bäcker
+    Gärtner
+    Zugführer[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+
+[/dquiz58]

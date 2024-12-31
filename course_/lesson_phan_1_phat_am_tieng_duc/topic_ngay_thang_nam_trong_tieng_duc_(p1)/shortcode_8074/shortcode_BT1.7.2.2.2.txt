@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.7.2.2.2" title="Chọn đáp án đúng với cách sử dụng giới từ &quot;an&quot; hoặc &quot;am&quot; khi nói về ngày tháng."]
+    [dans3 ans="C"]
+    A. Wir treffen uns an ein fünften Oktober.
+    B. Wir treffen uns fünften Zehnten.
+    C. Wir treffen uns am fünften Zehnten.
+    D. Wir treffen uns am fünfter Oktober.
+    [/dans3]
+[/dquiz3]

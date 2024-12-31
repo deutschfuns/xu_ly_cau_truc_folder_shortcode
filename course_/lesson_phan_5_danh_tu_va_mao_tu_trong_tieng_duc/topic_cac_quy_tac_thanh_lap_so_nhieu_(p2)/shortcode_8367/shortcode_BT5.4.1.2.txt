@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.4.1.2" title="Nghe câu và điền dạng số nhiều đúng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.4.1.2.mp3[/daudio]
+
+    Der Tag war lang, aber jetzt sind es viele [dans44]Tage[/dans44].
+
+    [hidden]Nội dung file nghe: Der Tag war lang, aber jetzt sind es viele Tage.[/hidden]
+
+[/dquiz44]

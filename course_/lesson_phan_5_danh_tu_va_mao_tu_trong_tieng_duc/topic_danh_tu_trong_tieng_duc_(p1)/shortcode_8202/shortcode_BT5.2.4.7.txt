@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.4.7" title="Trong tiếng Đức, khi một danh từ là số nhiều, danh từ đó sẽ:"]
+
+[dans3 ans="A"]
+A. Không có giống.
+B. Thuộc giống Đực.
+C. Thuộc giống Trung.
+[/dans3]
+
+[/dquiz3]

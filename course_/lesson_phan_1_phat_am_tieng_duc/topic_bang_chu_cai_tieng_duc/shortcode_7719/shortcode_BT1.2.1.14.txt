@@ -1,0 +1,14 @@
+[dquiz37 id="BT1.2.1.14" title="Nghe và sắp xếp theo thứ tự những chữ cái nghe được"]
+
+[daudio]BT1.2.1.14.mp3[/daudio]
+
+[dans37 ans="C-B-D-A"]
+A. R
+B. P
+C. O
+D. Q
+[/dans37]
+
+[hidden]Nội dung file nghe: O; P; Q; R[/hidden]
+
+[/dquiz37]

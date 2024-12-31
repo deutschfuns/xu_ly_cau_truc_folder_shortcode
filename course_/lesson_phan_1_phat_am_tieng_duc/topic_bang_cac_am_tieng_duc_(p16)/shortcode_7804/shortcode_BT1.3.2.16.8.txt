@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.16.8" title="Chọn từ đúng để điền vào chỗ trống"]
+    ___ là thứ chúng ta cần để thêm vào món ăn khi muốn làm đậm vị.
+    [dans3 ans="A"]
+    A. Salz
+    B. Schulter
+    C. Wald
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,7 @@
+[dquiz44 id="BT2.1.2.2" title="Hãy chia động từ sein ở thì hiện tại và điền vào chỗ trống" case-sensitive="false"]
+
+    Du [dans44]bist[/dans44] mein Freund.
+    Sie [dans44]sind[/dans44] Studenten.
+    Es [dans44]ist[/dans44] kalt heute.
+
+[/dquiz44]

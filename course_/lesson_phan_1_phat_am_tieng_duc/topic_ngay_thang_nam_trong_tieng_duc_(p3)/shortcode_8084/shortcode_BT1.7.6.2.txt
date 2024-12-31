@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.7.6.2" title="Đọc và chọn đáp án đúng"]
+    Cách đọc năm 1750 trong tiếng Đức là:
+    [dans3 ans="B"]
+    A. siebzehn-hundert-fünfzehn
+    B. siebzehn-hundert-fünfzig
+    C. achtzehn-hundert-fünfzig
+    D. siebzehn-hundert-vierzig
+    [/dans3]
+[/dquiz3]

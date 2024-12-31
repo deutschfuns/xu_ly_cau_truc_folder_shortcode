@@ -1,0 +1,11 @@
+[dquiz37 id="BT1.3.2.53.3" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.53.3.mp3[/daudio]
+
+    [dans37 ans="A-B-C"]
+    A. Er
+    B. studiert
+    C. Psychologie
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Er studiert Psychologie[/hidden]
+[/dquiz37]

@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.33.3" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.33.3.mp3[/daudio]
+
+    [dans37 ans="A-D-B-C"]
+    A. Ich
+    B. den
+    C. Zucker
+    D. esse
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich esse den Zucker.[/hidden]
+[/dquiz37]

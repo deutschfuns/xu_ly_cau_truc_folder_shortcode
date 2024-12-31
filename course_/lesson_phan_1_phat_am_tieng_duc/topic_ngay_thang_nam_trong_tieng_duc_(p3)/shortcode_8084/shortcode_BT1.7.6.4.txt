@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.7.6.4" title="Nghe và điền từ vào chỗ trống"]
+
+[daudio]BT1.7.6.4.mp3[/daudio]
+
+Năm 1901 được đọc là: [dans44]neunzehn-hundert-eins[/dans44].
+Năm 1980 được đọc là: [dans44]neunzehn-hundert-achtzig[/dans44].
+Năm 2000 được đọc là: [dans44]zweitausend[/dans44].
+
+[hidden]Nội dung file nghe: neunzehn-hundert-eins, neunzehn-hundert-achtzig, zweitausend[/hidden]
+
+[/dquiz44]

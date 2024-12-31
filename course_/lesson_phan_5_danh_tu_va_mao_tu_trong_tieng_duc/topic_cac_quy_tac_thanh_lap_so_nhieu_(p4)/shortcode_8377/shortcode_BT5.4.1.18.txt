@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.4.1.18" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    Die ____ sind im Park.
+    (Những chàng trai đang ở trong công viên.)
+    [dans3 ans="A"]
+    A. Jungen
+    B. Ideen
+    C. Straßen
+    [/dans3]
+[/dquiz3]

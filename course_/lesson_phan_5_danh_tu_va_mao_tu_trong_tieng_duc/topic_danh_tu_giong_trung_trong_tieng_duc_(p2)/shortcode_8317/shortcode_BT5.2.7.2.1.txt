@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.2.1" title="Nghe từ và chọn đáp án đúng"]
+    [daudio]BT5.2.7.2.1.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Thema
+    B. Prisma
+    C. Drama
+    [/dans3]
+    [hidden]Nội dung file nghe: Thema[/hidden]
+[/dquiz3]

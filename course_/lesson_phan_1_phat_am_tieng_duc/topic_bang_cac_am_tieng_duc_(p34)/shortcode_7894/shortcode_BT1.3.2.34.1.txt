@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.34.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.34.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. besonders
+    B. verkaufen
+    C. erklären
+    [/dans3]
+    [hidden]Nội dung file nghe: verkaufen[/hidden]
+[/dquiz3]

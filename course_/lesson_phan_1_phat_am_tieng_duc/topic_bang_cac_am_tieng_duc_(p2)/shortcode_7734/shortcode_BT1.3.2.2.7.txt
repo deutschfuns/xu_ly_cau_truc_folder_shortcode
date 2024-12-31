@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.2.7" title="Từ nào sau đây có nghĩa là &quot;quảng trường, chỗ&quot;?"]
+
+[dans3 ans="A"]
+A. Platz
+B. Ratte
+C. Schrank
+D. Schlamm
+[/dans3]
+
+[/dquiz3]

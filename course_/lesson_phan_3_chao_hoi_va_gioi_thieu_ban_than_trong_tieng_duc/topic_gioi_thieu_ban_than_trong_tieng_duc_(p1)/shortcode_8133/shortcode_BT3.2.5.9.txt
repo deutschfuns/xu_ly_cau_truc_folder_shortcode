@@ -1,0 +1,13 @@
+[dquiz46 id="BT3.2.5.9" title="Viết giới thiệu bản thân" input-size="big"]
+Hãy viết một đoạn văn ngắn giới thiệu bản thân bằng tiếng Đức. Bao gồm thông tin về tên, tuổi, nơi ở và số điện thoại của bạn.
+Ví dụ: Hallo! Mein Name ist Peter Schneider. Ich bin 27 Jahre alt. Ich wohne in Hanoi. Meine Handynummer ist 0904 969 086.
+
+[dans46]
+
+[hidden]Hãy viết một đoạn văn ngắn giới thiệu bản thân bằng tiếng Đức. Bao gồm thông tin về tên, tuổi, nơi ở và số điện thoại của bạn.{{input}}[/hidden]
+
+[prompt]
+    [sc name="prompt46"][/sc]
+[/prompt]
+
+[/dquiz46]

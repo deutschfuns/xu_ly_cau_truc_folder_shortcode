@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.30.9" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.30.9.mp3[/daudio]
+    [hidden]Nội dung file nghe: Lüge[/hidden]
+
+    [dans3 ans="C"]
+    A. mệt mỏi
+    B. cây cầu
+    C. sự dối trá
+    [/dans3]
+[/dquiz3]

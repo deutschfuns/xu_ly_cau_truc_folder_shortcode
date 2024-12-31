@@ -1,0 +1,31 @@
+[dquiz3 id="BT4.3.17" title="Chọn câu có cách chia động từ đúng."]
+
+Anh ấy cần sự giúp đỡ.
+[dans3 ans="C"]
+A. Er brauchen Hilfe.
+B. Er brauchst Hilfe.
+C. Er braucht Hilfe.
+[/dans3]
+
+Cô ấy mở cửa sổ.
+[dans3 ans="B"]
+A. Sie öffnt das Fenster.
+B. Sie öffnet das Fenster.
+C. Sie öffnen das Fenster.
+[/dans3]
+
+Bạn hiểu tôi không?
+[dans3 ans="C"]
+A. Versteht du mich?
+B. Verstehen du mich?
+C. Verstehst du mich?
+[/dans3]
+
+Bọn trẻ chạy trong công viên.
+[dans3 ans="B"]
+A. Die Kinder läuft im Park.
+B. Die Kinder laufen im Park.
+C. Die Kinder läufst im Park.
+[/dans3]
+
+[/dquiz3]

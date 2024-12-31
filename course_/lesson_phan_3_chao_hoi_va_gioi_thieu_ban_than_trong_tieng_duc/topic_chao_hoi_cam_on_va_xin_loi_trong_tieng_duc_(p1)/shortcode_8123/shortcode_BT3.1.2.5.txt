@@ -1,0 +1,9 @@
+[dquiz3 id="BT3.1.2.5" title="Bạn nói gì khi kết thúc cuộc gọi điện thoại?"]
+
+    [dans3 ans="B"]
+    A. Guten Tag
+    B. Auf Wiederhören
+    C. Servus
+    [/dans3]
+
+[/dquiz3]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.12.15" title="Hãy chọn từ đúng để điền vào câu sau"]
+    Trong mùa đông, chúng tôi thường đi chơi bằng __.
+    [dans3 ans="B"]
+    A. Grillen
+    B. Schlitten
+    C. lind
+    [/dans3]
+[/dquiz3]

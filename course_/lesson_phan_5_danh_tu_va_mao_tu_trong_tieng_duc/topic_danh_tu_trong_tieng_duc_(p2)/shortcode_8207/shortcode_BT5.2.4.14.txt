@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.4.14" title="Chọn từ thuộc giống đực trong các câu dưới đây"]
+    [dans3 ans="C"]
+    A. Tafel
+    B. Türe
+    C. Kamm
+    [/dans3]
+[/dquiz3]

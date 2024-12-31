@@ -1,0 +1,17 @@
+[dquiz44 id="BT5.2.5.3.5" title="Chọn từ đúng để hoàn thành câu"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Der [dans44]Professor[/dans44] arbeitet an der Universität.
+    (Giáo sư làm việc tại trường đại học.)
+
+    Der [dans44]Motor[/dans44] ist kaputt.
+    (Động cơ bị hỏng.)
+
+    Der [dans44]Generator[/dans44] liefert Strom.
+    (Máy phát điện cung cấp điện.)
+
+    Der [dans44]Autor[/dans44] schreibt ein Buch.
+    (Tác giả viết một cuốn sách.)
+
+[/dquiz44]

@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.6.17" title="Sắp xếp từ thành câu đúng"]
+
+    Sắp xếp từ thành câu đúng.
+
+    Der / fliegt / Pilot / das / Flugzeug.
+    [dans46]
+
+    schreibt / Der / Artikel / Journalist / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp từ thành câu đúng.
+        Der / fliegt / Pilot / das / Flugzeug.
+        {{input}}
+        schreibt / Der / Artikel / Journalist / .
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

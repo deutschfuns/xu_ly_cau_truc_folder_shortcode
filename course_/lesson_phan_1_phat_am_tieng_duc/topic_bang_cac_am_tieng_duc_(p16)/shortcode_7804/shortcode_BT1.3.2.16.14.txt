@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.16.14" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.16.14.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Holz
+    B. Schulter
+    C. kalt
+    [/dans3]
+    [hidden]Nội dung file nghe: Holz[/hidden]
+[/dquiz3]

@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.5.39" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.5.39.mp3[/daudio]
+
+    Die ____ bietet täglich verschiedene Gerichte an.
+    [dans3 ans="C"]
+    A. Vorlesung
+    B. Vertrag
+    C. Mensa
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Mensa bietet täglich verschiedene Gerichte an.[/hidden]
+
+[/dquiz3]

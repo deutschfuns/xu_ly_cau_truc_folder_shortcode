@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.34.7" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Anh ấy đã ___ cuộc sống của mình hoàn toàn sau khi chuyển đến Đức.
+    [dans3 ans="C"]
+    A. erklären
+    B. verlangen
+    C. verändern
+    [/dans3]
+[/dquiz3]

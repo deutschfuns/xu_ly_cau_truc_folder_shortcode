@@ -1,0 +1,12 @@
+[dquiz37 id="BT5.2.6.7.8" title="Nghe và sắp xếp từ thành câu"]
+    [daudio]BT5.2.6.7.8.mp3[/daudio]
+
+    [dans37 ans="B-A-C-D"]
+    A. ist
+    B. Stabilität
+    C. sehr
+    D. wichtig
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Stabilität ist sehr wichtig.[/hidden]
+[/dquiz37]

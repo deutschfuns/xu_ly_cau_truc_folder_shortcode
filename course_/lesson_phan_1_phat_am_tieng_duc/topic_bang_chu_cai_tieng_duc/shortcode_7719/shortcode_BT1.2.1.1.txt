@@ -1,0 +1,12 @@
+[dquiz58 id="BT1.2.1.1" title="Đọc và ghi âm lại chữ cái" ]
+
+Hãy đọc và ghi âm lại chữ cái sau:
+A
+
+[hidden]Hãy đọc và ghi âm lại chữ cái sau: A[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

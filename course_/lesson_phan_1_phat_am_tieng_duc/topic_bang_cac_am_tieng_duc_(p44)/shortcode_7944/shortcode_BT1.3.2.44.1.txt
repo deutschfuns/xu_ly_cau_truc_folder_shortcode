@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.44.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.44.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. durch
+    B. Milch
+    C. Technik
+    [/dans3]
+    [hidden]Nội dung file nghe: Milch[/hidden]
+[/dquiz3]

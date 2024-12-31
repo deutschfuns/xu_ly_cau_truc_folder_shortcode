@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.7.2.5.20" title="Đọc và ghi âm lại câu có sử dụng trạng từ chỉ ngày sau" ]
+
+    Đọc và ghi âm lại câu có sử dụng trạng từ chỉ ngày sau:
+    Ich lerne Deutsch dienstags.
+
+    [hidden]Đọc và ghi âm lại câu có sử dụng trạng từ chỉ ngày sau:
+    Ich lerne Deutsch dienstags.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.27.3" title="Từ nào sau đây có nghĩa là &quot;niềm vui&quot;?"]
+    [dans3 ans="C"]
+    A. Schweiß
+    B. Maß
+    C. Spaß
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,27 @@
+[dquiz46 id="BT1.6.6.4" title="Đọc câu hỏi và viết câu trả lời về giờ giấc dựa trên các thời gian sau."]
+
+    Đọc câu hỏi và viết câu trả lời về giờ giấc dựa trên các thời gian sau.
+
+    7:30 tối
+    Câu hỏi: Wann treffen wir uns?
+    Câu trả lời: [dans46]
+
+    12:00 trưa
+    Câu hỏi: Wann ist deine Mittagspause?
+    Câu trả lời: [dans46]
+
+    [hidden]
+        Đọc câu hỏi và viết câu trả lời về giờ giấc dựa trên các thời gian sau.
+        7:30 tối
+        Câu hỏi: Wann treffen wir uns?
+        Câu trả lời: {{input}}
+        12:00 trưa
+        Câu hỏi: Wann ist deine Mittagspause?
+        Câu trả lời: {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.4.15" title="Chọn nghĩa đúng của từ thuộc giống đực"]
+    “Baum” nghĩa là gì?
+    [dans3 ans="B"]
+    A. Cái đèn
+    B. Cái cây
+    C. Con mèo
+    [/dans3]
+[/dquiz3]

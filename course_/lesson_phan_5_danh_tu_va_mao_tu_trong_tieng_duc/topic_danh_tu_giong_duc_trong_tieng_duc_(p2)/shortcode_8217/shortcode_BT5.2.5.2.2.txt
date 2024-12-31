@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.2.2" title="Sắp xếp các từ sau đây thành câu đúng"]
+
+    Sắp xếp các từ sau đây thành câu đúng.
+    
+    1.Garten / im / Der / fliegt / Schmetterling / .
+    [dans46]
+    
+    2. Frühling / Die / blühen / Blumen / im / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau đây thành câu đúng.
+        1.Garten / im / Der / fliegt / Schmetterling / .
+        {{input}}
+        2. Frühling / Die / blühen / Blumen / im / .
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+    
+[/dquiz46]

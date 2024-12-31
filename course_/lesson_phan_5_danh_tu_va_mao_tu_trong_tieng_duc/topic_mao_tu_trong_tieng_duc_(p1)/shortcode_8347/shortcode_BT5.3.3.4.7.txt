@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.3.3.4.7" title="Nghe và chọn mạo từ sở hữu đúng để hoàn thành câu."]
+
+    [daudio]BT5.3.3.4.7.mp3[/daudio]
+
+    Das ist ____ Tisch.
+    [dans3 ans="B"]
+    A. sein
+    B. mein
+    C. eure
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Das ist mein Tisch.[/hidden]
+
+[/dquiz3]

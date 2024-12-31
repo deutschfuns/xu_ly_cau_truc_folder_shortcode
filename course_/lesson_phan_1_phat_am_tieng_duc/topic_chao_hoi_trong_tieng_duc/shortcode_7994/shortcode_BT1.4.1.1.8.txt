@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.4.1.1.8" title="Đọc và ghi âm lại" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Meine Hobbys sind Kochen und Musik hören.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Meine Hobbys sind Kochen und Musik hören.[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

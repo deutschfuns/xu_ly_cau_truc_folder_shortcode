@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.4.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.5.4.3.mp3[/daudio]
+    [hidden]Nội dung file nghe: Tourismus[/hidden]
+    [dans3 ans="C"]
+    A. Kapitalismus
+    B. Organismus
+    C. Tourismus
+    D. Rassismus
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.4.1.3" title="Chọn dạng số nhiều đúng để hoàn thành câu."]
+
+Die ____ sind im Garten.
+(Những con chim ở trong vườn.)
+
+[dans3 ans="C"]
+A. Apfel
+B. Boote
+C. Vögel
+[/dans3]
+
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.7.2.5.6" title="Nối các tên ngày trong tuần bên trái với nghĩa tiếng Việt bên phải"]
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Montag
+    2. Mittwoch
+    3. Donnerstag
+    4. Samstag
+    A. thứ tư
+    B. thứ hai
+    C. thứ bảy
+    D. thứ năm
+    [/dans31]
+[/dquiz31]

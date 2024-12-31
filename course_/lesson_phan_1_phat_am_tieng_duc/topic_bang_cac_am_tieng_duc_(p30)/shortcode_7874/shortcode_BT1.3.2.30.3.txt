@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.30.3" title="Từ nào sau đây có nghĩa là &quot;nhà bếp&quot;?"]
+    [dans3 ans="B"]
+    A. Lüge
+    B. Küche
+    C. Tür
+    [/dans3]
+[/dquiz3]

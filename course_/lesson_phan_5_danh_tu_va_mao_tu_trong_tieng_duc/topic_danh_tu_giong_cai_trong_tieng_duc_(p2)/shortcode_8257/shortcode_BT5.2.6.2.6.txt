@@ -1,0 +1,9 @@
+[dquiz1 title="Chọn Richtig hoặc Falsch cho mỗi câu dưới đây" id="BT5.2.6.2.6"]
+
+Entwicklung bedeutet “sự phát triển”.
+[dans1 title="Richtig/Falsch" ans="1"]Entwicklung bedeutet “sự phát triển”.[/dans1]
+
+Verbindung bedeutet “cuộc điều tra”.
+[dans1 title="Richtig/Falsch" ans="2"]Verbindung bedeutet “cuộc điều tra”.[/dans1]
+
+[/dquiz1]

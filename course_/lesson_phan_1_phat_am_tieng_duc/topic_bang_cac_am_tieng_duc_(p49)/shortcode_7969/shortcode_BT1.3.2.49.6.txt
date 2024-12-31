@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.49.6" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.49.6.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Pflanze
+    B. Pflicht
+    C. Apfel
+    [/dans3]
+    [hidden]Nội dung file nghe: Pflicht[/hidden]
+[/dquiz3]

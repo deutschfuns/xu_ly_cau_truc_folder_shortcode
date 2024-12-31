@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.7.4" title="Nghe và điền từ" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.6.7.4.mp3[/daudio]
+
+    Die [dans44]Stabilität[/dans44] des Landes ist sehr wichtig.
+
+    [hidden]Nội dung file nghe: Die Stabilität des Landes ist sehr wichtig.[/hidden]
+
+[/dquiz44]

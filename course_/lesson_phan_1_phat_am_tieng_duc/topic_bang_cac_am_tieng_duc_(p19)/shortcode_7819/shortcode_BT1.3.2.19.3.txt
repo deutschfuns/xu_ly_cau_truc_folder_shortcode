@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.19.3" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.19.3.mp3[/daudio]
+
+    [dans37 ans="B-C-A-D"]
+    A. nun
+    B. Es
+    C. ist
+    D. Nacht
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Es ist nun Nacht.[/hidden]
+[/dquiz37]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT1.6.1.1" title="Nghe đoạn ghi âm và chọn câu trả lời đúng về giờ"]
+    [daudio]BT1.6.1.1.mp3[/daudio]
+
+    Mấy giờ rồi?
+    [dans3 ans="C"]
+    A. Viertel nach 3
+    B. Halb 4
+    C. Viertel vor 4
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Es ist Viertel vor vier.[/hidden]
+[/dquiz3]

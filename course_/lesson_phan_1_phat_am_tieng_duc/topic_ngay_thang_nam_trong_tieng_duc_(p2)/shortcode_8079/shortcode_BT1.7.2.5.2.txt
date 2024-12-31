@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.7.2.5.2" title="Chọn đáp án đúng với tên các ngày trong tuần."]
+    [dans3 ans="D"]
+    A. Dienstag là thứ Năm.
+    B. Donnerstag là thứ Bảy.
+    C. Mittwoch là thứ Hai.
+    D. Freitag là thứ Sáu.
+    [/dans3]
+[/dquiz3]

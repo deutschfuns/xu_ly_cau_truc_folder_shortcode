@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.2.7.3.8" title="Nghe câu sau và điền từ đúng vào chỗ trống:"]
+    [daudio]BT5.2.7.3.8.mp3[/daudio]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Das ist ein [dans44]Argument[/dans44].
+    [hidden]Nội dung file nghe: Das ist ein Argument.[/hidden]
+[/dquiz44]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.4.1.41" title="Chọn danh từ số nhiều đúng để hoàn thành câu."]
+
+    Die ____ sind sehr teuer.
+    (Chi phí rất đắt đỏ.)
+
+    [dans3 ans="B"]
+    A. Lebensmittel
+    B. Kosten
+    C. Eltern
+    [/dans3]
+
+[/dquiz3]

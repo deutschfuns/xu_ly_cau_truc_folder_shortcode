@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.31.5" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.31.5.mp3[/daudio]
+    [hidden]Nội dung file nghe: Vater[/hidden]
+    
+    [dans3 ans="C"]
+    A. Vogel
+    B. Verbot
+    C. Vater
+    [/dans3]
+[/dquiz3]

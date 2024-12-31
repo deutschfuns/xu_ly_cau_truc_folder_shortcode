@@ -1,0 +1,13 @@
+[dquiz58 id="BT2.1.4.9" title="Đọc và ghi âm lại câu có sử dụng động từ &quot;werden&quot;" ]
+
+    Đọc lại và ghi âm lại câu có sử dụng động từ “werden” sau:
+    Wir werden glücklich.
+
+    [hidden]Đọc lại và ghi âm lại câu có sử dụng động từ “werden” sau:
+    Wir werden glücklich.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

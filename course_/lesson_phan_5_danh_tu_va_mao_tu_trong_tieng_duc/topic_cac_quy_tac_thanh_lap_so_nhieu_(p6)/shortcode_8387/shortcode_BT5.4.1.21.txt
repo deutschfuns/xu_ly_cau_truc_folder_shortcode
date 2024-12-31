@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.4.1.21" title="Điền dạng số nhiều đúng của các danh từ sau" input-size="big"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    “Das Foto” số nhiều là “[dans44]die Fotos[/dans44]”
+    “Das Kino” số nhiều là “[dans44]die Kinos[/dans44]”
+
+[/dquiz44]

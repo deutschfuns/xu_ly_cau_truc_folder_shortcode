@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.8.4" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Früchtetee
+[dans3 ans="C"]
+A. Trà đen
+B. Trà xanh
+C. Trà hoa quả
+D. Trà thảo mộc
+[/dans3]
+
+Schnaps
+[dans3 ans="A"]
+A. Rượu mạnh
+B. Rượu vang trắng
+C. Rượu sâm banh
+D. Rượu táo
+[/dans3]
+
+[/dquiz3]

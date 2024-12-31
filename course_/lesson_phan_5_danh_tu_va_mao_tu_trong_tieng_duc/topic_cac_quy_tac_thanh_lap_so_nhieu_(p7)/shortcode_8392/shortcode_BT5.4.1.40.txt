@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.4.1.40" title="Nghe câu và chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    [daudio]BT5.4.1.40.mp3[/daudio]
+    Die ____ sind international tätig.
+    [dans3 ans="B"]
+    A. Praktika
+    B. Firmen
+    C. Visa
+    [/dans3]
+    [hidden]Nội dung file nghe: Die Firmen sind international tätig.[/hidden]
+[/dquiz3]

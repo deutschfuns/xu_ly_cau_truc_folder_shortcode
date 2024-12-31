@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.49.4" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Anh ấy đã thấy một __ lớn chạy qua cánh đồng.
+    [dans3 ans="B"]
+    A. Pfeil
+    B. Pferd
+    C. Pfanne
+    [/dans3]
+[/dquiz3]

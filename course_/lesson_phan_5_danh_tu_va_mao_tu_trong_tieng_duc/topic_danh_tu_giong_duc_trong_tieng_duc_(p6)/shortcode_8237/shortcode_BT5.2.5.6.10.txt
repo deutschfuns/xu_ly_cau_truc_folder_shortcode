@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.5.6.10" title="Chọn từ đúng để hoàn thành câu" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Bulle, Rüde, Kater, Hahn
+
+    Der [dans44]Rüde[/dans44] ist ein männlicher Hund.
+    Der [dans44]Hahn[/dans44] ist ein männlicher Huhn.
+
+[/dquiz44]

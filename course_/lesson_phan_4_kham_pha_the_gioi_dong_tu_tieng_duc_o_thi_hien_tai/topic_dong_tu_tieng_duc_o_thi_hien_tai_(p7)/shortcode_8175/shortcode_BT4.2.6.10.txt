@@ -1,0 +1,9 @@
+[dquiz44 id="BT4.2.6.10" title="Nghe và điền từ đúng"]
+
+[daudio]BT4.2.6.10.mp3[/daudio]
+
+Er [dans44]hält[/dans44] das Glas fest.
+
+[hidden]Nội dung file nghe: Er hält das Glas fest.[/hidden]
+
+[/dquiz44]

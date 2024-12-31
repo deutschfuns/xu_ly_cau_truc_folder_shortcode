@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.4.16" title="Chọn nghĩa đúng của từ thuộc giống đực"]
+    “Sommer” nghĩa là gì?
+    [dans3 ans="C"]
+    A. Mùa đông
+    B. Mùa xuân
+    C. Mùa hè
+    [/dans3]
+[/dquiz3]

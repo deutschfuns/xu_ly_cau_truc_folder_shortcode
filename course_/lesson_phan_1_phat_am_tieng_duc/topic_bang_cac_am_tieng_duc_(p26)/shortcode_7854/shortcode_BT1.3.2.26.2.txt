@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.26.2" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-C,4-D"]
+    1. Sommer
+    2. singen
+    3. Salz
+    4. Seite
+    A. Mùa hè
+    B. Hát
+    C. Muối
+    D. Trang giấy
+    [/dans31]
+[/dquiz31]

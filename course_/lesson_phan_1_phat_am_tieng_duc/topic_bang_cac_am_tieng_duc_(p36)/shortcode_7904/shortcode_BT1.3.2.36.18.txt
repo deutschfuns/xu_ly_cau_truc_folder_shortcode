@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.18" title="Chọn từ phù hợp để hoàn thành câu"]
+    Tôi cần ___ để leo lên sân thượng.
+    [dans3 ans="C"]
+    A. Wein
+    B. Zeit
+    C. Leiter
+    D. Kleidung
+    [/dans3]
+[/dquiz3]

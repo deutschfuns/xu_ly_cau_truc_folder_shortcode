@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.6.11.3" title="Chọn nghĩa tiếng Việt đúng"]
+    Königin
+    [dans3 ans="B"]
+    A. Người hàng xóm nữ
+    B. Nữ hoàng
+    C. Cô giáo
+    [/dans3]
+[/dquiz3]

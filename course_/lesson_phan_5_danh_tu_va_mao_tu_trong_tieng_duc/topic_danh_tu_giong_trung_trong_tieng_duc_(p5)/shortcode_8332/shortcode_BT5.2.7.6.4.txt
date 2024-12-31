@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.7.6.4" title="Nghe câu và chọn từ thích hợp để hoàn thành câu."]
+    [daudio]BT5.2.7.6.4.mp3[/daudio]
+    Ich habe ein ____.
+    [dans3 ans="B"]
+    A. Zuckerl
+    B. Sackerl
+    C. Fläschlein
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich habe ein Sackerl.[/hidden]
+[/dquiz3]

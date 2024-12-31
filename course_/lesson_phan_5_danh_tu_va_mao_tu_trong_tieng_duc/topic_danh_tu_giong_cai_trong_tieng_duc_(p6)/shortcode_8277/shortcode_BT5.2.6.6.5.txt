@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.6.5" title="Ghép từ có đuôi &quot;-ion&quot; với lĩnh vực tương ứng"]
+    [dans31 ans="1-A,2-C,3-B,4-D"]
+    1. Operation
+    2. Emission
+    3. Produktion
+    4. Tradition
+    A. Y tế
+    B. Sản xuất
+    C. Khí thải
+    D. Văn hóa
+    [/dans31]
+[/dquiz31]

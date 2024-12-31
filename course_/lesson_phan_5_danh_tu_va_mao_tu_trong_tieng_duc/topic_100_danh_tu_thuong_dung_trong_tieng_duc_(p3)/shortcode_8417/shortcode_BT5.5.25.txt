@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.5.25" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+    [daudio]BT5.5.25.mp3[/daudio]
+
+    Ich schreibe mit einem blauen ____.
+    [dans3 ans="B"]
+    A. Papier
+    B. Stift
+    C. Klebstoff
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Ich schreibe mit einem blauen Stift.[/hidden]
+[/dquiz3]

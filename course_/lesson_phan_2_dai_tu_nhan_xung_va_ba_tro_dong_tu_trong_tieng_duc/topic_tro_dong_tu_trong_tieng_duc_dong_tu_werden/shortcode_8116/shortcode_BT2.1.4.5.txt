@@ -1,0 +1,15 @@
+[dquiz58 id="BT2.1.4.5" title="Luyện nói" ]
+
+    Hãy đọc câu hỏi và ghi âm lại câu trả lời bằng tiếng Đức
+    Was werden Sie in Zukunft? (Bạn sẽ trở thành gì trong tương lai?)
+    Ví dụ: Ich werde Lehrer.
+
+    [hidden]Hãy đọc câu hỏi và ghi âm lại câu trả lời bằng tiếng Đức
+    Was werden Sie in Zukunft? (Bạn sẽ trở thành gì trong tương lai?)
+    Ví dụ: Ich werde Lehrer.[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.4.1.1.5" title="Đọc các câu sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-C,3-B"]
+    1. Ich bin achtzehn Jahre alt.
+    2. Ich komme aus Vietnam.
+    3. Ich arbeite bei Viet Duc Zentrum.
+    A. Tôi 18 tuổi.
+    B. Tôi làm việc tại Trung tâm Việt Đức.
+    C. Tôi đến từ Việt Nam.
+    [/dans31]
+[/dquiz31]

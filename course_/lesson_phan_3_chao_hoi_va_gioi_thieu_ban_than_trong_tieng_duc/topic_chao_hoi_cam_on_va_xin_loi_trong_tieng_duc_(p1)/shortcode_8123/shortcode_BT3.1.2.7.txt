@@ -1,0 +1,13 @@
+[dquiz46 id="BT3.1.2.7" title="Viết câu"]
+    Viết một câu chào và một câu tạm biệt mà bạn thích bằng tiếng Đức.
+    
+    [dans46]
+    [dans46]
+
+    [hidden]Viết một câu chào và một câu tạm biệt mà bạn thích bằng tiếng Đức.{{input}} {{input}}[/hidden]
+
+    [prompt]
+        [sc name="prompt65"][/sc]
+    [/prompt]
+
+[/dquiz46]

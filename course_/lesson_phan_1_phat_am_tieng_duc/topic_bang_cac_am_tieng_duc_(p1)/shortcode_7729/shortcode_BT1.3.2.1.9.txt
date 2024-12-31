@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.1.9" title="Từ nào sau đây có nghĩa là &quot;bố&quot;?"]
+
+[dans3 ans="B"]
+A. Salat
+B. Vater
+C. Bahn
+D. Wagen
+[/dans3]
+
+[/dquiz3]

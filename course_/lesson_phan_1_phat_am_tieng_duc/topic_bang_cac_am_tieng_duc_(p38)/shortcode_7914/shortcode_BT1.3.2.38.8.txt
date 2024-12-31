@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.38.8" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.38.8.mp3[/daudio]
+    [hidden]Nội dung file nghe: Liebe[/hidden]
+
+    [dans3 ans="B"]
+    A. Thứ Ba
+    B. Tình yêu
+    C. Số bảy
+    [/dans3]
+[/dquiz3]

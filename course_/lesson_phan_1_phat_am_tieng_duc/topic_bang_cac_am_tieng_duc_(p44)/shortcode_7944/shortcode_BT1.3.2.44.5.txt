@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.44.5" title="Hãy nối từ với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-D,3-A,4-C"]
+    1. durch
+    2. Technik
+    3. Milch
+    4. richtig
+    A. Sữa
+    B. Xuyên qua
+    C. Đúng
+    D. Kỹ thuật
+    [/dans31]
+[/dquiz31]

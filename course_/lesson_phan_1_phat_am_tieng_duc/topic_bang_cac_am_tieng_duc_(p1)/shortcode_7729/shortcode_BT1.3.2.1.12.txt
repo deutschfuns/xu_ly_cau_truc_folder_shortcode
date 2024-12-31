@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.1.12" title="Đâu là từ chỉ địa điểm trong các từ sau đây?"]
+    [dans3 ans="A"]
+    A. Garten
+    B. Vater
+    C. Karte
+    D. Hase
+    [/dans3]
+[/dquiz3]

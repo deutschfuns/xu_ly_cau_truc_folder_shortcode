@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.1.1.12" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.1.1.12.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ich habe Geschwister.
+    B. Ich habe vier Geschwister.
+    C. Ich habe keine Geschwister.
+    [/dans3]
+    [hidden]Nội dung file nghe: Ja, ich habe vier Geschwister.[/hidden]
+[/dquiz3]

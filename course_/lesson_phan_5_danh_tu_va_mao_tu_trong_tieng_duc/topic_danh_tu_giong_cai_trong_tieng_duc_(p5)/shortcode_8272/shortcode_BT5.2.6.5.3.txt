@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.5.3" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.6.5.3.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Khoa học
+    B. Xã hội
+    C. Quốc tịch
+    D. Đam mê
+    [/dans3]
+    [hidden]Nội dung file nghe: Gesellschaft[/hidden]
+[/dquiz3]

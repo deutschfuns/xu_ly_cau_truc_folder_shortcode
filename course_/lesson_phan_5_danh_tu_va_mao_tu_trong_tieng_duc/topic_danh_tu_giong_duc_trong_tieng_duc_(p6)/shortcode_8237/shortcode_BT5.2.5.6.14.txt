@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.6.14" title="Chọn từ đúng để hoàn thành câu mô tả nghề nghiệp"]
+
+Der ____ schreibt Artikel für die Zeitung.
+[dans3 ans="C"]
+A. Pilot
+B. Geschäftsmann
+C. Journalist
+D. Tänzer
+[/dans3]
+
+Der ____ arbeitet auf dem Bau und baut Häuser.
+[dans3 ans="B"]
+A. Elektriker
+B. Maurer
+C. Pilot
+D. Lehrer
+[/dans3]
+
+[/dquiz3]

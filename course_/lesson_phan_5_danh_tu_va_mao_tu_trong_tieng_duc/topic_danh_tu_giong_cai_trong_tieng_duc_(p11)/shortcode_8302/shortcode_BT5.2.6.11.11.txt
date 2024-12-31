@@ -1,0 +1,14 @@
+[dquiz37 id="BT5.2.6.11.11" title="Nghe và sắp xếp từ thành câu"]
+
+[daudio]BT5.2.6.11.11.mp3[/daudio]
+
+[dans37 ans="C-A-B-D"]
+A. Sängerin
+B. singt
+C. Die
+D. sehr gut
+[/dans37]
+
+[hidden]Nội dung file nghe: Die Sängerin singt sehr gut.[/hidden]
+
+[/dquiz37]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.4.5" title="Chọn từ phù hợp để điền vào câu sau"]
+    Mỗi sáng, tôi ăn một __ vào bữa sáng.
+    [dans3 ans="A"]
+    A. Banane
+    B. Brief
+    C. Bild
+    [/dans3]
+[/dquiz3]

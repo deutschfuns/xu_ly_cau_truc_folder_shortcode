@@ -1,0 +1,12 @@
+[dquiz3 id="BT4.2.2.23" title="Nghe và chọn từ đúng"]
+    [daudio]BT4.2.2.23.mp3[/daudio]
+    
+    Người nói mua gì?
+    [dans3 ans="A"]
+    A. Một quyển sách
+    B. Một cái bút
+    C. Một chiếc áo
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Ich kaufe ein Buch.[/hidden]
+[/dquiz3]

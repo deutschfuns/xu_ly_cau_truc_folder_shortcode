@@ -1,0 +1,10 @@
+[dquiz44 id="BT4.2.2.1" title="Chia động từ trong ngoặc theo thì hiện tại"]
+
+    [daudio]V4.2.2_1.mp4[/daudio]
+
+    Ich [dans44]besuche[/dans44] (besuchen) meine Großeltern.
+    Du [dans44]fragst[/dans44] (fragen) nach dem Weg.
+    Wir [dans44]gehen[/dans44] (gehen) in die Schule.
+    Er [dans44]bezahlt[/dans44] (bezahlen) die Rechnung.
+
+[/dquiz44]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.22.8" title="Nghe và chọn từ có nghĩa là &quot;thích&quot;"]
+    [daudio]BT1.3.2.22.8.mp3[/daudio]
+    [dans3 ans="B"]
+    A. können
+    B. mögen
+    C. fröhlich
+    [/dans3]
+    [hidden]Nội dung file nghe: mögen[/hidden]
+[/dquiz3]

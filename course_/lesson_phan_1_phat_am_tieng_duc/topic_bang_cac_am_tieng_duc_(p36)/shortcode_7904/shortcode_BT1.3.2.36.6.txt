@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.6" title="Chọn từ có nghĩa là &quot;tháng Năm&quot;"]
+    [dans3 ans="B"]
+    A. Kaiser
+    B. Mai
+    C. Zeit
+    D. Ei
+    [/dans3]
+[/dquiz3]

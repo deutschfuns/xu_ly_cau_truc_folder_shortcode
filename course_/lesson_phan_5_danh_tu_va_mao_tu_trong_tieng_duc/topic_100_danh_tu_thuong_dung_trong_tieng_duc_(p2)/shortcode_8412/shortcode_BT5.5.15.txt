@@ -1,0 +1,15 @@
+[dquiz46 id="BT5.5.15" title="Sắp xếp từ thành câu đúng"]
+    Sắp xếp các từ sau để tạo thành câu đúng.
+    das / Fenster / bitte / öffnen / Kannst / du?
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        das / Fenster / bitte / öffnen / Kannst / du?
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

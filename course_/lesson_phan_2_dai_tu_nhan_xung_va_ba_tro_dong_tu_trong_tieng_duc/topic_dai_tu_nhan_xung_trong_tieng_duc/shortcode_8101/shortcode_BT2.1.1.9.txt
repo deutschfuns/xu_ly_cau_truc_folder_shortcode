@@ -1,0 +1,9 @@
+[dquiz3 id="BT2.1.1.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT2.1.1.9.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Sie
+    B. Ihr
+    C. Wir
+    [/dans3]
+    [hidden]Nội dung file nghe: Wir sind Freunde.[/hidden]
+[/dquiz3]

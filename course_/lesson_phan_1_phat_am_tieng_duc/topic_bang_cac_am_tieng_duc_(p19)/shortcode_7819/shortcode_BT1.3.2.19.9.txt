@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.19.9" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.19.9.mp3[/daudio]
+
+    [dans37 ans="B-D-A-C"]
+    A. ist
+    B. Die
+    C. neu
+    D. Lampe
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Lampe ist neu.[/hidden]
+[/dquiz37]

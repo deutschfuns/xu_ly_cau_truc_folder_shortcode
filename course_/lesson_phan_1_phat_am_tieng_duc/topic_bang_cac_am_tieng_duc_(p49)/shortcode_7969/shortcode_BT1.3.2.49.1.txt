@@ -1,0 +1,12 @@
+[dquiz58 id="BT1.3.2.49.1" title="Đọc và ghi âm lại" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Pflege
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau: Pflege[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

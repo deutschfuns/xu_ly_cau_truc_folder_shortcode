@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.9.12" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.9.12.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Reise[/dans44] nach Paris war wunderbar.
+
+    [hidden]Nội dung file nghe: Die Reise nach Paris war wunderbar.[/hidden]
+
+[/dquiz44]

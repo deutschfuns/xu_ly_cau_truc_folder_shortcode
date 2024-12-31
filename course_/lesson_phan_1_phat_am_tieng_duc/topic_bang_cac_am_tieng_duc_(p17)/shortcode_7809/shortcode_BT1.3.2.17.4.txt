@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.17.4" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-C,3-A,4-B"]
+    1. Onkel
+    2. Himmel
+    3. Apfel
+    4. schnell
+    A. Quả táo
+    B. Nhanh
+    C. Bầu trời
+    D. Cậu, bác
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,11 @@
+[dquiz3 id="BT5.4.1.16" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+
+Die ____ sind sehr alt. (Những căn nhà rất cũ.)
+
+[dans3 ans="B"]
+A. Bücher
+B. Häuser
+C. Lichter
+[/dans3]
+
+[/dquiz3]

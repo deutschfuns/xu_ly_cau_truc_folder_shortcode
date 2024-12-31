@@ -1,0 +1,15 @@
+[dquiz37 id="BT5.2.7.8.8" title="Sắp xếp các từ sau để tạo thành câu đúng."]
+
+[daudio]BT5.2.7.8.8.mp3[/daudio]
+
+[dans37 ans="D-E-B-A-C"]
+A. ist
+B. der Großeltern
+C. schön
+D. Das
+E. Besuchen
+[/dans37]
+
+[hidden]Nội dung file nghe: Das Besuchen der Großeltern ist schön.[/hidden]
+
+[/dquiz37]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.7.3.3" title="Chọn nghĩa đúng"]
+    Chọn đáp án đúng cho nghĩa của từ &quot;Experiment&quot;:
+    [dans3 ans="B"]
+    A. Trung đoàn
+    B. Thí nghiệm
+    C. Lời khen
+    [/dans3]
+[/dquiz3]

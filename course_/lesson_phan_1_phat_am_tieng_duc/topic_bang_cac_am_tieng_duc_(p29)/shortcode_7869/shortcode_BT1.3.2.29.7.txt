@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.29.7" title="Từ nào sau đây có nghĩa là &quot;Universität&quot;?"]
+
+[dans3 ans="B"]
+A. Trường học
+B. Trường đại học
+C. Lớp học
+[/dans3]
+
+[/dquiz3]

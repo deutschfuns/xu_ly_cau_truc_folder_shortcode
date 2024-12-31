@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.9.5" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-D,3-A,4-C"]
+    1. Affen
+    2. Foto
+    3. Löffel
+    4. Fluss
+    A. Cái thìa
+    B. Con khỉ (số nhiều)
+    C. Sông
+    D. Ảnh
+    [/dans31]
+[/dquiz31]

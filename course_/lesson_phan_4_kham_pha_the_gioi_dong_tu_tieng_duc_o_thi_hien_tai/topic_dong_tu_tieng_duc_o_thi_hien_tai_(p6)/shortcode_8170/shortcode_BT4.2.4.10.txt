@@ -1,0 +1,12 @@
+[dquiz3 id="BT4.2.4.10" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.2.4.10.mp3[/daudio]
+    
+    Người nói làm gì vào buổi sáng?
+    [dans3 ans="B"]
+    A. Lái xe
+    B. Đọc sách
+    C. Ăn sáng
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Sie liest am Morgen ein Buch.[/hidden]
+[/dquiz3]

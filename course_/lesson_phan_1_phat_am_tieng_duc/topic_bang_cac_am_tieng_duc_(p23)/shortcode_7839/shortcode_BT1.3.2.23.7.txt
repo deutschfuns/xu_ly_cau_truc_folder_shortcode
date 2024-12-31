@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.23.7" title="Chọn đáp án đúng để hoàn thành câu sau:"]
+
+Tôi vừa nhận được một cái ___ từ bưu điện.
+
+[dans3 ans="B"]
+A. Preis
+B. Paket
+C. Punkt
+[/dans3]
+
+[/dquiz3]

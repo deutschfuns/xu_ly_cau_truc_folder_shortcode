@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.4.2" title="Chọn đáp án đúng"]
+    Chọn từ có nghĩa phù hợp với &quot;sự phát triển&quot;.
+    [dans3 ans="C"]
+    A. Stadium
+    B. Eigentum
+    C. Wachstum
+    D. Forum
+    [/dans3]
+[/dquiz3]

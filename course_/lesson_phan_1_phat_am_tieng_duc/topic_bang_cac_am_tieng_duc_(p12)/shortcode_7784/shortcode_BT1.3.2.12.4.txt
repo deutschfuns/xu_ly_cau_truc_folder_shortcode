@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.12.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.12.4.mp3[/daudio]
+    [dans3 ans="B"]
+    A. wild
+    B. bitter
+    C. binden
+    [/dans3]
+    [hidden]Nội dung file nghe: bitter[/hidden]
+[/dquiz3]

@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.22" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Der Taschenrechner
+    [dans46]
+    Das Papier
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Der Taschenrechner
+        {{input}}
+        Das Papier
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

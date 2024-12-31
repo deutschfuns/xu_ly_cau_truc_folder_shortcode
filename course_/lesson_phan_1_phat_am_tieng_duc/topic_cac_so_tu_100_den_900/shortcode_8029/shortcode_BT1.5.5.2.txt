@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.5.5.2" title="Nối các số sau đây với nghĩa phù hợp"]
+
+    [dans31 ans="1-D,2-A,3-C,4-B"]
+    1. zweihundert
+    2. achthundert
+    3. fünfhundert
+    4. neunhundert
+    A. 800
+    B. 900
+    C. 500
+    D. 200
+    [/dans31]
+
+[/dquiz31]

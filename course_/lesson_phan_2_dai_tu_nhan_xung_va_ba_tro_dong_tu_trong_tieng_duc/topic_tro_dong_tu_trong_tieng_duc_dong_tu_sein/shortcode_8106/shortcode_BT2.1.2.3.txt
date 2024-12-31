@@ -1,0 +1,10 @@
+[dquiz3 id="BT2.1.2.3" title="Nghe và chọn đáp án đúngg"]
+    [daudio]BT2.1.2.3.mp3[/daudio]
+    Câu nào dưới đây có nghĩa là “Anh ấy ở công viên”?
+    [dans3 ans="B"]
+    A. Du bist schnell.
+    B. Er ist im Park.
+    C. Es ist kalt heute.
+    [/dans3]
+    [hidden]Nội dung file nghe: Er ist im Park.[/hidden]
+[/dquiz3]

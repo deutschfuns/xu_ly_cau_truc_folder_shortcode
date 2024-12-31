@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.13.9" title="Điền từ đúng vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Journal, Januar, joggen, Jeans
+
+    1. Anh trai của tôi thường [dans44]joggen[/dans44] vào buổi sáng.
+    2. Cậu bé mặc một chiếc quần [dans44]Jeans[/dans44].
+    3. [dans44]Januar[/dans44] là tháng đầu tiên của năm.
+    4. Tôi có một bài viết trong một [dans44]Journal[/dans44].
+
+[/dquiz44]

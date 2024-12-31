@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.3.12" title="Từ nào sau đây có nghĩa là &quot;truyện cổ tích&quot;?"]
+    [dans3 ans="C"]
+    A. Mädchen
+    B. Strände
+    C. Märchen
+    [/dans3]
+[/dquiz3]

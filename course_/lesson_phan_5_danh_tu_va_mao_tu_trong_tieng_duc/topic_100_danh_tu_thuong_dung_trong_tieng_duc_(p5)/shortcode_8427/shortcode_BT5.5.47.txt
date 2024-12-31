@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.47" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Apfel ____ ist in Deutschland sehr beliebt.
+    (Nước táo có ga rất được ưa chuộng ở Đức.)
+    [dans3 ans="C"]
+    A. Wasser
+    B. Zunge
+    C. Schorle
+    [/dans3]
+[/dquiz3]

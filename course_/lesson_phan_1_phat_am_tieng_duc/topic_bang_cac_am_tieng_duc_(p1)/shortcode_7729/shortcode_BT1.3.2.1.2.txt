@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.1.2" title="Đâu là từ chỉ phương tiện giao thông trong các từ sau đây?"]
+    Đâu là từ chỉ phương tiện giao thông trong các từ sau đây?
+    [dans3 ans="C"]
+    A. Hase
+    B. Salat
+    C. Bahn
+    D. Garten
+    [/dans3]
+[/dquiz3]

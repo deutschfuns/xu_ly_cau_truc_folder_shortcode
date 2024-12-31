@@ -1,0 +1,23 @@
+[dquiz46 id="BT1.5.8.4.3" title="Sắp xếp lại các từ sau để tạo thành câu hoàn chỉnh"]
+
+    Sắp xếp lại các từ sau để tạo thành câu hoàn chỉnh.
+
+    1. Oktober / siebzehnten / ist / Heute / der
+    [dans46]
+
+    2. Friedrich / der / war / Erste / König
+    [dans46]
+
+    [hidden]
+        Sắp xếp lại các từ sau để tạo thành câu hoàn chỉnh.
+        1. Oktober / siebzehnten / ist / Heute / der
+        {{input}}
+        2. Friedrich / der / war / Erste / König
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.40.2" title="Nghe và chọn nghĩa tiếng Việt"]
+    [daudio]BT1.3.2.40.2.mp3[/daudio]
+    [hidden]Nội dung file nghe: Natur[/hidden]
+
+    [dans3 ans="C"]
+    A. Khóa học
+    B. Đồng hồ
+    C. Thiên nhiên
+    [/dans3]
+[/dquiz3]

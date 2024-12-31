@@ -1,0 +1,8 @@
+[dquiz44 id="BT5.2.6.4.6" title="Chọn từ đúng để hoàn thành câu" case-sensitive="false"]
+
+    Ich kaufe Brot in der [dans44]Bäckerei[/dans44].
+    Er kauft Fleisch in der [dans44]Metzgerei[/dans44].
+    Sie arbeitet in der [dans44]Schneiderei[/dans44] und näht Kleider.
+    In der [dans44]Fischerei[/dans44] gibt es frischen Fisch.
+
+[/dquiz44]

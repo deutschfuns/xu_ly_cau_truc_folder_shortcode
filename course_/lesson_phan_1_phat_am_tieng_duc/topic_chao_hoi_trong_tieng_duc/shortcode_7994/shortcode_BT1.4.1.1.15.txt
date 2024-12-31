@@ -1,0 +1,27 @@
+[dquiz58 id="BT1.4.1.1.15" title="Đọc và ghi âm lại nội dung sau"]
+
+Hãy đọc và ghi âm lại nội dung sau:
+A: Wie heißt du?
+B: Ich heiße Hasie.
+A: Woher kommst du?
+B: Ich komme aus Vietnam.
+A: Wie alt bist du?
+B: Ich bin achtzehn Jahre alt.
+A: Was sind deine Hobbys?
+B: Meine Hobbys sind Kochen und Musik hören.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+A: Wie heißt du?
+B: Ich heiße Hasie.
+A: Woher kommst du?
+B: Ich komme aus Vietnam.
+A: Wie alt bist du?
+B: Ich bin achtzehn Jahre alt.
+A: Was sind deine Hobbys?
+B: Meine Hobbys sind Kochen und Musik hören.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

@@ -1,0 +1,21 @@
+[dquiz3 id="BT3.2.9.2" title="Nghe và trả lời câu hỏi"]
+
+    [daudio]BT3.2.9.2.mp3[/daudio]
+
+    Người nói làm nghề gì?
+    [dans3 ans="B"]
+    A. Lehrer
+    B. Koch
+    C. Schüler
+    [/dans3]
+
+    Ngôn ngữ mẹ đẻ của người nói là gì?
+    [dans3 ans="B"]
+    A. Deutsch
+    B. Vietnamesisch
+    C. Englisch
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Ich bin Koch von Beruf und meine Muttersprache ist Vietnamesisch.[/hidden]
+
+[/dquiz3]

@@ -1,0 +1,18 @@
+[dquiz31 id="BT4.2.2.13" title="Ghép cặp đúng giữa chủ ngữ và động từ chia ở thì hiện tại"]
+
+Ghép cặp đúng giữa chủ ngữ và động từ chia ở thì hiện tại.
+
+[dans31 ans="1-D,2-A,3-C,4-B"]
+
+1. ich
+2. du
+3. er/sie/es
+4. wir
+A. probierst
+B. kommen
+C. macht
+D. lebe
+
+[/dans31]
+
+[/dquiz31]

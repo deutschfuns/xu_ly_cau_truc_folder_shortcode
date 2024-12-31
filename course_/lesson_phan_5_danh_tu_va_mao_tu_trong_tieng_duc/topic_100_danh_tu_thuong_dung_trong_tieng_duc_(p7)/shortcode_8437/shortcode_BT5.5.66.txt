@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.5.66" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.5.66.mp3[/daudio]
+
+    Die ____ arbeiten früh am Morgen.
+    [dans3 ans="B"]
+    A. Spione
+    B. Straßenkehrer
+    C. Zimmerleute
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Straßenkehrer arbeiten früh am Morgen[/hidden]
+
+[/dquiz3]

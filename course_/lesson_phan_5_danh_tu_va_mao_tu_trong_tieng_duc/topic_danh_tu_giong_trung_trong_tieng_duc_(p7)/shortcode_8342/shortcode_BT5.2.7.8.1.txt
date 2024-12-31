@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.2.7.8.1" title="Nghe câu và chọn từ thích hợp để hoàn thành câu."]
+
+    [daudio]BT5.2.7.8.1.mp3[/daudio]
+
+    Das ____ war sehr lecker.
+    [dans3 ans="B"]
+    A. Schlafen
+    B. Essen
+    C. Weinen
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Das Essen war sehr lecker.[/hidden]
+
+[/dquiz3]

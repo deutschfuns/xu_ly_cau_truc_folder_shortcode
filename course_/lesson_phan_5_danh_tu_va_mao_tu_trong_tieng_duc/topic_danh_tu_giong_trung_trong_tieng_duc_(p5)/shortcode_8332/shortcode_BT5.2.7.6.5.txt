@@ -1,0 +1,13 @@
+[dquiz37 id="BT5.2.7.6.5" title="Sắp xếp các từ sau để tạo thành câu đúng."]
+    [daudio]BT5.2.7.6.5.mp3[/daudio]
+
+    [dans37 ans="C-E-D-B-A"]
+    A. Tischlein
+    B. am
+    C. Das
+    D. sitzt
+    E. Fräulein
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Das Fräulein sitzt am Tischlein.[/hidden]
+[/dquiz37]

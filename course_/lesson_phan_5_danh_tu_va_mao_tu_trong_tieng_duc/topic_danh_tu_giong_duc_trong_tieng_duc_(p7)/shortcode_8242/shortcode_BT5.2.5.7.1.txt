@@ -1,0 +1,29 @@
+[dquiz3 id="BT5.2.5.7.1" title="Chọn đáp án đúng nhất để điền vào chỗ trống."]
+
+    [daudio]V5.2.5_7.mp4[/daudio]
+
+    Ein ____ zeigt die Himmelsrichtungen an.
+    [dans3 ans="C"]
+    A. Jahr
+    B. Jahrestag
+    C. Kompass
+    D. Tag
+    [/dans3]
+
+    Unser ____ ist am 10. Mai.
+    [dans3 ans="B"]
+    A. Kompass
+    B. Jahrestag
+    C. Jahr
+    D. Woche
+    [/dans3]
+
+    Ein ____ hat zwölf Monate.
+    [dans3 ans="C"]
+    A. Kompass
+    B. Jahrestag
+    C. Jahr
+    D. Wochenende
+    [/dans3]
+
+[/dquiz3]

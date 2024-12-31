@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.7.6" title="Nghe và điền từ" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.6.7.6.mp3[/daudio]
+
+    Die [dans44]Qualität[/dans44] dieses Produkts ist sehr hoch.
+
+    [hidden]Nội dung file nghe: Die Qualität dieses Produkts ist sehr hoch.[/hidden]
+
+[/dquiz44]

@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.48.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.48.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. Sport
+B. Spaß
+C. Spiel
+D. springen
+E. Sprache
+[/dans19]
+
+[hidden]Nội dung file nghe: Spaß, Spiel[/hidden]
+
+[/dquiz19]

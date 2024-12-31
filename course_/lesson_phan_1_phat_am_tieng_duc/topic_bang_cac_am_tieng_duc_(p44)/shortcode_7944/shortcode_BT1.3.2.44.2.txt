@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.44.2" title="Từ nào sau đây có nghĩa là &quot;cô bé&quot;?"]
+
+[dans3 ans="C"]
+A. Milch
+B. Technik
+C. Mädchen
+[/dans3]
+
+[/dquiz3]

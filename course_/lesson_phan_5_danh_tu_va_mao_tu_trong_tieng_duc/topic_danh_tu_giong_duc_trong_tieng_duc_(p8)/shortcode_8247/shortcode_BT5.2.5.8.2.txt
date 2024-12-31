@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.5.8.2" title="Ghép mỗi từ với định nghĩa tương ứng"]
+    [dans31 ans="1-A,2-B,3-C,4-D"]
+    1. Glühwein
+    2. Schwarztee
+    3. Eierlikör
+    4. Kakao
+    A. Rượu vang nóng
+    B. Trà đen
+    C. Rượu trứng
+    D. Sô cô la nóng
+    [/dans31]
+[/dquiz31]

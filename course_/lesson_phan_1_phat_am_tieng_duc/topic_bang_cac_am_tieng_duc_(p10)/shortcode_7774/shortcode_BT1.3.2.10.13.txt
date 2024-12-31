@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.10.13" title="Chọn từ phù hợp để điền vào câu sau"]
+    Cái ly này có màu __.
+    [dans3 ans="C"]
+    A. gesund
+    B. Geschichte
+    C. gelb
+    [/dans3]
+[/dquiz3]

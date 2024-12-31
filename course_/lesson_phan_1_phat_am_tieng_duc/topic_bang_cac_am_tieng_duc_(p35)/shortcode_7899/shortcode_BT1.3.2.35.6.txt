@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.35.6" title="Từ nào sau đây có nghĩa là &quot;người&quot; (số nhiều)?"]
+    [dans3 ans="B"]
+    A. Häuser
+    B. Leute
+    C. Bäume
+    [/dans3]
+[/dquiz3]

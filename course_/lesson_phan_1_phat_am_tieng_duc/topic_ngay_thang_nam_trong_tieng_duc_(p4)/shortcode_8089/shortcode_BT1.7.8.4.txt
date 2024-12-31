@@ -1,0 +1,14 @@
+[dquiz31 id="BT1.7.8.4" title="Nối các mùa bên trái với thời gian phù hợp bên phải."]
+
+    [dans31 ans="1-C,2-D,3-B,4-A"]
+    1. Frühling
+    2. Sommer
+    3. Herbst
+    4. Winter
+    A. từ 1.12 đến 28./29.2
+    B. từ 1.9 đến 30.11
+    C. từ 1.3 đến 31.5
+    D. từ 1.6 đến 31.8
+    [/dans31]
+
+[/dquiz31]

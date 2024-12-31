@@ -1,0 +1,10 @@
+[dquiz31 id="BT4.2.2.21" title="Nối câu hỏi với câu trả lời phù hợp"]
+    [dans31 ans="1-C,2-B,3-A"]
+    1. Was machst du?
+    2. Wo wohnst du?
+    3. Was lernst du?
+    A. Ich lerne Deutsch.
+    B. Ich wohne in Berlin.
+    C. Ich spiele im Park.
+    [/dans31]
+[/dquiz31]

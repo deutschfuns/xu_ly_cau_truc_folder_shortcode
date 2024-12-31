@@ -1,0 +1,12 @@
+[dquiz44 id="BT5.2.5.3.3" title="Nghe đoạn hội thoại và điền từ thích hợp vào chỗ trống." case-sensitive="false"]
+
+    [daudio]BT5.2.5.3.3.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Der [dans44]Doktor[/dans44] arbeitet im Krankenhaus.
+    Der [dans44]Direktor[/dans44] leitet die Firma.
+
+    [hidden]Nội dung file nghe: Der Doktor arbeitet im Krankenhaus. Der Direktor leitet die Firma.[/hidden]
+
+[/dquiz44]

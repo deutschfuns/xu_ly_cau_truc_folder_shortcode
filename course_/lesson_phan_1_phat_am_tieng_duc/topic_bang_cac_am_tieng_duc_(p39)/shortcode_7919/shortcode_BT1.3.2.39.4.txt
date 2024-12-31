@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.3.2.39.4" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.39.4.mp3[/daudio]
+
+    [dans37 ans="B-D-E-A-C"]
+    A. den
+    B. Wir
+    C. Zirkus
+    D. gehen
+    E. in
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Wir gehen in den Zirkus.[/hidden]
+[/dquiz37]

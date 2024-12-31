@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.10.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.10.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,E"]
+A. Zug
+B. Geld
+C. Tag
+D. Berg
+E. Geburtstag
+[/dans19]
+
+[hidden]Nội dung file nghe: Geld; Geburtstag[/hidden]
+
+[/dquiz19]

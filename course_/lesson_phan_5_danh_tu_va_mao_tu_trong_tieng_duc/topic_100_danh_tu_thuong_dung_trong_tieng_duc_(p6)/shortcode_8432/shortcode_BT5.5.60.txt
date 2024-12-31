@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.60" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Der Praktikant
+    [dans46]
+    Der Chef
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Der Praktikant
+        {{input}}
+        Der Chef
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

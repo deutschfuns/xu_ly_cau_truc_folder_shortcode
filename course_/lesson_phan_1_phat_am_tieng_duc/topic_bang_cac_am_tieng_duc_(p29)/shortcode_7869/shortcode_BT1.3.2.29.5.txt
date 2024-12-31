@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.29.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.29.5.mp3[/daudio]
+
+[dans44]Blume[/dans44]
+[dans44]Musik[/dans44]
+[dans44]Suppe[/dans44]
+
+[hidden]Nội dung file nghe: Blume; Musik; Suppe[/hidden]
+
+[/dquiz44]

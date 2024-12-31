@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.11.5" title="Ghép các danh từ với nghề nghiệp phù hợp"]
+    [dans31 ans="1-D,2-C,3-A,4-B"]
+    1. Lehrerin
+    2. Feuerwehrfrau
+    3. Musikerin
+    4. Kellnerin
+    A. Nhạc sĩ nữ
+    B. Bồi bàn nữ
+    C. Lính cứu hỏa nữ
+    D. Cô giáo
+    [/dans31]
+[/dquiz31]

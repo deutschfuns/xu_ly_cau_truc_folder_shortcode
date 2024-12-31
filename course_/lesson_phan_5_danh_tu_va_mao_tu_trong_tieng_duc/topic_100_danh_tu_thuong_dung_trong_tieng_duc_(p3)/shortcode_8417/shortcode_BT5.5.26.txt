@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.26" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Die Liebe
+    [dans46]
+    Der Hass
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Die Liebe
+        {{input}}
+        Der Hass
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,15 @@
+[dquiz58 id="BT3.2.9.3" title="Đọc và ghi âm lại đoạn hội thoại"]
+
+    Đọc và ghi âm lại đoạn hội thoại nói về sở thích cá nhân sau:
+    A: Was sind deine Hobbys?
+    B: Ich koche, lese und reise sehr gern.
+
+    [hidden]Đọc và ghi âm lại đoạn hội thoại nói về sở thích cá nhân sau:
+    A: Was sind deine Hobbys?
+    B: Ich koche, lese und reise sehr gern.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

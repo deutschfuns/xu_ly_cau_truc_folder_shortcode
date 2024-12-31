@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.5.3" title="Nghe và chọn nghĩa tiếng Việt của số sau"]
+    [daudio]BT1.5.5.3.mp3[/daudio]
+    [hidden]Nội dung file nghe: achthundert[/hidden]
+
+    [dans3 ans="C"]
+    A. 300
+    B. 600
+    C. 800
+    [/dans3]
+[/dquiz3]

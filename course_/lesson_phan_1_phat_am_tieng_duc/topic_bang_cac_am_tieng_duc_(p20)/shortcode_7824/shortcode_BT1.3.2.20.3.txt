@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.20.3" title="Nghe và chọn từ có nghĩa là &quot;thuyền&quot;"]
+    [daudio]BT1.3.2.20.3.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Boot
+    B. Brot
+    C. tot
+    [/dans3]
+    [hidden]Nội dung file nghe: Boot[/hidden]
+[/dquiz3]

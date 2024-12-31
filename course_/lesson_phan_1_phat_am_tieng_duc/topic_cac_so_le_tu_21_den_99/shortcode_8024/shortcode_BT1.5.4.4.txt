@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.5.4.4" title="Chọn từ phù hợp để điền vào câu sau"]
+    Số 66 trong tiếng Đức được viết là __.
+    [dans3 ans="A"]
+    A. sechsundsechzig
+    B. sechsundachtzig
+    C. siebenundsechzig
+    [/dans3]
+[/dquiz3]

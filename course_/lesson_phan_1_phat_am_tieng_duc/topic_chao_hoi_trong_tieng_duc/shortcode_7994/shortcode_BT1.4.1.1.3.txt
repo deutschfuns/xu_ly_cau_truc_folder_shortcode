@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.1.1.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.1.1.3.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ich habe vier Hunde.
+    B. Ich habe einen Hund und eine Katze.
+    C. Ich habe keine Haustiere.
+    [/dans3]
+    [hidden]Nội dung file nghe: Ja, ich habe einen Hund und eine Katze.[/hidden]
+[/dquiz3]

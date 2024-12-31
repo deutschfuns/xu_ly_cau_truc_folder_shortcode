@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.7.2.5.19" title="Nghe và chọn từ tương ứng với nghĩa tiếng Việt của tên ngày trong tuần"]
+    [daudio]BT1.7.2.5.19.mp3[/daudio]
+    [hidden]Nội dung file nghe: Samstag[/hidden]
+
+    [dans3 ans="C"]
+    A. Montag: thứ hai
+    B. Mittwoch: thứ ba
+    C. Samstag: thứ bảy
+    D. Sonntag: thứ năm
+    [/dans3]
+[/dquiz3]

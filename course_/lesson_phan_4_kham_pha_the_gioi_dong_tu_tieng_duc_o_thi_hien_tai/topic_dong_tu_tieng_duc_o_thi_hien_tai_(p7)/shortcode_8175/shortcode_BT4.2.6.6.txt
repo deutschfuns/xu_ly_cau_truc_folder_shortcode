@@ -1,0 +1,38 @@
+[dquiz3 id="BT4.2.6.6" title="Chọn dạng động từ đúng của &quot;wollen,&quot; &quot;werden,&quot; hoặc &quot;nehmen&quot; để hoàn thành câu."]
+
+Ich ___ ein Buch lesen. (wollen)
+[dans3 ans="A"]
+A. will
+B. willst
+C. wollte
+[/dans3]
+
+Du ___ ein Arzt. (werden)
+[dans3 ans="A"]
+A. wirst
+B. werde
+C. wird
+[/dans3]
+
+Er ___ das Brot. (nehmen)
+[dans3 ans="B"]
+A. nimmst
+B. nimmt
+C. nehmt
+[/dans3]
+
+Wir ___ nach Berlin fahren. (wollen)
+[dans3 ans="C"]
+A. will
+B. wollt
+C. wollen
+[/dans3]
+
+Ihr ___ bald 18 Jahre alt. (werden)
+[dans3 ans="B"]
+A. werden
+B. werdet
+C. werde
+[/dans3]
+
+[/dquiz3]

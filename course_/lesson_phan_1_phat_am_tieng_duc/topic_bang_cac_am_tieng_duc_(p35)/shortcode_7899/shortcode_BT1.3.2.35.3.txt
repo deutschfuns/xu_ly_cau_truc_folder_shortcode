@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.35.3" title="Đọc và ghi âm lại nội dung" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Freundlich
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Freundlich[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

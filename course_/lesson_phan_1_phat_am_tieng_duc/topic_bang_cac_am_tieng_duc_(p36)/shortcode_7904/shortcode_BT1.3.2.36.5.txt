@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.5" title="Chọn từ phù hợp để hoàn thành câu"]
+Chiếc áo này là một món ___ mới.
+[dans3 ans="B"]
+A. Mais
+B. Kleidung
+C. Wein
+D. Hais
+[/dans3]
+[/dquiz3]

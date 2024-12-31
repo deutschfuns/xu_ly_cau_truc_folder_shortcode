@@ -1,0 +1,10 @@
+[dquiz3 id="BT4.2.2.6" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.2.2.6.mp3[/daudio]
+    Người nói làm gì?
+    [dans3 ans="A"]
+    A. Đi học
+    B. Đi làm
+    C. Đi mua sắm
+    [/dans3]
+    [hidden]Nội dung file nghe: Ich gehe zur Schule.[/hidden]
+[/dquiz3]

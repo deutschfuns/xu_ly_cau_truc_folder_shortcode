@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.13.10" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.13.10.mp3[/daudio]
+    
+    [dans3 ans="B"]
+    A. joggen
+    B. Junge
+    C. Jeans
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Junge[/hidden]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.3.11" title="Từ nào sau đây có nghĩa là &quot;vườn ươm&quot;?"]
+
+[dans3 ans="A"]
+A. Gärtnerei
+B. Bäckerei
+C. Märchen
+[/dans3]
+
+[/dquiz3]

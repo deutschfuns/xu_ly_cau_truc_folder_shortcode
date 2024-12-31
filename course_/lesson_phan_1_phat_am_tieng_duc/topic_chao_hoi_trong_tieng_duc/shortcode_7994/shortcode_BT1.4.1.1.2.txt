@@ -1,0 +1,12 @@
+[dquiz3 id="BT1.4.1.1.2" title="Nghe và trả lời câu hỏi"]
+    [daudio]BT1.4.1.1.2.mp3[/daudio]
+
+    Woher kommt Hasie?
+    [dans3 ans="C"]
+    A. Sie kommt aus Deutschland.
+    B. Sie kommt aus Japan.
+    C. Sie kommt aus Vietnam.
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Ich komme aus Vietnam.[/hidden]
+[/dquiz3]

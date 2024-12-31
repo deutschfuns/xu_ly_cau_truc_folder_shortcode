@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.7.7" title="Từ nào sau đây có nghĩa là &quot;ăn&quot;?"]
+    [dans3 ans="B"]
+    A. Essig
+    B. Essen
+    C. Echo
+    [/dans3]
+[/dquiz3]

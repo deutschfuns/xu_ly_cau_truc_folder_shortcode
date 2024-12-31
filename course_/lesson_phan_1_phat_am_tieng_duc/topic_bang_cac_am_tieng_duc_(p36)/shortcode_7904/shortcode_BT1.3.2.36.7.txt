@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.36.7" title="Nghe và chọn từ đúng với nghĩa là &quot;kem&quot;"]
+    [daudio]BT1.3.2.36.7.mp3[/daudio]
+    [hidden]Nội dung file nghe: Eis[/hidden]
+
+    [dans3 ans="C"]
+    A. Zeit
+    B. Hais
+    C. Eis
+    D. Kleid
+    [/dans3]
+[/dquiz3]

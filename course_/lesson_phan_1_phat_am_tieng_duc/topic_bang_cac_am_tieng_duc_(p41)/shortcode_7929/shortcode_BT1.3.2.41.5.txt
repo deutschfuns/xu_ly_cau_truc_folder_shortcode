@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.41.5" title="Hãy điền từ còn thiếu vào câu sau"]
+    Chúng tôi có thể vượt qua mọi __.
+    [dans3 ans="C"]
+    A. Tür
+    B. Führer
+    C. Hürde
+    [/dans3]
+[/dquiz3]

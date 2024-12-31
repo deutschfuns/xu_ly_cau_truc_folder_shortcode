@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.24.3" title="Từ nào sau đây có nghĩa là &quot;thoải mái&quot;?"]
+
+[dans3 ans="C"]
+A. Quadrat
+B. Quelle
+C. bequem
+[/dans3]
+
+[/dquiz3]

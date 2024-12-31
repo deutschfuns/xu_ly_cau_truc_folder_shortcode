@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.14" title="Chọn từ đúng để hoàn thành câu"]
+    Mẹ tôi làm cho tôi một món ăn từ ___(trứng).
+    [dans3 ans="C"]
+    A. Kleidung
+    B. Wein
+    C. Ei
+    D. Mais
+    [/dans3]
+[/dquiz3]

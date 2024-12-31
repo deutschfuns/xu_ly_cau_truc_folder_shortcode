@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.9.8" title="Nghe và nối từ với nghĩa"]
+    [daudio]BT5.2.6.9.8.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Chuyến du lịch
+    B. Hoa
+    C. Tuần
+    D. Ngôn ngữ
+    [/dans3]
+    [hidden]Nội dung file nghe: Woche[/hidden]
+[/dquiz3]

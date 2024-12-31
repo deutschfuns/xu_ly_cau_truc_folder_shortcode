@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.6.5.6" title="Đọc và ghi âm lại các từ sau" ]
+
+    Đọc và ghi âm lại các từ sau.
+    Freundschaft
+    Gesellschaft
+    Landschaft
+    Wissenschaft
+
+    [hidden]Đọc và ghi âm lại các từ sau.
+    Freundschaft
+    Gesellschaft
+    Landschaft
+    Wissenschaft[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.7.2.5.15" title="Nghe đoạn ghi âm và chọn đáp án đúng về ngày trong tuần"]
+    [daudio]BT1.7.2.5.15.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Donnerstag
+    B. Samstag
+    C. Dienstag
+    D. Montag
+    [/dans3]
+    [hidden]Nội dung file nghe: Dienstag[/hidden]
+[/dquiz3]

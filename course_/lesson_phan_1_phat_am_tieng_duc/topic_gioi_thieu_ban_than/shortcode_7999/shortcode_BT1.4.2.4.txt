@@ -1,0 +1,19 @@
+[dquiz46 id="BT1.4.2.4" title="Hãy điền thông tin cá nhân của bạn vào chỗ trống"]
+
+    Hãy đọc và điền thông tin cá nhân của bạn vào chỗ trống để hoàn thành đoạn giới thiệu sau:
+
+    Hallo, guten Tag! Mein Name ist [dans46][/dans46]. Ich bin [dans46][/dans46] Jahre alt. Ich komme aus [dans46][/dans46], aber jetzt wohne ich in [dans46][/dans46], [dans46][/dans46]. Beruflich bin ich [dans46][/dans46]. Ich spreche [dans46][/dans46] und ein bisschen Deutsch. Meine Hobbys sind [dans46][/dans46], [dans46][/dans46] und [dans46][/dans46].
+
+    [hidden]
+    Hãy điền thông tin cá nhân của bạn vào chỗ trống.
+
+    Hãy đọc và điền thông tin cá nhân của bạn vào chỗ trống để hoàn thành đoạn giới thiệu sau:
+
+    Hallo, guten Tag! Mein Name ist {{input}}. Ich bin {{input}} Jahre alt. Ich komme aus {{input}}, aber jetzt wohne ich in {{input}}, {{input}}. Beruflich bin ich {{input}}. Ich spreche {{input}} und ein bisschen Deutsch. Meine Hobbys sind {{input}}, {{input}} und {{input}}.
+    [/hidden]
+    
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

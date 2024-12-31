@@ -1,0 +1,24 @@
+[dquiz3 id="BT5.2.4.18" title="Chọn từ tiếng Đức phù hợp với nghĩa tiếng Việt"]
+
+Con chim
+[dans3 ans="A"]
+A. Vogel
+B. Tafel
+C. Lampe
+[/dans3]
+
+Cái đinh
+[dans3 ans="B"]
+A. Sonne
+B. Nagel
+C. Blume
+[/dans3]
+
+Cái búa
+[dans3 ans="B"]
+A. Stock
+B. Hammer
+C. Lampe
+[/dans3]
+
+[/dquiz3]

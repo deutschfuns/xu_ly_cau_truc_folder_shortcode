@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.4.1" title="Trong tiếng Đức, tất cả danh từ đều phải:"]
+
+    [dans3 ans="B"]
+    A. Được viết thường.
+    B. Luôn được viết hoa.
+    C. Viết hoa khi ở đầu câu.
+    [/dans3]
+
+[/dquiz3]

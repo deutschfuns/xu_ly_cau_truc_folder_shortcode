@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.8.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-B,3-A"]
+    1. Blume
+    2. Straße
+    3. Tasse
+    A. Cái cốc
+    B. Đường phố
+    C. Hoa
+    [/dans31]
+[/dquiz31]

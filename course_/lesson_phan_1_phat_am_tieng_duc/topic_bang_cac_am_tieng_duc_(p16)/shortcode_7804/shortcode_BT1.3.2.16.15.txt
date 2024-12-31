@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.16.15" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C,4-D"]
+    1. Aldi
+    2. Salz
+    3. folgen
+    4. Schulter
+    A. Muối
+    B. Siêu thị
+    C. Theo sau
+    D. Vai
+    [/dans31]
+[/dquiz31]

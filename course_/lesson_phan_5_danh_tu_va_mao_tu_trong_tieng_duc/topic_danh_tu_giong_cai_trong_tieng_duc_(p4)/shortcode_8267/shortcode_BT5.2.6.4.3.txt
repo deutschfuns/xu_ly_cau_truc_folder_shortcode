@@ -1,0 +1,14 @@
+[dquiz44 id="BT5.2.6.4.3" title="Điền từ vào câu" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Ich kaufe Brot in der [dans44]Bäckerei[/dans44].
+    (Tôi mua bánh mì ở tiệm bánh.)
+
+    Er arbeitet in der [dans44]Metzgerei[/dans44] und verkauft Fleisch.
+    (Anh ấy làm việc trong cửa hàng thịt và bán thịt.)
+
+    Frischer Fisch kommt aus der [dans44]Fischerei[/dans44].
+    (Cá tươi đến từ ngư trường.)
+
+[/dquiz44]

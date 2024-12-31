@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.6.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-C,3-A,4-B"]
+    1. das
+    2. Datum
+    3. dunkel
+    4. danke
+    A. Tối, đậm
+    B. Cảm ơn
+    C. Ngày tháng năm
+    D. Mạo từ xác định
+    [/dans31]
+[/dquiz31]

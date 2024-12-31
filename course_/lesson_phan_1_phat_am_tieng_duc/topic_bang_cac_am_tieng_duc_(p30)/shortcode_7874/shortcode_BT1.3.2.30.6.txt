@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.30.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-D,3-C,4-B"]
+    1. grün
+    2. Lüge
+    3. Brücke
+    4. fühlen
+    A. Xanh lá
+    B. Cảm nhận
+    C. Cái cầu
+    D. Sự dối trá
+    [/dans31]
+[/dquiz31]

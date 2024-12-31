@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.46.4" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.46.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: kitsch[/hidden]
+
+    [dans3 ans="B"]
+    A. Bùn lầy
+    B. Lỗi thời
+    C. Cà lê
+    [/dans3]
+[/dquiz3]

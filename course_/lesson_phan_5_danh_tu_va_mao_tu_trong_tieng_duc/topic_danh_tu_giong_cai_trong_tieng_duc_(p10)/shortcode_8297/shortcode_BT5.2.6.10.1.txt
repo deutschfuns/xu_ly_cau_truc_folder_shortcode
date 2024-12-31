@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.6.10.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.10.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Natur
+    B. Kultur
+    C. Klausur
+    [/dans3]
+    [hidden]Nội dung file nghe: Kultur[/hidden]
+[/dquiz3]

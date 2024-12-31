@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.34.13" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.34.13.mp3[/daudio]
+    
+    [dans3 ans="C"]
+    A. vergessen
+    B. verlangen
+    C. merken
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: merken[/hidden]
+[/dquiz3]

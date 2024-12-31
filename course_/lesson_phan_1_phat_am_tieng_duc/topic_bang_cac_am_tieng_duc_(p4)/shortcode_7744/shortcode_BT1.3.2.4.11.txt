@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.4.11" title="Chọn từ phù hợp để điền vào câu sau"]
+    Mỗi sáng, tôi ăn __ với bơ.
+    [dans3 ans="C"]
+    A. Banane
+    B. Blume
+    C. Brot
+    [/dans3]
+[/dquiz3]

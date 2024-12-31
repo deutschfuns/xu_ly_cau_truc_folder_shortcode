@@ -1,0 +1,12 @@
+[dquiz31 id="BT3.2.9.1" title="Nối các câu tiếng Đức với nghĩa tiếng Việt phù hợp"]
+    [dans31 ans="1-C,2-D,3-B,4-A"]
+    1. Ich bin Koch von Beruf.
+    2. Meine Muttersprache ist Vietnamesisch.
+    3. Ich koche gern und lese viel.
+    4. Ich bin Schüler.
+    A. Tôi là học sinh.
+    B. Tôi rất thích nấu ăn và đọc sách.
+    C. Tôi làm đầu bếp.
+    D. Tiếng mẹ đẻ của tôi là tiếng Việt.
+    [/dans31]
+[/dquiz31]

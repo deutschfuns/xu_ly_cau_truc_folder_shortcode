@@ -1,0 +1,15 @@
+[dquiz58 id="BT5.4.1.37" title="Nói - Luyện tập dạng số nhiều" ]
+
+Hãy ghi âm lại dạng số nhiều của những từ sau:
+Der Globus 
+Das Visum 
+
+[hidden]Hãy ghi âm lại dạng số nhiều của những từ sau:
+Der Globus 
+Das Visum [/hidden]
+
+[prompt]
+    [sc name="prompt57"][/sc]
+[/prompt]
+
+[/dquiz58]

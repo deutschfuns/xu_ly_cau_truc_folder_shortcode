@@ -1,0 +1,12 @@
+[dquiz3 id="BT4.2.4.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.2.4.9.mp3[/daudio]
+    
+    Người nói thích làm gì?
+    [dans3 ans="A"]
+    A. Xem phim
+    B. Chạy bộ
+    C. Ngủ
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Ich sehe gern Filme.[/hidden]
+[/dquiz3]

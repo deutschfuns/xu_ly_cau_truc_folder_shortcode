@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.7.6.7" title="Chọn từ đúng để hoàn thành câu"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Das [dans44]Bäumlein[/dans44] steht im Garten.
+    (Cây nhỏ đứng trong vườn.)
+    Das [dans44]Vöglein[/dans44] fliegt am Himmel.
+    (Chim nhỏ bay trên bầu trời.)
+    Das [dans44]Pferdlein[/dans44] läuft auf dem Feld.
+    (Ngựa nhỏ chạy trên cánh đồng.)
+[/dquiz44]

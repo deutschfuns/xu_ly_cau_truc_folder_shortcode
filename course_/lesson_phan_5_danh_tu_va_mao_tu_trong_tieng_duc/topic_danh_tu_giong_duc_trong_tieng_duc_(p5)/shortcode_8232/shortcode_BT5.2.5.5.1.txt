@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.5.5.1" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+    [daudio]V5.2.5_5.mp4[/daudio]
+
+    [dans31 ans="1-B,2-A,3-D,4-C"]
+    1. Lehrer
+    2. Bäcker
+    3. Schüler
+    4. Fahrer
+    A. Thợ làm bánh
+    B. Giáo viên
+    C. Người lái xe
+    D. Học sinh
+    [/dans31]
+
+[/dquiz31]

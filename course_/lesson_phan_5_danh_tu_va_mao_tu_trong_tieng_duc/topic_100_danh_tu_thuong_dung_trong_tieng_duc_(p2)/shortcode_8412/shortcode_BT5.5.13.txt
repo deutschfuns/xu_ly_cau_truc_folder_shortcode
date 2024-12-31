@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.13" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Kannst du mir bitte eine ____ geben?
+    (Bạn có thể đưa cho tôi một cái nĩa không?)
+    [dans3 ans="C"]
+    A. Löffel
+    B. Messer
+    C. Gabel
+    [/dans3]
+[/dquiz3]

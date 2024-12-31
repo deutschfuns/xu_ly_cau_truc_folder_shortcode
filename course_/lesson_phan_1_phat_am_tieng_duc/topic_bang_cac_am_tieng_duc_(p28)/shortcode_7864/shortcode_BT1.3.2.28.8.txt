@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.28.8" title="Từ nào sau đây có nghĩa là &quot;nhà hát&quot;?"]
+    [dans3 ans="C"]
+    A. Tisch
+    B. Tochter
+    C. Theater
+    [/dans3]
+[/dquiz3]

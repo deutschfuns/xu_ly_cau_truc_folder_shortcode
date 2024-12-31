@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.1.6" title="Từ nào sau đây có nghĩa là &quot;thỏ&quot;?"]
+    [dans3 ans="D"]
+    A. Salat
+    B. Karte
+    C. Garten
+    D. Hase
+    [/dans3]
+[/dquiz3]

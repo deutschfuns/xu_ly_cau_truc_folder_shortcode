@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.19.4" title="Đâu là từ chỉ đồ ăn?"]
+    [dans3 ans="B"]
+    A. Nebel
+    B. Nudel
+    C. Natur
+    D. Norde
+    [/dans3]
+[/dquiz3]

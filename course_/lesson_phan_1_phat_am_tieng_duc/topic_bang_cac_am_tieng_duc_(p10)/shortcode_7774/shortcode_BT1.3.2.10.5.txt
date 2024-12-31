@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.10.5" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-D,4-B"]
+    1. Garten
+    2. Glas
+    3. gesund
+    4. Sieg
+    A. Ly, cốc
+    B. Chiến thắng
+    C. Vườn
+    D. Khỏe mạnh
+    [/dans31]
+[/dquiz31]

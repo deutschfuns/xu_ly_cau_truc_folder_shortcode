@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.29.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-D,3-A,4-C"]
+    1. Kuh
+    2. Suppe
+    3. Buch
+    4. Musik
+    A. Sách
+    B. Con bò
+    C. Âm nhạc
+    D. Súp
+    [/dans31]
+[/dquiz31]

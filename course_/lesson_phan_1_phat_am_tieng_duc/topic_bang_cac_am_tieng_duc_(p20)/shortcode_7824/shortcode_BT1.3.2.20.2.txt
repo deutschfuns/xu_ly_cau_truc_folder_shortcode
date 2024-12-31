@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.3.2.20.2" title="Nghe và chọn những từ đúng sau đây"]
+
+[daudio file="BT1.3.2.20.2.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="A,B"]
+A. wo
+B. Floh
+C. rot
+D. tot
+[/dans19]
+
+[hidden]Nội dung file nghe: wo; Floh[/hidden]
+
+[/dquiz19]

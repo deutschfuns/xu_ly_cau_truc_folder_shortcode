@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.4.1.44" title="Nghe câu và chọn danh từ số nhiều đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.4.1.44.mp3[/daudio]
+
+    Die ____ haben drei Kinder.
+    [dans3 ans="B"]
+    A. Ferien
+    B. Eltern
+    C. Geschwister
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Eltern haben drei Kinder.[/hidden]
+
+[/dquiz3]

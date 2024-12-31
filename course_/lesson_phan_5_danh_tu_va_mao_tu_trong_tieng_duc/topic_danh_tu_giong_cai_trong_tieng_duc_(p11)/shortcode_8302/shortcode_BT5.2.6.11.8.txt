@@ -1,0 +1,23 @@
+[dquiz58 id="BT5.2.6.11.8" title="Đọc và ghi âm lại từ sau" ]
+
+    Đọc và ghi âm lại từ sau.
+    Nachbarin
+
+    [hidden]Đọc và ghi âm lại từ sau.
+    Nachbarin[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]
+
+[dquiz44 id="BT5.2.6.11.9" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.11.9.mp3[/daudio]
+
+    Die [dans44]Kellnerin[/dans44] arbeitet in einem Restaurant.
+
+    [hidden]Nội dung file nghe: Die Kellnerin arbeitet in einem Restaurant.[/hidden]
+
+[/dquiz44]

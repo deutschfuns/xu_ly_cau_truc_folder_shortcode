@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.4.9" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Rassismus
+[dans3 ans="B"]
+A. Ngành báo chí
+B. Chủ nghĩa phân biệt chủng tộc
+C. Chủ nghĩa lý tưởng
+D. Ngành du lịch
+[/dans3]
+
+Monotheismus
+[dans3 ans="A"]
+A. Chủ nghĩa nhất thần
+B. Chủ nghĩa duy vật
+C. Chủ nghĩa cộng sản
+D. Chủ nghĩa đa thần
+[/dans3]
+
+[/dquiz3]

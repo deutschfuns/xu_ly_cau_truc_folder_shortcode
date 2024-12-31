@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.38.2" title="Đọc và ghi âm lại" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Liebe
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Liebe[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

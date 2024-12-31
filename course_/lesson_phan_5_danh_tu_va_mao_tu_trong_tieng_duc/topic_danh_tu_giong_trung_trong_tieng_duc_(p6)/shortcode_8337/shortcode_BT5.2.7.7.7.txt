@@ -1,0 +1,16 @@
+[dquiz37 id="BT5.2.7.7.7" title="Nghe và sắp xếp từ thành câu hoàn chỉnh"]
+
+[daudio]BT5.2.7.7.7.mp3[/daudio]
+
+[dans37 ans="C-D-A-F-B-E"]
+A. nach
+B. ist
+C. Das
+D. Bedürfnis
+E. wichtig
+F. Sicherheit
+[/dans37]
+
+[hidden]Nội dung file nghe: Das Bedürfnis nach Sicherheit ist wichtig.[/hidden]
+
+[/dquiz37]

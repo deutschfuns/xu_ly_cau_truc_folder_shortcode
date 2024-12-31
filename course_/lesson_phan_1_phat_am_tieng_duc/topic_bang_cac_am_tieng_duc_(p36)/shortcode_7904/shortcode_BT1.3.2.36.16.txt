@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.36.16" title="Nghe và sắp xếp các từ sau để tạo thành câu đúng"]
+    [daudio]BT1.3.2.36.16.mp3[/daudio]
+
+    [dans37 ans="A-D-B-C"]
+    A. Der
+    B. ist
+    C. heiß
+    D. Kaffee
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Der Kaffee ist heiß[/hidden]
+[/dquiz37]

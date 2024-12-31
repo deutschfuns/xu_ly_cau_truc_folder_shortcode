@@ -1,0 +1,7 @@
+[dquiz44 id="BT1.6.4.4" title="Chọn và điền giới từ &quot;um&quot; hoặc &quot;gegen&quot; vào chỗ trống để hoàn thành câu sau"]
+
+    Ich gehe [dans44]um[/dans44] 8:00 zur Arbeit.
+    Ich komme [dans44]gegen[/dans44] 7:30 am.
+    Wir treffen uns [dans44]um[/dans44] 12:00.
+
+[/dquiz44]

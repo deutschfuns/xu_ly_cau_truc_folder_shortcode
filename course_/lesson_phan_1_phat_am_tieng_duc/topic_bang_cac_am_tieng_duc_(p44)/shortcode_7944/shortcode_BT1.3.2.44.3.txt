@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.44.3" title="Từ nào sau đây có nghĩa là &quot;đúng&quot;?"]
+    [dans3 ans="B"]
+    A. reich
+    B. richtig
+    C. nicht
+    [/dans3]
+[/dquiz3]

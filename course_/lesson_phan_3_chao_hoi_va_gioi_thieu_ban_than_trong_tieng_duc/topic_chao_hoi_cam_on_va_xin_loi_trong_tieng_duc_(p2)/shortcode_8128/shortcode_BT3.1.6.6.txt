@@ -1,0 +1,11 @@
+[dquiz58 id="BT3.1.6.6" title="Đọc và ghi âm lại"]
+    Hãy đọc và ghi âm lại nội dung sau:
+    Entschuldigung, können Sie das bitte wiederholen?
+
+    [hidden]Hãy đọc và ghi âm lại nội dung sau:
+    Entschuldigung, können Sie das bitte wiederholen?[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+[/dquiz58]

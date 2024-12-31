@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.27.9" title="Chọn từ phù hợp để điền vào câu sau"]
+    Vào mùa hè, trời rất __.
+    [dans3 ans="C"]
+    A. Fußball
+    B. Gruß
+    C. heiß
+    [/dans3]
+[/dquiz3]

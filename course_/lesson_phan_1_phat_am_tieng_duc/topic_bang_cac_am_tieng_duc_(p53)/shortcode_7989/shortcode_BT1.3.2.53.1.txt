@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.53.1" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.53.1.mp3[/daudio]
+    
+    [dans3 ans="B"]
+    A. Tâm lý học
+    B. Bác sĩ tâm thần
+    C. Bí danh
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Psychiater[/hidden]
+[/dquiz3]

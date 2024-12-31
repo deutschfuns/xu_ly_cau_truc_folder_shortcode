@@ -1,0 +1,15 @@
+[dquiz46 id="BT5.5.12" title="Sắp xếp từ thành câu đúng"]
+    Sắp xếp các từ sau để tạo thành câu đúng.
+    Ich / meinen / verloren / habe / Schlüssel.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        Ich / meinen / verloren / habe / Schlüssel.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

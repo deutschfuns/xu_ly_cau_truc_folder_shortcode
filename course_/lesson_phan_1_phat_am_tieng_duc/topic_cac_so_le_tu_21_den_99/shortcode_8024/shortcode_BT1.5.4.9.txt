@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.4.9" title="Nghe và chọn nghĩa tiếng Việt của số sau"]
+    [daudio]BT1.5.4.9.mp3[/daudio]
+    [hidden]Nội dung file nghe: siebenundsiebzig[/hidden]
+
+    [dans3 ans="C"]
+    A. 92
+    B. 63
+    C. 77
+    [/dans3]
+[/dquiz3]

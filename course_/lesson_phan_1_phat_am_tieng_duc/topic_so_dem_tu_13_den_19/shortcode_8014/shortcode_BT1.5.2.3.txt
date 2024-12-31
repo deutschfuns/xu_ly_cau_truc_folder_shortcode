@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.5.2.3" title="Số nào sau đây có nghĩa là &quot;17&quot;?"]
+    [dans3 ans="B"]
+    A. dreizehn
+    B. siebzehn
+    C. fünfzehn
+    [/dans3]
+[/dquiz3]

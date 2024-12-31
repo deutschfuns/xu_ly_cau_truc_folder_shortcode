@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.6.12.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.12.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Birne
+    B. Orange
+    C. Banane
+    [/dans3]
+    [hidden]Nội dung file nghe: Banane[/hidden]
+[/dquiz3]

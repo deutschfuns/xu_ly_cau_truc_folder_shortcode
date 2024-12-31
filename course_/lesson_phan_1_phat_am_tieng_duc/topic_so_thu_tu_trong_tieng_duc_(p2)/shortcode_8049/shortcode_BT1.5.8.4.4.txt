@@ -1,0 +1,11 @@
+[dquiz58 id="BT1.5.8.4.4" title="Nói theo yêu cầu"]
+
+    Hãy ghi âm lại 1 câu về ngày sinh của bạn bằng cách sử dụng số thứ tự.
+
+    [hidden]Hãy ghi âm lại 1 câu về ngày sinh của bạn bằng cách sử dụng số thứ tự.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

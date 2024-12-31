@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.5.2.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.5.2.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,D"]
+A. dreizehn
+B. neunzehn
+C. fünfzehn
+D. sechzehn
+[/dans19]
+
+[hidden]Nội dung file nghe: neunzehn, sechzehn[/hidden]
+
+[/dquiz19]

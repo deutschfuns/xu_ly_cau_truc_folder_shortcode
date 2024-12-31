@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.35.5" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C,4-D"]
+    1. Säure
+    2. Träume
+    3. Mäuse
+    Zäune
+    A. Giấc mơ
+    B. Axit
+    C. Chuột
+    D. Hàng rào
+    [/dans31]
+[/dquiz31]

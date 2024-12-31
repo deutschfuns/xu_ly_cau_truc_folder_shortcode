@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.4.1.1.13" title="Sắp xếp các câu thành đoạn đối thoại hợp lý"]
+
+[dans37 ans="C-D-A-B"]
+
+A. Wie alt bist du?
+B. Ich bin achtzehn Jahre alt.
+C. Hallo, wie heißt du?
+D. Ich heiße Hasie.
+
+[/dans37]
+
+[/dquiz37]

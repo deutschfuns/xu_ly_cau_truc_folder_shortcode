@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.5.8.3.3" title="Chọn đáp án đúng"]
+    Số nào sau đây là số thứ mười hai trong tiếng Đức?
+    [dans3 ans="D"]
+    A. zweite
+    B. zehnte
+    C. siebte
+    D. zwölfte
+    [/dans3]
+[/dquiz3]

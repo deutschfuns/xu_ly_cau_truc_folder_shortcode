@@ -1,0 +1,12 @@
+[dquiz58 id="BT5.5.9" title="Nói - Sử dụng danh từ để đặt câu"]
+
+Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ sau:
+Der Flug
+
+[hidden]Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ sau: Der Flug[/hidden]
+
+[prompt]
+    [sc name="prompt57"][/sc]
+[/prompt]
+
+[/dquiz58]

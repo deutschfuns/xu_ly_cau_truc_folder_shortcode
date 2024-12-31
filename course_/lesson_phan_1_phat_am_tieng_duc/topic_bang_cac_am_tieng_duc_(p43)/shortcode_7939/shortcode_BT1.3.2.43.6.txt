@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.43.6" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.43.6.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Nacht
+    B. Suchen
+    C. lachen
+    [/dans3]
+    [hidden]Nội dung file nghe: Suchen[/hidden]
+[/dquiz3]

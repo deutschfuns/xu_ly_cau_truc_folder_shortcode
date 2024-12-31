@@ -1,0 +1,10 @@
+[dquiz3 id="BT4.2.2.15" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.2.2.15.mp3[/daudio]
+    Người nói đang làm gì?
+    [dans3 ans="A"]
+    A. Nghe nhạc
+    B. Học bài
+    C. Đọc sách
+    [/dans3]
+    [hidden]Nội dung file nghe: Er hört Musik.[/hidden]
+[/dquiz3]

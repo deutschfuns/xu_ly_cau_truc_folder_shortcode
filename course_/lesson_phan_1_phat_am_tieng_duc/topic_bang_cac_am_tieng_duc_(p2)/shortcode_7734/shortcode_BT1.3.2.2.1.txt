@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.2.1" title="Nghe và chọn những đáp án đúng sau đây"]
+    [daudio]BT1.3.2.2.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Apfel
+    B. Kamm
+    C. Mann
+    D. Schlamm
+    E. Platz
+    [/dans3]
+    [hidden]Nội dung file nghe: Mann[/hidden]
+[/dquiz3]

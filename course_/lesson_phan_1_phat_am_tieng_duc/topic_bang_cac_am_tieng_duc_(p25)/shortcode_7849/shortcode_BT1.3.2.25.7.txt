@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.25.7" title="Từ nào sau đây có nghĩa là &quot;màu đỏ&quot;?"]
+    [dans3 ans="C"]
+    A. Richtung
+    B. Ruhe
+    C. rot
+    [/dans3]
+[/dquiz3]

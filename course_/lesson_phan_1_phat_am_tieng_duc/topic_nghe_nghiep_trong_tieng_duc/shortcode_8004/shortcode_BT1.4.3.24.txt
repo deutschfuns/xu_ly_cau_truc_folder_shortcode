@@ -1,0 +1,11 @@
+[dquiz37 id="BT1.4.3.24" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.4.3.24.mp3[/daudio]
+
+    [dans37 ans="B-A-C"]
+    A. bin
+    B. ich
+    C. Maler
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich bin Maler[/hidden]
+[/dquiz37]

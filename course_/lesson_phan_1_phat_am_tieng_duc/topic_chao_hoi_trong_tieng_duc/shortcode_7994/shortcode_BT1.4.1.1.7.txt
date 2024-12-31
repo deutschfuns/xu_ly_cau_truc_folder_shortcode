@@ -1,0 +1,11 @@
+[dquiz58 id="BT1.4.1.1.7" title="Đọc và ghi âm lại"]
+    Hãy đọc và ghi âm lại nội dung sau:
+    Ich komme aus Vietnam.
+
+    [hidden]Hãy đọc và ghi âm lại nội dung sau:
+    Ich komme aus Vietnam.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+[/dquiz58]

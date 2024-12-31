@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.4.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.5.4.4.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Journalismus
+    B. Feminismus
+    C. Organismus
+    D. Kapitalismus
+    [/dans3]
+    [hidden]Nội dung file nghe: Feminismus[/hidden]
+[/dquiz3]

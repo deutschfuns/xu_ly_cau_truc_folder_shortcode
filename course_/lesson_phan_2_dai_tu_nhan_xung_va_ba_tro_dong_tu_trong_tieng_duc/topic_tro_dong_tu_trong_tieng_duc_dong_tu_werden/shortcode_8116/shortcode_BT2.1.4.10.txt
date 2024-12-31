@@ -1,0 +1,9 @@
+[dquiz44 id="BT2.1.4.10" title="Nghe và điền vào chỗ trống"]
+
+[daudio]BT2.1.4.10.mp3[/daudio]
+
+[dans44]werden[/dans44]
+
+[hidden]Nội dung file nghe: Sie werden Manager[/hidden]
+
+[/dquiz44]

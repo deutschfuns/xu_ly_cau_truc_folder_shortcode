@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.5.4.3" title="Từ nào sau đây có nghĩa là &quot;73&quot;?"]
+    [dans3 ans="A"]
+    A. dreiundsiebzig
+    B. fünfundsiebzig
+    C. einundsiebzig
+    [/dans3]
+[/dquiz3]

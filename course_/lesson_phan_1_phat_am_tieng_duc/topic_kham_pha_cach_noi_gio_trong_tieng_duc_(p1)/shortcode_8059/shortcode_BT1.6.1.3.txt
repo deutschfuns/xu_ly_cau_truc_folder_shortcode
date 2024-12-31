@@ -1,0 +1,18 @@
+[dquiz31 id="BT1.6.1.3" title="Nối giờ hiển thị với cách diễn đạt tương ứng bằng tiếng Đức"]
+
+Nối giờ hiển thị với cách diễn đạt tương ứng bằng tiếng Đức.
+
+[dans31 ans="1-C,2-A,3-B,4-D"]
+
+1. 7:30
+2. 5:15
+3. 8:45
+4. 9:50
+A. Viertel nach fünf
+B. Viertel vor neun
+C. Halb acht
+D. Zehn vor zehn
+
+[/dans31]
+
+[/dquiz31]

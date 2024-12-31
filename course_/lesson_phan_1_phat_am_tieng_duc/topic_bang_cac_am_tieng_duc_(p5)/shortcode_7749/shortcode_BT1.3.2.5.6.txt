@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.5.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-B"]
+    1. Computer
+    2. City
+    3. Curry
+    A. Thành phố
+    B. Cà ri
+    C. Máy tính
+    [/dans31]
+[/dquiz31]

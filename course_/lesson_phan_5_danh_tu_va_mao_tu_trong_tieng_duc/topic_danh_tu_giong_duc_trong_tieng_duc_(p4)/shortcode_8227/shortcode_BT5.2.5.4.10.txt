@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.4.10" title="Đọc tiếng Việt và chọn từ tiếng Đức phù hợp"]
+
+    Chủ nghĩa tư bản
+    [dans3 ans="C"]
+    A. Rassismus
+    B. Journalismus
+    C. Kapitalismus
+    D. Organismus
+    [/dans3]
+
+    Ngành báo chí
+    [dans3 ans="A"]
+    A. Journalismus
+    B. Tourismus
+    C. Polytheismus
+    D. Feminismus
+    [/dans3]
+
+[/dquiz3]

@@ -1,0 +1,13 @@
+[dquiz37 id="BT1.3.2.47.2" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.47.2.mp3[/daudio]
+
+    [dans37 ans="A-B-C-D-E"]
+    A. Ich
+    B. sitze
+    C. auf
+    D. dem
+    E. Stuhl
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich sitze auf dem Stuhl[/hidden]
+[/dquiz37]

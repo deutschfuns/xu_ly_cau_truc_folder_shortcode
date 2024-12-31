@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.12" title="Từ nào sau đây có nghĩa là &quot;quần áo&quot;?"]
+    [dans3 ans="B"]
+    A. Leiter
+    B. Kleidung
+    C. Zeit
+    D. Mais
+    [/dans3]
+[/dquiz3]

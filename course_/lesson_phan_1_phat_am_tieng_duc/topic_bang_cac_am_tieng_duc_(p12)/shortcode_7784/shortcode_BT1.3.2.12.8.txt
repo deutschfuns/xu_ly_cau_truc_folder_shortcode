@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.12.8" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.12.8.mp3[/daudio]
+    [hidden]Nội dung file nghe: Wind[/hidden]
+
+    [dans3 ans="A"]
+    A. Gió
+    B. Thịt bò
+    C. Bầu trời
+    [/dans3]
+[/dquiz3]

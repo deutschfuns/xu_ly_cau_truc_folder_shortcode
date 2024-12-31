@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.3.3.4.4" title="Nghe câu và điền mạo từ không xác định vào chỗ trống"]
+    
+    [daudio]BT5.3.3.4.4.mp3[/daudio]
+    
+    Das ist [dans44]ein[/dans44] Haus.
+    
+    [hidden]Nội dung file nghe: Das ist ein Haus.[/hidden]
+    
+[/dquiz44]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.8.7" title="Từ nào sau đây có nghĩa là &quot;cái đèn&quot;?"]
+    [dans3 ans="C"]
+    A. Tasse
+    B. Blume
+    C. Lampe
+    [/dans3]
+[/dquiz3]

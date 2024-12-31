@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.3.13" title="Nghe và chọn những đáp án đúng sau đây"]
+    [daudio]BT1.3.2.3.13.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Strände
+    B. Äpfel
+    C. Tränen
+    [/dans3]
+    [hidden]Nội dung file nghe: Äpfel[/hidden]
+[/dquiz3]

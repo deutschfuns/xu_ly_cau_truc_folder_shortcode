@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.5.1" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.6.5.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Tình bạn
+    B. Đội ngũ
+    C. Phong cảnh
+    D. Giải vô địch
+    [/dans3]
+    [hidden]Nội dung file nghe: Landschaft[/hidden]
+[/dquiz3]

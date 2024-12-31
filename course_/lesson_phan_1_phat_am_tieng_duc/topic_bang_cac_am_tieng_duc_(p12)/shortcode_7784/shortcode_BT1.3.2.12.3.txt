@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.12.3" title="Từ nào sau đây có nghĩa là &quot;trẻ con&quot;?"]
+
+[dans3 ans="A"]
+A. Kind
+B. Lind
+C. Grillen
+[/dans3]
+
+[/dquiz3]

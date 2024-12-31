@@ -1,0 +1,4 @@
+[dquiz44 id="BT5.3.3.4.1" title="Điền mạo từ không xác định vào chỗ trống"]
+Das ist [dans44]ein[/dans44] Tisch.
+(Đây là cái bàn.)
+[/dquiz44]

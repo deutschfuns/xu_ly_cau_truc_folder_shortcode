@@ -1,0 +1,11 @@
+[dquiz58 id="BT3.2.5.10" title="Nói"]
+
+    Hãy ghi âm lại phần tự giới thiệu bản thân (tên, tuổi, nơi ở, số điện thoại) bằng tiếng Đức.
+
+    [hidden]Hãy ghi âm lại phần tự giới thiệu bản thân (tên, tuổi, nơi ở, số điện thoại) bằng tiếng Đức.[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

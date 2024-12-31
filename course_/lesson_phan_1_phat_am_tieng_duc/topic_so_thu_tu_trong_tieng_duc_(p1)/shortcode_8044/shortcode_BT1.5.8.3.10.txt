@@ -1,0 +1,16 @@
+[dquiz31 id="BT1.5.8.3.10" title="Nối các số với dạng số thứ tự của chúng."]
+
+[dans31 ans="1-D,2-C,3-A,4-B"]
+
+1. 18
+2. 11
+3. 2
+4. 3
+A. zweite
+B. dritte
+C. elfte
+D. achtzehnte
+
+[/dans31]
+
+[/dquiz31]

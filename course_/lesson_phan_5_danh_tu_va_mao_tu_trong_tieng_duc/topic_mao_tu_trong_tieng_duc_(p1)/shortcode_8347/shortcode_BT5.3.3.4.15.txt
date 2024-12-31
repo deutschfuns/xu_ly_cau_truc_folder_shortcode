@@ -1,0 +1,15 @@
+[dquiz58 id="BT5.3.3.4.15" title="Nói - Luyện tập mạo từ sở hữu" ]
+
+    Đọc và ghi âm lại nội dung sau:
+    Eure Tische 
+    Seine Häuser 
+
+    [hidden]Đọc và ghi âm lại nội dung sau:
+    Eure Tische 
+    Seine Häuser [/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

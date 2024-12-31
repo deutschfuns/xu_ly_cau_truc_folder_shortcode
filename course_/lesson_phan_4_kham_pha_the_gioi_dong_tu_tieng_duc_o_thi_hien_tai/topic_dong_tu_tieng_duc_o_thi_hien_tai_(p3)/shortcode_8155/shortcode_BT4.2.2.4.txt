@@ -1,0 +1,8 @@
+[dquiz44 id="BT4.2.2.4" title="Hãy điền dạng chia đúng của động từ trong ngoặc để hoàn thành câu"]
+
+    Wir [dans44]brauchen[/dans44] einen neuen Tisch.
+    Er [dans44]erzählt[/dans44] eine spannende Geschichte.
+    Ihr [dans44]erklärt[/dans44] die Aufgabe den Schülern.
+    Ich [dans44]decke[/dans44] den Tisch für das Abendessen.
+
+[/dquiz44]

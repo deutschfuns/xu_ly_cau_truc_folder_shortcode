@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.5.7.15" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+    [dans31 ans="1-A,2-B,3-D,4-C"]
+    1. Montag
+    2. Samstag
+    3. Jahr
+    4. Norden
+    A. Thứ Hai
+    B. Thứ Bảy
+    C. Phía Bắc
+    D. Năm
+    [/dans31]
+[/dquiz31]

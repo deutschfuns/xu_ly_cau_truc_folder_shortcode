@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.4.17" title="Chọn nghĩa đúng của từ thuộc giống đực"]
+    “Hammer” nghĩa là gì?
+    [dans3 ans="B"]
+    A. Cái đèn
+    B. Cái búa
+    C. Cái bàn
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.2.2.20" title="Chọn nghĩa tiếng Việt phù hợp với mỗi câu tiếng Đức."]
+
+Die Kinder spielen im Park.
+[dans3 ans="B"]
+A. Bọn trẻ chạy trong công viên.
+B. Bọn trẻ chơi trong công viên.
+C. Bọn trẻ khóc trong công viên.
+[/dans3]
+
+Er kocht Abendessen.
+[dans3 ans="A"]
+A. Anh ấy nấu bữa tối.
+B. Anh ấy mua bữa tối.
+C. Anh ấy làm bài tập.
+[/dans3]
+
+[/dquiz3]

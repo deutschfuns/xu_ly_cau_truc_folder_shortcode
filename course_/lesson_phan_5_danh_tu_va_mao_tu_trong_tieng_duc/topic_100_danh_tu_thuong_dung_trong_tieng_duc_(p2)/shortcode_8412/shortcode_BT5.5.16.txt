@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.16" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Die Decke
+    [dans46]
+    Der Sessel
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Die Decke
+        {{input}}
+        Der Sessel
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

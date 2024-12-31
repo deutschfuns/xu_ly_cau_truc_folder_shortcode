@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.4.5" title="Danh từ &quot;Haus&quot; (ngôi nhà) thuộc giống nào?"]
+    [dans3 ans="C"]
+    A. Giống Đực
+    B. Giống Cái
+    C. Giống Trung
+    [/dans3]
+[/dquiz3]

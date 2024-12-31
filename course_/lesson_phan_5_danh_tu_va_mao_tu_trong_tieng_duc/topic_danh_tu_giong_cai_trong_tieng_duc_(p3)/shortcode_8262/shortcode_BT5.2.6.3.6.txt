@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.6.3.6" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    1. hat / eine / Möglichkeit / Ich / große / .
+    [dans46]
+
+    2. wichtig / ist / Freundlichkeit / sehr / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        1. hat / eine / Möglichkeit / Ich / große / .
+        {{input}}
+        2. wichtig / ist / Freundlichkeit / sehr / .
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.50.6" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy thích màu sắc tươi sáng, vì vậy anh ấy sơn ngôi nhà của mình màu __.
+    [dans3 ans="B"]
+    A. grau
+    B. grün
+    C. groß
+    [/dans3]
+[/dquiz3]

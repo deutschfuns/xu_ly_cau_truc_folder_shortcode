@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.1.13" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.1.13.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Salat
+    B. Bahn
+    C. Hase
+    D. Name
+    [/dans3]
+    [hidden]Nội dung file nghe: Bahn[/hidden]
+[/dquiz3]

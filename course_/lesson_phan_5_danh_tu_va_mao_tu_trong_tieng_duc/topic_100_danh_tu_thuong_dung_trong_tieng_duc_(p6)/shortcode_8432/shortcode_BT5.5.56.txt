@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.56" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Das Handy
+    [dans46]
+    Die Krawatte
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Das Handy
+        {{input}}
+        Die Krawatte
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

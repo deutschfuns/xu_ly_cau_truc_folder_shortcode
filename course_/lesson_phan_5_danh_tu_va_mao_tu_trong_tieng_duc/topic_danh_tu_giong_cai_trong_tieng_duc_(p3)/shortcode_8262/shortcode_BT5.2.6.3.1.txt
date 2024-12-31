@@ -1,0 +1,17 @@
+[dquiz31 id="BT5.2.6.3.1" title="Nối các danh từ có đuôi &quot;-keit&quot; với nghĩa tiếng Việt tương ứng."]
+
+[dans31 ans="1-D,2-B,3-A,4-E,5-C"]
+1. Möglichkeit
+2. Höflichkeit
+3. Geschwindigkeit
+4. Einsamkeit
+5. Gerechtigkeit
+
+A. Tốc độ
+B. Lịch sự
+C. Công lý
+D. Khả năng
+E. Sự cô đơn
+[/dans31]
+
+[/dquiz31]

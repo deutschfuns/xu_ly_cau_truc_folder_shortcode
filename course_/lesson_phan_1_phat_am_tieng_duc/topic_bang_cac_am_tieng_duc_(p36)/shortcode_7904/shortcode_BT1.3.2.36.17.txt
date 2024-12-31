@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.17" title="Từ nào sau đây có nghĩa là &quot;tự do&quot;?"]
+    [dans3 ans="D"]
+    A. Eiswürfel
+    B. Leiter
+    C. Hais
+    D. frei
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.41.2" title="Nghe và chọn nghĩa tiếng Việt phù hợp"]
+    [daudio]BT1.3.2.41.2.mp3[/daudio]
+    [dans3 ans="C"]
+    A. cảm nhận
+    B. hỗ trợ
+    C. rào cản
+    [/dans3]
+    [hidden]Nội dung file nghe: Hürde[/hidden]
+[/dquiz3]

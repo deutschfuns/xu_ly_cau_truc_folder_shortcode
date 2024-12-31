@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.43.7" title="Sắp xếp các từ sau đây để tạo thành câu hoàn chỉnh"]
+    [daudio]BT1.3.2.43.7.mp3[/daudio]
+
+    [dans37 ans="A-C-D-B"]
+    A. Ich
+    B. Buch
+    C. lese
+    D. das
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich lese das Buch[/hidden]
+[/dquiz37]

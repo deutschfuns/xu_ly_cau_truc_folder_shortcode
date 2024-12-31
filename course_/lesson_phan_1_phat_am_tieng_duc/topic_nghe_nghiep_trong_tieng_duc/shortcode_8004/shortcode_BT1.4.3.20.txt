@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.4.3.20" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.4.3.20.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. Tischler
+B. Journalist
+C. Malerin
+D. Krankenpfleger
+[/dans19]
+
+[hidden]Nội dung file nghe: Journalist; Malerin[/hidden]
+
+[/dquiz19]

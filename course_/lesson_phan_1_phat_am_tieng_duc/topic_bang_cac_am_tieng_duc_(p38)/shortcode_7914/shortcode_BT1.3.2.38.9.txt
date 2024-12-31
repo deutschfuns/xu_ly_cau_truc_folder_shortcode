@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.38.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.38.9.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Dienstag
+    B. Sieb
+    C. riesen
+    [/dans3]
+    [hidden]Nội dung file nghe: Dienstag[/hidden]
+[/dquiz3]

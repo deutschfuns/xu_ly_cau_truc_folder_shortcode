@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.8.3" title="Từ nào sau đây có nghĩa là &quot;trường học&quot;?"]
+
+[dans3 ans="B"]
+A. Nase
+B. Schule
+C. Karte
+[/dans3]
+
+[/dquiz3]

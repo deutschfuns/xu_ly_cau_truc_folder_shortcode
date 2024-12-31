@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.9.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.9.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Katze
+    B. Küche
+    C. Blume
+    D. Woche
+    [/dans3]
+    [hidden]Nội dung file nghe: Blume[/hidden]
+[/dquiz3]

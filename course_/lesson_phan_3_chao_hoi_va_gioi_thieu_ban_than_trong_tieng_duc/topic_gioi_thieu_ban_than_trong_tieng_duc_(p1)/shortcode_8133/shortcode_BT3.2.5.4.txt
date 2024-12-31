@@ -1,0 +1,19 @@
+[dquiz46 id="BT3.2.5.4" title="Luyện viết"]
+    Hãy viết câu trả lời phù hợp cho các câu hỏi sau bằng tiếng Đức.
+    
+    Wie heißen Sie?
+    [dans46]
+    
+    Wo wohnen Sie?
+    [dans46]
+    
+    [hidden]
+        Hãy viết câu trả lời phù hợp cho các câu hỏi sau bằng tiếng Đức.
+        Wie heißen Sie? {{input}}
+        Wo wohnen Sie? {{input}}
+    [/hidden]
+    
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

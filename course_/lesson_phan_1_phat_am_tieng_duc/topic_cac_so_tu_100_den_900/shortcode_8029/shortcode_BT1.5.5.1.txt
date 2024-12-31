@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.5.5.1" title="Chọn từ phù hợp để điền vào câu sau"]
+    Số 700 trong tiếng Đức là __.
+    [dans3 ans="C"]
+    A. vierhundert
+    B. fünfhundert
+    C. siebenhundert
+    [/dans3]
+[/dquiz3]

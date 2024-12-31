@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.25.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-C"]
+    1. Ring
+    2. Rose
+    3. rot
+    A. Nhẫn
+    B. Hoa hồng
+    C. Màu đỏ
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.18.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-C,3-B,4-D"]
+    1. Mund
+    2. Milch
+    3. Mittel
+    4. Morgen
+    A. Miệng
+    B. Phương tiện
+    C. Sữa
+    D. Buổi sáng
+    [/dans31]
+[/dquiz31]

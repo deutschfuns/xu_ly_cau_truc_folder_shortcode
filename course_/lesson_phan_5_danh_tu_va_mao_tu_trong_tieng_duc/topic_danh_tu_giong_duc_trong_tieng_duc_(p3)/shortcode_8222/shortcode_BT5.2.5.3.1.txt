@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.2.5.3.1" title="Nghe và chọn đáp án đúng"]
+
+    [daudio]BT5.2.5.3.1.mp3[/daudio]
+
+    [dans3 ans="C"]
+    A. Professor
+    B. Moderator
+    C. Doktor
+    D. Direktor
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Doktor[/hidden]
+
+[/dquiz3]

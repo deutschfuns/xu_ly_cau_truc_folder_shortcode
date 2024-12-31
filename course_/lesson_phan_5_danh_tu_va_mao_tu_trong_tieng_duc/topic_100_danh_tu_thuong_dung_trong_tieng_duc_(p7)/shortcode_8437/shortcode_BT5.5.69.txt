@@ -1,0 +1,18 @@
+[dquiz46 id="BT5.5.69" title="Sắp xếp từ thành câu đúng"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    Filialleiter / ist / Das / verantwortlich / Team / der / für / ganze.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        Filialleiter / ist / Das / verantwortlich / Team / der / für / ganze.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

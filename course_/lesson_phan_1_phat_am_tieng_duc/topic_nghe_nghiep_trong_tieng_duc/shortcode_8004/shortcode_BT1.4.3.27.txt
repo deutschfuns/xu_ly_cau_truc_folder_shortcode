@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.4.3.27" title="Chọn từ phù hợp để điền vào câu sau:"]
+
+Bố tôi là một __.
+
+[dans3 ans="C"]
+A. Mechanikerin
+B. Schauspielerin
+C. Mechaniker
+[/dans3]
+
+[/dquiz3]

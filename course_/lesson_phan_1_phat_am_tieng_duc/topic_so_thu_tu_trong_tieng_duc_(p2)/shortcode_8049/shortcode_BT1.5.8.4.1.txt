@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.5.8.4.1" title="Chọn đáp án đúng"]
+    “Ich bin am siebzehnten Oktober geboren.” có nghĩa là:
+    [dans3 ans="C"]
+    A. Tôi sinh vào ngày 7 tháng 10
+    B. Tôi sinh vào tháng 7 ngày 10
+    C. Tôi sinh vào ngày 17 tháng 10
+    [/dans3]
+[/dquiz3]

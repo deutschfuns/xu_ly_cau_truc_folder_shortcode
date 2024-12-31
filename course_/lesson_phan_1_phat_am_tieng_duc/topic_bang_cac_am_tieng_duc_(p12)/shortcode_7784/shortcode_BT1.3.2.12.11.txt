@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.12.11" title="Chọn từ phù hợp để điền vào câu sau"]
+    Con vẹt đang đứng trên một __.
+    [dans3 ans="B"]
+    A. Wind
+    B. Sittich
+    C. Himmel
+    [/dans3]
+[/dquiz3]

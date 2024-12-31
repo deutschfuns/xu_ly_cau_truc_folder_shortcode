@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.11.10" title="Đọc các từ sau và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-C,3-A,4-D"]
+    1. Herz
+    2. Hund
+    3. Himmel
+    4. Mehl
+    A. Bầu trời
+    B. Trái tim
+    C. Chó
+    D. Bột mì
+    [/dans31]
+[/dquiz31]

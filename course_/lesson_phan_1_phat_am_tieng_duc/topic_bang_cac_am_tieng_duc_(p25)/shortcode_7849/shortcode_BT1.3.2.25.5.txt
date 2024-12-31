@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.25.5" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.25.5.mp3[/daudio]
+    [hidden]Nội dung file nghe: Ruhe[/hidden]
+    
+    [dans3 ans="A"]
+    A. Ruhe
+    B. Rose
+    C. Radio
+    [/dans3]
+[/dquiz3]

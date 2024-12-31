@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.6.3" title="Từ nào sau đây có nghĩa là &quot;số ba&quot;?"]
+
+[dans3 ans="B"]
+A. dunkel
+B. drei
+C. das
+[/dans3]
+
+[/dquiz3]

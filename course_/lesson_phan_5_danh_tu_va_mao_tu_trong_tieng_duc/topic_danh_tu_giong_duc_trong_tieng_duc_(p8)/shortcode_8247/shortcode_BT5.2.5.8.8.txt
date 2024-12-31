@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.8.8" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    1. eine / Tasse / Ich / morgens / trinke / Kaffee / .
+    [dans46]
+
+    2. gern / Ich / Tee / abends / trinke / .
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        1. eine / Tasse / Ich / morgens / trinke / Kaffee / .
+        {{input}}
+        2. gern / Ich / Tee / abends / trinke / .
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,14 @@
+[dquiz58 id="BT1.5.5.4" title="Nghe và ghi âm lại" ]
+
+Hãy nghe và ghi âm lại nội dung nghe được
+
+[daudio]BT1.5.5.4.mp3[/daudio]
+
+[hidden]Hãy nghe và ghi âm lại nội dung nghe được
+Nội dung file nghe: vierhundert[/hidden]
+
+[prompt]
+    [sc name="prompt86"][/sc]
+[/prompt]
+
+[/dquiz58]

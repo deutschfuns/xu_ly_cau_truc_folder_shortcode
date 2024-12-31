@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.38.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-A,3-B,4-C"]
+    1. sieben
+    2. Dienstag
+    3. Lieder
+    4. Sieb
+    A. Thứ Ba
+    B. Bài hát
+    C. Màng lọc
+    D. Số bảy
+    [/dans31]
+[/dquiz31]

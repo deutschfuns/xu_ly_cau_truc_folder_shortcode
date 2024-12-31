@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.14.8" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.14.8.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Karte
+    B. kalt
+    C. Kleid
+    [/dans3]
+    [hidden]Nội dung file nghe: kalt[/hidden]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.63" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Die Geschichte über ____ ist sehr spannend.
+    (Câu chuyện về cướp biển rất hấp dẫn.)
+    [dans3 ans="B"]
+    A. Mechaniker
+    B. Seeräuber
+    C. Straßenkehrer
+    [/dans3]
+[/dquiz3]

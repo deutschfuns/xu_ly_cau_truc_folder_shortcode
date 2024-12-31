@@ -1,0 +1,16 @@
+[dquiz31 id="BT5.2.6.1.1" title="Nối các danh từ tiếng Đức có đuôi &quot;-heit&quot; với nghĩa tiếng Việt tương ứng"]
+
+[dans31 ans="1-D,2-A,3-B,4-E,5-C"]
+1. Freiheit
+2. Gesundheit
+3. Wahrheit
+4. Sicherheit
+5. Schönheit
+A. Sức khỏe
+B. Sự thật
+C. Vẻ đẹp
+D. Tự do
+E. An ninh
+[/dans31]
+
+[/dquiz31]

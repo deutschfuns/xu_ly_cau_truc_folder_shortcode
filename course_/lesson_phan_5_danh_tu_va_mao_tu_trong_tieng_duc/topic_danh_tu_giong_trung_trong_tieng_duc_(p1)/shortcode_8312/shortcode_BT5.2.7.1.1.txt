@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.1.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.7.1.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Häuschen
+    B. Bäumchen
+    C. Mädchen
+    [/dans3]
+    [hidden]Nội dung file nghe: Mädchen[/hidden]
+[/dquiz3]

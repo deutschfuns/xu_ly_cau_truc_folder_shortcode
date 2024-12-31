@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.5.3" title="Từ nào sau đây có nghĩa là &quot;ghế sofa&quot;?"]
+
+[dans3 ans="B"]
+A. Club
+B. Couch
+C. Computer
+[/dans3]
+
+[/dquiz3]

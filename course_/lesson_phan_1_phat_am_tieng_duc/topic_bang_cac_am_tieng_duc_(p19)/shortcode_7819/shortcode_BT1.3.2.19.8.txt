@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.19.8" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.19.8.mp3[/daudio]
+    [hidden]Nội dung file nghe: Nein[/hidden]
+
+    [dans3 ans="C"]
+    A. Sương mù
+    B. Tên
+    C. Không
+    [/dans3]
+[/dquiz3]

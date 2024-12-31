@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.7.4.4" title="Nối các danh từ bên trái với nghĩa tiếng Việt bên phải"]
+Nối các danh từ bên trái với nghĩa tiếng Việt bên phải.
+
+[dans31 ans="1-A,2-D,3-B,4-C"]
+1. Gymnasium
+2. Medium
+3. Stadium
+4. Zentrum
+A. trường trung học
+B. sân vận động
+C. trung tâm
+D. phương tiện truyền thông
+[/dans31]
+
+[/dquiz31]

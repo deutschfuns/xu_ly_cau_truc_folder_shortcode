@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.6.6.1" title="Chọn trật tự đúng của câu với các thành phần thời gian và địa điểm."]
+    Sáng nay lúc 8 giờ tại nhà hàng Rose.
+    [dans3 ans="B"]
+    A. Im Rose Restaurant um 8 Uhr heute Morgen.
+    B. Heute Morgen um 8 Uhr im Rose Restaurant.
+    C. Um 8 Uhr heute Morgen im Rose Restaurant.
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.9.10" title="Chọn từ có nghĩa là &quot;ngọn lửa&quot;"]
+    [dans3 ans="B"]
+    A. Sofa
+    B. Feuer
+    C. Löffel
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.1.10" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.7.1.10.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Vườn nhỏ
+    B. Nhà nhỏ
+    C. Cây nhỏ
+    [/dans3]
+    [hidden]Nội dung file nghe: Gärtchen[/hidden]
+[/dquiz3]

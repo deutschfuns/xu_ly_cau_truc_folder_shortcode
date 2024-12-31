@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.3.10" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C"]
+    1. Kännchen
+    2. Männchen
+    3. Ämter
+    A. Hình nhân
+    B. Cái ấm nhỏ
+    C. Các cơ quan sở ngành
+    [/dans31]
+[/dquiz31]

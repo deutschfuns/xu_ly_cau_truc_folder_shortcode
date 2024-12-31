@@ -1,0 +1,12 @@
+[dquiz58 id="BT5.5.4" title="Nói - Sử dụng danh từ để đặt câu"]
+
+Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ sau:
+Der Bahnhof
+
+[hidden]Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ sau: Der Bahnhof[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

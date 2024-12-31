@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.5.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.5.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="C,D"]
+A. Camping
+B. Curry
+C. Computer
+D. Couch
+E. Club
+[/dans19]
+
+[hidden]Nội dung file nghe: Computer; Couch[/hidden]
+
+[/dquiz19]

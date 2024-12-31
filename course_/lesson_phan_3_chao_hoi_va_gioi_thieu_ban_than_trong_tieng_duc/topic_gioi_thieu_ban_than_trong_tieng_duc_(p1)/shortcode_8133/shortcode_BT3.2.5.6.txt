@@ -1,0 +1,20 @@
+[dquiz46 id="BT3.2.5.6" title="Luyện viết"]
+    Đọc các câu hỏi sau và viết câu trả lời bằng những thông tin của bạn.
+    Wie heißt du?
+    [dans46]
+    Wie alt bist du?
+    [dans46]
+    Woher kommst du?
+    [dans46]
+
+    [hidden]
+        Đọc các câu hỏi sau và viết câu trả lời bằng những thông tin của bạn.
+        Wie heißt du? {{input}}
+        Wie alt bist du? {{input}}
+        Woher kommst du? {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

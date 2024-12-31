@@ -1,0 +1,23 @@
+[dquiz46 id="BT1.6.6.6" title="Sắp xếp các thành phần trong câu theo trật tự thời gian và địa điểm đúng"]
+
+    Sắp xếp các thành phần trong câu theo trật tự thời gian và địa điểm đúng.
+
+    1. Restaurant / um 9 Uhr / wir / im Rose / heute Morgen / treffen / uns
+    [dans46]
+
+    2. Schule / beginnt / meine / um 7:30 / morgens / die
+    [dans46]
+
+    [hidden]
+        Sắp xếp các thành phần trong câu theo trật tự thời gian và địa điểm đúng.
+        1. Restaurant / um 9 Uhr / wir / im Rose / heute Morgen / treffen / uns
+        {{input}}
+        2. Schule / beginnt / meine / um 7:30 / morgens / die
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

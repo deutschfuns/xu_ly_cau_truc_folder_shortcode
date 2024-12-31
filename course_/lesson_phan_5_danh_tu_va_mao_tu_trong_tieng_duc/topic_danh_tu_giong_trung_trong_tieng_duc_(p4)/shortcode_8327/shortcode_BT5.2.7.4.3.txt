@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.7.4.3" title="Đọc và ghi âm lại các từ" ]
+
+    Đọc và ghi âm lại các từ sau:
+    Museum
+    Forum
+    Praktikum
+    Aquarium
+
+    [hidden]Đọc và ghi âm lại các từ sau:
+    Museum
+    Forum
+    Praktikum
+    Aquarium[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

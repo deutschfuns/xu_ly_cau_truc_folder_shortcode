@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.7.7" title="Nghe và điền từ" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.2.6.7.7.mp3[/daudio]
+
+    Die [dans44]Flexibilität[/dans44] im Beruf ist wichtig.
+
+    [hidden]Nội dung file nghe: Die Flexibilität im Beruf ist wichtig.[/hidden]
+
+[/dquiz44]

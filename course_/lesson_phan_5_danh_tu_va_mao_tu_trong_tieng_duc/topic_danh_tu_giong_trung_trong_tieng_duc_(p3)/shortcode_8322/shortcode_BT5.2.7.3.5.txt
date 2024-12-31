@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.7.3.5" title="Nghe câu sau và chọn từ thích hợp để hoàn thành câu"]
+    [daudio]BT5.2.7.3.5.mp3[/daudio]
+    Das ist ein ______.
+    [dans3 ans="C"]
+    A. Regiment
+    B. Engagement
+    C. Monument
+    [/dans3]
+    [hidden]Nội dung file nghe: Das ist ein Monument.[/hidden]
+[/dquiz3]

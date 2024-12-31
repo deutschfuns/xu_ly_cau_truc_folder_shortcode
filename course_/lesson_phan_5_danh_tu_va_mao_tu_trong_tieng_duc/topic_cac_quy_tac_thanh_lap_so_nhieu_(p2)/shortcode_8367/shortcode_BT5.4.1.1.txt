@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.4.1.1" title="Điền dạng số nhiều đúng của các danh từ sau" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    “Der Apfel” số nhiều là “die [dans44]Äpfel[/dans44]”
+    “Das Boot” số nhiều là “die [dans44]Boote[/dans44]”
+
+[/dquiz44]

@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.13.8" title="Nghe và chọn những từ phù hợp với đoạn âm thanh sau đây"]
+
+[daudio file="BT1.3.2.13.8.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,D"]
+A. joggen
+B. Jeans
+C. Journalist
+D. Jahr
+E. Jubiläum
+[/dans19]
+
+[hidden]Nội dung file nghe: Jeans; Jahr[/hidden]
+
+[/dquiz19]

@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.17.2" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.17.2.mp3[/daudio]
+
+[dans44]Vogel[/dans44]
+[dans44]Teller[/dans44]
+[dans44]mittel[/dans44]
+
+[hidden]Nội dung file nghe: Vogel; Teller; mittel[/hidden]
+
+[/dquiz44]

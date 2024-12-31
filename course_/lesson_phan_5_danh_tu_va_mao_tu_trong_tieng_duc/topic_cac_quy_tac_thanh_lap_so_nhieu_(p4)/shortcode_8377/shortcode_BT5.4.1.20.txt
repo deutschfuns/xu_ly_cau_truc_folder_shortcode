@@ -1,0 +1,17 @@
+[dquiz46 id="BT5.4.1.20" title="Viết câu với dạng số nhiều của từ gợi ý"]
+    Hãy viết câu với dạng số nhiều của các từ gợi ý sau.
+    Das Wort
+    [dans46]
+    Die Frage
+    [dans46]
+
+    [hidden]
+        Hãy viết câu với dạng số nhiều của các từ gợi ý sau.
+        Das Wort {{input}}
+        Die Frage {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.4.3.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Polizistin
+    2. Koch
+    3. Ingenieur
+    4. Fotografin
+    A. Đầu bếp nam
+    B. Kỹ sư nam
+    C. Cảnh sát nữ
+    D. Nhiếp ảnh gia nữ
+    [/dans31]
+[/dquiz31]

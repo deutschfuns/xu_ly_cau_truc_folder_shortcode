@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.4.15" title="Từ nào sau đây có liên quan đến động vật?"]
+
+[dans3 ans="B,C"]
+A. Ball
+B. Zebra
+C. Tauben
+[/dans3]
+
+[/dquiz3]

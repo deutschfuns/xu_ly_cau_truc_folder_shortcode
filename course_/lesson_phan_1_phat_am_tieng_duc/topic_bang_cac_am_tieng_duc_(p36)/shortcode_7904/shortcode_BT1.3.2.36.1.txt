@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.1" title="Chọn từ phù hợp để điền vào câu sau"]
+    Vào mùa hè, tôi thích ăn ___.
+    [dans3 ans="C"]
+    A. Wein
+    B. Ei
+    C. Eis
+    D. Zeit
+    [/dans3]
+[/dquiz3]

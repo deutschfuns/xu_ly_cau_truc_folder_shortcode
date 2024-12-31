@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.9.2" title="Từ nào sau đây có nghĩa là &quot;con cá&quot;?"]
+    [dans3 ans="C"]
+    A. Kaffee
+    B. Fest
+    C. Fisch
+    [/dans3]
+[/dquiz3]

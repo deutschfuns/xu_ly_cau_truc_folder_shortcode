@@ -1,0 +1,10 @@
+[dquiz44 id="BT1.4.3.26" title="Điền từ đúng vào chỗ trống"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Schauspielerin, Friseurin, Feuerwehrmann, Mechaniker
+
+    Cô ấy làm việc trong ngành diễn xuất, cô ấy là một [dans44]Schauspielerin[/dans44].
+    Anh ấy dập tắt đám cháy, anh ấy là một [dans44]Feuerwehrmann[/dans44].
+    Người làm công việc cắt tóc nữ là [dans44]Friseurin[/dans44].
+    Anh ấy sửa chữa ô tô, anh ấy là một [dans44]Mechaniker[/dans44].
+
+[/dquiz44]

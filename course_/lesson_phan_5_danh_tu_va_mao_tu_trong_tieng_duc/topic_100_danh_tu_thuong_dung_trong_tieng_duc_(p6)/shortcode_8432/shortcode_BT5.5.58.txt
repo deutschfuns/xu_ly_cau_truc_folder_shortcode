@@ -1,0 +1,17 @@
+[dquiz46 id="BT5.5.58" title="Sắp xếp từ thành câu đúng"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+    hört / in / Musik / hoher / mit / Kopfhörern / Qualität / diesen / Er.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        hört / in / Musik / hoher / mit / Kopfhörern / Qualität / diesen / Er.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

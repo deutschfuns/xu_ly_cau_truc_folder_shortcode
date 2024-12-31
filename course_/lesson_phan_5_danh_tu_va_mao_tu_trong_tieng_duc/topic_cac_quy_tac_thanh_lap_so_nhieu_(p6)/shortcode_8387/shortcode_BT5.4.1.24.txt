@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.4.1.24" title="Nghe câu và điền dạng số nhiều đúng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.4.1.24.mp3[/daudio]
+
+    Die [dans44]Sofas[/dans44] sind im Wohnzimmer.
+
+    [hidden]Nội dung file nghe: Die Sofas sind im Wohnzimmer.[/hidden]
+
+[/dquiz44]

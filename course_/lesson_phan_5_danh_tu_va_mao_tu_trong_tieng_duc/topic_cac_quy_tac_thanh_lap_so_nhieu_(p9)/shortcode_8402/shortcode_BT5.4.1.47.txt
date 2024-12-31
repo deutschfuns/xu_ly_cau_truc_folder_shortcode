@@ -1,0 +1,12 @@
+[dquiz58 id="BT5.4.1.47" title="Nói - Sử dụng danh từ để đặt câu"]
+
+Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ số ít sau:
+Der Lärm
+
+[hidden]Hãy ghi âm lại 1 câu hoàn chỉnh với danh từ số ít sau: Der Lärm[/hidden]
+
+[prompt]
+    [sc name="prompt47"][/sc]
+[/prompt]
+
+[/dquiz58]

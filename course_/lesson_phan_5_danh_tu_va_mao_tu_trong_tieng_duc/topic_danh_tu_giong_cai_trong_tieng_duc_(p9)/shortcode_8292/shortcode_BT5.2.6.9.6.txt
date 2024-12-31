@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.9.6" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.9.6.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Katze[/dans44] schläft auf dem Sofa.
+
+    [hidden]Nội dung file nghe: Die Katze schläft auf dem Sofa.[/hidden]
+
+[/dquiz44]

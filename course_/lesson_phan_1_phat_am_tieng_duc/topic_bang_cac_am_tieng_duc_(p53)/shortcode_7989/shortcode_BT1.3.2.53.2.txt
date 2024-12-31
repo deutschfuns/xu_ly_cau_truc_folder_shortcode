@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.53.2" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy dùng một __ để viết tiểu thuyết.
+    [dans3 ans="C"]
+    A. Psychiater
+    B. Psychotherapie
+    C. Pseudonym
+    [/dans3]
+[/dquiz3]

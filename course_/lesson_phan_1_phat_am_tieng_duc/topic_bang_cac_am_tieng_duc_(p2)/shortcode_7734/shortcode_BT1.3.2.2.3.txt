@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.2.3" title="Đâu là từ chỉ đồ vật trong các từ sau đây?"]
+    [dans3 ans="B,C"]
+    A. Mann
+    B. Schrank
+    C. Kamm
+    D. Katze
+    [/dans3]
+[/dquiz3]

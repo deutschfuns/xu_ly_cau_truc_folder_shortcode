@@ -1,0 +1,35 @@
+[dquiz3 id="BT5.2.6.3.2" title="Chọn nghĩa tiếng Việt đúng cho các từ sau"]
+
+Möglichkeit
+[dans3 ans="B"]
+A. Tốc độ
+B. Khả năng
+C. Sự cô đơn
+D. Công lý
+[/dans3]
+
+Höflichkeit
+[dans3 ans="B"]
+A. Sự chăm chỉ
+B. Lịch sự
+C. Tầm quan trọng
+D. Sự ràng buộc
+[/dans3]
+
+Einsamkeit
+[dans3 ans="C"]
+A. Tốc độ
+B. Khả năng
+C. Sự cô đơn
+D. Sự đúng đắn
+[/dans3]
+
+Geschwindigkeit
+[dans3 ans="A"]
+A. Tốc độ
+B. Lòng biết ơn
+C. Thực tế
+D. Sự thân thiện
+[/dans3]
+
+[/dquiz3]

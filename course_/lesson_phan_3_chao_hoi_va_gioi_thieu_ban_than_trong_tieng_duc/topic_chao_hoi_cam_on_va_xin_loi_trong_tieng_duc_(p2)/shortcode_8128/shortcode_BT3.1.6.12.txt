@@ -1,0 +1,7 @@
+[dquiz3 id="BT3.1.6.12" title="Chọn từ đồng nghĩa với câu sau: Entschuldigen Sie"]
+    [dans3 ans="C"]
+    A. Vielen Dank
+    B. Macht nichts
+    C. Entschuldigung
+    [/dans3]
+[/dquiz3]

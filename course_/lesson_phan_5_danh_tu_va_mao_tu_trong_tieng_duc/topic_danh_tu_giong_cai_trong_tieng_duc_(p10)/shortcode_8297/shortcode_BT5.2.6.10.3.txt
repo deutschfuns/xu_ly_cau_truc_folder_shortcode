@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.6.10.3" title="Chọn nghĩa tiếng Việt đúng"]
+    Natur
+    [dans3 ans="B"]
+    A. Cơ sở hạ tầng
+    B. Thiên nhiên
+    C. Cấu trúc
+    [/dans3]
+[/dquiz3]

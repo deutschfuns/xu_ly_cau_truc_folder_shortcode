@@ -1,0 +1,12 @@
+[dquiz46 id="BT3.1.6.11" title="Luyện viết"]
+    Hãy viết 2 câu khác nhau để cảm ơn ai đó khi họ giúp đỡ bạn.
+    
+    [dans46]
+    [dans46]
+
+    [hidden]Hãy viết 2 câu khác nhau để cảm ơn ai đó khi họ giúp đỡ bạn.{{input}} {{input}}[/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

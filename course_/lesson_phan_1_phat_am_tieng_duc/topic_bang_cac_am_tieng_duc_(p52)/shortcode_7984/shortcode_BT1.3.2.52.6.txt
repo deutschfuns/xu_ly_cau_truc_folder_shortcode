@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.3.2.52.6" title="Điền từ đúng vào chỗ trống"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: trinken, trocken, traurig, tragen
+
+    (1) Cô ấy luôn cảm thấy rất [dans44]traurig[/dans44] khi trời mưa.
+    (2) Hôm nay trời rất [dans44]trocken[/dans44], không có mưa.
+    (3) Bạn có muốn [dans44]trinken[/dans44] một ly nước không?
+    (4) Anh ấy phải [dans44]tragen[/dans44] một chiếc túi nặng.
+[/dquiz44]

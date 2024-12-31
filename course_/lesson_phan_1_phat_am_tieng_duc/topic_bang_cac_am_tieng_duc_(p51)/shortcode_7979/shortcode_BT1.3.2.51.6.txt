@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.51.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Frost
+    2. Frosch
+    3. Frieden
+    4. Frisch
+    A. Con ếch
+    B. Hòa bình
+    C. Sương giá
+    D. Tươi, mới
+    [/dans31]
+[/dquiz31]

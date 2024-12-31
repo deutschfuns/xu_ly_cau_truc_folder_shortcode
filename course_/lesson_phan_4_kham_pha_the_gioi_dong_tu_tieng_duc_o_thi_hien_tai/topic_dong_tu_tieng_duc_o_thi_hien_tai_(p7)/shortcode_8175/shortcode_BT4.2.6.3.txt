@@ -1,0 +1,14 @@
+[dquiz31 id="BT4.2.6.3" title="Nối động từ với chủ ngữ thích hợp theo các quy tắc thêm đuôi"]
+
+[dans31 ans="1-A,2-C,3-B,4-D"]
+1. atmen
+2. hältst
+3. sendet
+4. haltet
+A. wir
+B. er/sie/es
+C. du
+D. ihr
+[/dans31]
+
+[/dquiz31]

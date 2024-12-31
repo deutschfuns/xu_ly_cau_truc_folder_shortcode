@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.5.19" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.5.19.mp3[/daudio]
+
+    Der ____ zeigt gerade eine interessante Sendung.
+    [dans3 ans="C"]
+    A. Sessel
+    B. Schlüssel
+    C. Fernseher
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Der Fernseher zeigt gerade eine interessante Sendung.[/hidden]
+
+[/dquiz3]

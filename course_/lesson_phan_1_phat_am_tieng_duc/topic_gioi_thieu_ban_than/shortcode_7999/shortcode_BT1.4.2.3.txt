@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.4.2.3" title="Đọc và ghi âm lại đoạn giới thiệu bản thân" ]
+
+Hãy đọc và ghi âm lại đoạn giới thiệu bản thân sau:
+Hallo, guten Tag! Mein Name ist Hasie. Ich bin achtzehn Jahre alt. Ich komme aus Vietnam, aber jetzt wohne ich in Berlin, Deutschland. Beruflich bin ich Köchin. Ich spreche Vietnamesisch und ein bisschen Deutsch. Meine Hobbys sind Lesen, Musik hören und Sport treiben.
+
+[hidden]Hãy đọc và ghi âm lại đoạn giới thiệu bản thân sau:
+Hallo, guten Tag! Mein Name ist Hasie. Ich bin achtzehn Jahre alt. Ich komme aus Vietnam, aber jetzt wohne ich in Berlin, Deutschland. Beruflich bin ich Köchin. Ich spreche Vietnamesisch und ein bisschen Deutsch. Meine Hobbys sind Lesen, Musik hören und Sport treiben.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

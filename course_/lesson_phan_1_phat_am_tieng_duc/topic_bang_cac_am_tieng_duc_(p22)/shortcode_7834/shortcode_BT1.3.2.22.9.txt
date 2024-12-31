@@ -1,0 +1,6 @@
+[dquiz3 id="BT1.3.2.22.9" title="Chọn từ phù hợp với nghĩa của từ sau: dầu ăn, dầu đốt"]
+    [dans3 ans="A"]
+    A. Öl
+    B. schön
+    C. öffnen
+[/dquiz3]

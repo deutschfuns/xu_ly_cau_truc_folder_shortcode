@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.10.2" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Vào ngày sinh nhật của tôi, tôi nhận được rất nhiều __.
+    [dans3 ans="B"]
+    A. grün
+    B. Geschenk
+    C. Zug
+    [/dans3]
+[/dquiz3]

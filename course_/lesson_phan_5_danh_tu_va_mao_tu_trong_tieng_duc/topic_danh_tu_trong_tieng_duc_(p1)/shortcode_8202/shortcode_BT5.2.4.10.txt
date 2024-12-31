@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.4.10" title="Chọn danh từ là giống Đực từ các lựa chọn dưới đây"]
+    [dans3 ans="A,C"]
+    A. Baum
+    B. Frau
+    C. Schlüssel
+    D. Blume
+    [/dans3]
+[/dquiz3]

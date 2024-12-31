@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.5.7.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.5.7.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. 201
+    B. 101
+    C. 102
+    [/dans3]
+    [hidden]Nội dung file nghe: ein-hundert-eins[/hidden]
+[/dquiz3]

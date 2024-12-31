@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.25.6" title="Đọc và ghi âm lại từ" ]
+
+Hãy đọc và ghi âm lại từ sau:
+Regen
+
+[hidden]Hãy đọc và ghi âm lại từ sau:
+Regen[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

@@ -1,0 +1,19 @@
+[dquiz46 id="BT5.5.2" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Die Tür
+    [dans46]
+    Das Geld
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Die Tür {{input}}
+        Das Geld {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

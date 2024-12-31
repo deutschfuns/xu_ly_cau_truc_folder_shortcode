@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.7.2.2.4" title="Nghe và điền từ vào chỗ trống." case-sensitive="false"]
+
+    [daudio]BT1.7.2.2.4.mp3[/daudio]
+
+    Wir treffen uns an [dans44]einem fünften Zehnten[/dans44].
+
+    [hidden]Nội dung file nghe: Wir treffen uns an einem fünften Zehnten.[/hidden]
+
+[/dquiz44]

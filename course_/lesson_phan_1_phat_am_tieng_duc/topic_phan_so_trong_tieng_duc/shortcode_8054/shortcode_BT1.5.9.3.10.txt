@@ -1,0 +1,19 @@
+[dquiz58 id="BT1.5.9.3.10" title="Đọc và ghi âm lại"]
+    Hãy đọc và ghi âm lại nội dung sau:
+    Ein Drittel
+    Ein Viertel
+    Eine Dreiviertelstunde
+    Zweieinhalb
+    Fünfeinhalb
+
+    [hidden]Hãy đọc và ghi âm lại nội dung sau:
+    Ein Drittel
+    Ein Viertel
+    Eine Dreiviertelstunde
+    Zweieinhalb
+    Fünfeinhalb[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+[/dquiz58]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.1.4.2" title="Đâu là các đặc điểm phát âm tiếng Đức?"]
+    [dans3 ans="A,B,C"]
+    A. Đánh vần được
+    B. Bật phụ âm cuối
+    C. Ngữ điệu mạnh mẽ
+    D. Không bật phụ âm
+    [/dans3]
+[/dquiz3]

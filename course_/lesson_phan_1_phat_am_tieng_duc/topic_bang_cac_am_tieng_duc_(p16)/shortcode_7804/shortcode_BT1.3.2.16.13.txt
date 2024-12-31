@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.16.13" title="Chọn từ đúng để điền vào chỗ trống"]
+    Anh ấy đã đánh rơi _ xuống sàn nhà khi đang chơi.
+    [dans3 ans="A"]
+    A. Ball
+    B. Holz
+    C. Wald
+    [/dans3]
+[/dquiz3]

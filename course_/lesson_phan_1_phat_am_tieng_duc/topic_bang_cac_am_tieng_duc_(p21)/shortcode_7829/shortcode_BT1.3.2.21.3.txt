@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.21.3" title="Từ nào sau đây có nghĩa là &quot;cái đầu&quot;?"]
+
+[dans3 ans="B"]
+A. Dorf
+B. Kopf
+C. sorgen
+[/dans3]
+
+[/dquiz3]

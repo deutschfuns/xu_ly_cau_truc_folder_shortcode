@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.5.7.4" title="Nghe và sắp xếp các từ để tạo thành số đếm chính xác"]
+    [daudio]BT1.5.7.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: drei-hundert-drei-und-neunzig[/hidden]
+
+    [dans3 ans="B"]
+    A. drei-hundert-neun-und-neunzig
+    B. drei-hundert-drei-und-neunzig
+    C. drei-und-neunzig
+    [/dans3]
+[/dquiz3]

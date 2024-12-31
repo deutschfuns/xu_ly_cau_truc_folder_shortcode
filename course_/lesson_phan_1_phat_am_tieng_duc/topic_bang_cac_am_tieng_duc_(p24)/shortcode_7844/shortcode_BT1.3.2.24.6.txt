@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.24.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Quadrat
+    2. Quantität
+    3. Quittung
+    4. Querstraße
+    A. Số lượng
+    B. Biên lai
+    C. Hình vuông
+    D. Đường cắt ngang
+    [/dans31]
+[/dquiz31]

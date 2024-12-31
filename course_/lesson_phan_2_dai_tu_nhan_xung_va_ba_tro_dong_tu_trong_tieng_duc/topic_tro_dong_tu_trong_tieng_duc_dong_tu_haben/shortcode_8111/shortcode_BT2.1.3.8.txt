@@ -1,0 +1,13 @@
+[dquiz58 id="BT2.1.3.8" title="Đọc và ghi âm lại câu có sử dụng động từ &quot;haben&quot;" ]
+
+    Đọc và ghi âm lại câu có sử dụng động từ "haben" sau:
+    Ich [habe] ein Hemd.
+
+    [hidden]Đọc và ghi âm lại câu có sử dụng động từ "haben" sau:
+    Ich [habe] ein Hemd.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

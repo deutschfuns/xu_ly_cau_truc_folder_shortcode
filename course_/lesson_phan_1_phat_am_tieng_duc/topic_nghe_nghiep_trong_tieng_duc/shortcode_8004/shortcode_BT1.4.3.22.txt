@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.4.3.22" title="Từ nào sau đây có nghĩa là &quot;thợ cắt tóc nữ&quot;?"]
+    [dans3 ans="C"]
+    A. Tischlerin
+    B. Mechanikerin
+    C. Friseurin
+    [/dans3]
+[/dquiz3]

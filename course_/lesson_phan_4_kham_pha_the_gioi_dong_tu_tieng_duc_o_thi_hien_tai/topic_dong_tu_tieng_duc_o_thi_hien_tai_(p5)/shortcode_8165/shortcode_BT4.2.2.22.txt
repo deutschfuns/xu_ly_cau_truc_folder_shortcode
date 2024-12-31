@@ -1,0 +1,8 @@
+[dquiz44 id="BT4.2.2.22" title="Chọn từ đúng từ danh sách sau để hoàn thành câu: sagen, spielen, wohnen, lernen"]
+
+    Ich [dans44]lerne[/dans44] Deutsch.
+    Die Kinder [dans44]spielen[/dans44] im Park.
+    Sie [dans44]wohnt[/dans44] in Berlin.
+    Ich [dans44]sage[/dans44] Danke.
+
+[/dquiz44]

@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.4.11" title="Nối mỗi từ tiếng Đức với nghĩa tiếng Việt và nhận diện đuôi danh từ giống đực"]
+    Nối mỗi từ tiếng Đức với nghĩa tiếng Việt và nhận diện đuôi danh từ giống đực.
+
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Stock
+    2. Spieler
+    3. Hammer
+    4. Vogel
+    A. Người chơi
+    B. Búa
+    C. Cái gậy
+    D. Con chim
+    [/dans31]
+[/dquiz31]

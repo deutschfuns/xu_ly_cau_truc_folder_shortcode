@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.5.1.7" title="Đọc và ghi âm lại các số đếm cơ bản" ]
+
+Hãy đọc và ghi âm lại các số đếm cơ bản sau:
+Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf
+
+[hidden]Hãy đọc và ghi âm lại các số đếm cơ bản sau:
+Null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

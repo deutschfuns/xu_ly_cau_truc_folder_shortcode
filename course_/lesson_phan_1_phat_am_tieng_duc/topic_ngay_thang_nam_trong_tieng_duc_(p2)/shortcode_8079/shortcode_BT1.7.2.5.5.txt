@@ -1,0 +1,18 @@
+[dquiz31 id="BT1.7.2.5.5" title="Nối các tên tháng bên trái với nghĩa tiếng Việt bên phải"]
+
+Nối các tên tháng bên trái với nghĩa tiếng Việt bên phải.
+
+[dans31 ans="1-C,2-A,3-B,4-D"]
+
+1. Januar
+2. März
+3. August
+4. November
+A. tháng Ba
+B. tháng Tám
+C. tháng Một
+D. tháng Mười Một
+
+[/dans31]
+
+[/dquiz31]

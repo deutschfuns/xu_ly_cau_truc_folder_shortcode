@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.3.14" title="Từ nào sau đây có nghĩa là &quot;tiệm bánh&quot;?"]
+
+[dans3 ans="B"]
+A. Kännchen
+B. Bäckerei
+C. Erklärung
+[/dans3]
+
+[/dquiz3]

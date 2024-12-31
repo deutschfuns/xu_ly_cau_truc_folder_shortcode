@@ -1,0 +1,12 @@
+[dquiz3 id="BT2.1.1.1" title="Câu nào dưới đây sử dụng đúng đại từ nhân xưng cho ngôi thứ nhất số ít?"]
+
+    [daudio]V2.1.1.mp4[/daudio]
+
+    [dans3 ans="B"]
+    A. Du bist sehr nett.
+    B. Ich bin sehr nett.
+    C. Er ist sehr nett.
+    D. Sie ist sehr nett.
+    [/dans3]
+
+[/dquiz3]

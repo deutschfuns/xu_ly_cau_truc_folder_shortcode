@@ -1,0 +1,10 @@
+[dquiz31 id="BT5.2.4.13" title="Nối danh từ với nghĩa tương ứng"]
+    [dans31 ans="1-B,2-A,3-C"]
+    1. Besenstiel
+    2. Degen
+    3. Sommer
+    A. Mũi tên
+    B. Cán chổi
+    C. Mùa hè
+    [/dans31]
+[/dquiz31]

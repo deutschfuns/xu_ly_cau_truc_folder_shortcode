@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.6.11.4" title="Chọn nghĩa tiếng Việt đúng"]
+    Stute
+    [dans3 ans="A"]
+    A. Ngựa cái
+    B. Sư tử cái
+    C. Mèo cái
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,11 @@
+[dquiz3 id="BT5.5.32" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+
+Die ____ war sehr interessant. (Bài giảng rất thú vị.)
+
+[dans3 ans="B"]
+A. Mensa
+B. Vorlesung
+C. Bewerbung
+[/dans3]
+
+[/dquiz3]

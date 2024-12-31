@@ -1,0 +1,8 @@
+[dquiz44 id="BT5.2.5.5.3" title="Chọn từ thích hợp trong khung để điền vào chỗ trống" case-sensitive="false"]
+
+    Der [dans44]Lehrer[/dans44] unterrichtet die Schüler in der Schule.
+    Der [dans44]Musiker[/dans44] spielt Gitarre in der Band.
+    Der [dans44]Maler[/dans44] malt schöne Bilder.
+    Der [dans44]Kellner[/dans44] bringt das Essen im Restaurant.
+
+[/dquiz44]

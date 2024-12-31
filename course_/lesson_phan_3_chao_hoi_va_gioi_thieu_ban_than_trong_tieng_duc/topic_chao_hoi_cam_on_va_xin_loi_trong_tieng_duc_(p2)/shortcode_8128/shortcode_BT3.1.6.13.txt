@@ -1,0 +1,10 @@
+[dquiz44 id="BT3.1.6.13" title="Nghe và điền từ thích hợp để hoàn thành các câu sau."]
+
+[daudio]BT3.1.6.13.mp3[/daudio]
+
+A: Entschuldigung, ich habe Wasser verschüttet.
+B: Schon gut, [dans44]macht nichts[/dans44].
+
+[hidden]Nội dung file nghe: A: Entschuldigung, ich habe Wasser verschüttet. B: Schon gut, macht nichts.[/hidden]
+
+[/dquiz44]

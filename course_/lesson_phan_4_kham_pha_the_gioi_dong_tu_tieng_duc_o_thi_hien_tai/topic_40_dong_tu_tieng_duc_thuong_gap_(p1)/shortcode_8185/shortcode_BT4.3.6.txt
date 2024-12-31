@@ -1,0 +1,9 @@
+[dquiz44 id="BT4.3.6" title="Nghe và điền đáp án đúng"]
+
+[daudio]BT4.3.6.mp3[/daudio]
+
+Ich [dans44]spiele[/dans44] Fußball draußen
+
+[hidden]Nội dung file nghe: Ich spiele Fußball draußen.[/hidden]
+
+[/dquiz44]

@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.6.9.5" title="Ghép từ có đuôi &quot;-e&quot; với nghĩa tiếng Việt phù hợp"]
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Küche
+    2. Schule
+    3. Reise
+    4. Blume
+    A. Trường học
+    B. Chuyến du lịch
+    C. Nhà bếp
+    D. Hoa
+    [/dans31]
+[/dquiz31]

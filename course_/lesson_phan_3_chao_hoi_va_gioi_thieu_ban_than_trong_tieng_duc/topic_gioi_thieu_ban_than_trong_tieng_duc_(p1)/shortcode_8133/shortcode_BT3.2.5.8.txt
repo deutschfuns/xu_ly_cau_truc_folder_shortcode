@@ -1,0 +1,13 @@
+[dquiz58 id="BT3.2.5.8" title="Đọc và ghi âm lại đoạn giới thiệu sau"]
+
+    Đọc và ghi âm lại đoạn giới thiệu sau:
+    Hallo! Mein Name ist Peter Schneider. Ich bin 27 Jahre alt. Meine Handynummer ist 0904 969 086. Ich komme aus Vietnam und wohne in Hanoi.
+
+    [hidden]Đọc và ghi âm lại đoạn giới thiệu sau:
+    Hallo! Mein Name ist Peter Schneider. Ich bin 27 Jahre alt. Meine Handynummer ist 0904 969 086. Ich komme aus Vietnam und wohne in Hanoi.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

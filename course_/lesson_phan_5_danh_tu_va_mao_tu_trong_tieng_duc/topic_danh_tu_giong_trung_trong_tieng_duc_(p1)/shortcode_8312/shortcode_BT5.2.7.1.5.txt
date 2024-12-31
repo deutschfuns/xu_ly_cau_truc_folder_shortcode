@@ -1,0 +1,7 @@
+[dquiz3 id="BT5.2.7.1.5" title="Chọn nghĩa tiếng Việt đúng cho từ sau: Schweinchen"]
+    [dans3 ans="A"]
+    A. Lợn con
+    B. Chim nhỏ
+    C. Chó con
+    [/dans3]
+[/dquiz3]

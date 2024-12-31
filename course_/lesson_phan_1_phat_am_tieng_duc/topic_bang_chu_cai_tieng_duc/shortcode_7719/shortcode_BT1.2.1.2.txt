@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.2.1.2" title="Nghe và chọn những đáp án đúng"]
+
+    [daudio file="BT1.2.1.2.mp3"]
+
+    Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+    [dans19 ans="C,D"]
+    A. B
+    B. D
+    C. Ü
+    D. G
+    [/dans19]
+
+    [hidden]Nội dung file nghe: Ü; G[/hidden]
+
+[/dquiz19]

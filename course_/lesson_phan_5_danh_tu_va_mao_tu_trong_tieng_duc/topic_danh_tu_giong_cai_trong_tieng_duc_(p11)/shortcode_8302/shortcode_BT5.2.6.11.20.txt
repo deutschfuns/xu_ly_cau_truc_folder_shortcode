@@ -1,0 +1,12 @@
+[dquiz37 id="BT5.2.6.11.20" title="Nghe câu và sắp xếp các từ sau để tạo thành câu đúng."]
+    [daudio]BT5.2.6.11.20.mp3[/daudio]
+
+    [dans37 ans="C-A-B-D"]
+    A. Lehrerin
+    B. unterrichtet
+    C. Die
+    D. Mathe
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Lehrerin unterrichtet Mathe.[/hidden]
+[/dquiz37]

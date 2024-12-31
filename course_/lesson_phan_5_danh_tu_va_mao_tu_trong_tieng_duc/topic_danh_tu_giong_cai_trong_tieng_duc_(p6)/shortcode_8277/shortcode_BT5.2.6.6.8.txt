@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.6.8" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.6.8.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Diskussion
+    B. Revolution
+    C. Tradition
+    D. Operation
+    [/dans3]
+    [hidden]Nội dung file nghe: Revolution[/hidden]
+[/dquiz3]

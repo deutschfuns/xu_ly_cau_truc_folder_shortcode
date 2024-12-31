@@ -1,0 +1,7 @@
+[dquiz44 id="BT4.2.2.24" title="Chọn từ đúng từ danh sách sau để hoàn thành câu: spielen, wohnen, kochen."]
+
+    Ich [dans44]spiele[/dans44] mit meinen Freunden.
+    Wir [dans44]wohnen[/dans44] in Berlin.
+    Er [dans44]kocht[/dans44] das Abendessen.
+
+[/dquiz44]

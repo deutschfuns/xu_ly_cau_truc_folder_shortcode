@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.17.1" title="Chọn từ đúng để điền vào câu sau:"]
+    Đây là __ của tôi. Anh ấy tên là Thomas.
+    [dans3 ans="B"]
+    A. Vogel
+    B. Onkel
+    C. Apfel
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.30.10" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.30.10.mp3[/daudio]
+
+    [dans37 ans="B-D-C-A"]
+    A. groß
+    B. Die
+    C. ist
+    D. Küche
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Küche ist groß.[/hidden]
+[/dquiz37]

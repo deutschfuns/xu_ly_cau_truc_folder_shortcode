@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.8.5" title="Ghép từ có đuôi &quot;-ik&quot; với lĩnh vực tương ứng"]
+
+    [dans31 ans="1-C,2-B,3-A,4-D"]
+    1. Musik
+    2. Physik
+    3. Pädagogik
+    4. Romantik
+    A. Giáo dục
+    B. Vật lý
+    C. Âm nhạc
+    D. Lãng mạn
+    [/dans31]
+
+[/dquiz31]

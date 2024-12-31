@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.7.4.9" title="Chọn đáp án đúng với nghĩa của từ &quot;Eigentum&quot;"]
+    [dans3 ans="B"]
+    A. Phương tiện truyền thông
+    B. Tài sản
+    C. Diễn đàn
+    D. Sân vận động
+    [/dans3]
+[/dquiz3]

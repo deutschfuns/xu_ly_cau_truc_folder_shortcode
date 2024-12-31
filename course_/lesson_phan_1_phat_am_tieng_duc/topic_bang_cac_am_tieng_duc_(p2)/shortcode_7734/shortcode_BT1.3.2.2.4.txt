@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.2.4" title="Từ nào sau đây có nghĩa là &quot;người đàn ông&quot;?"]
+    [dans3 ans="B"]
+    A. Katze
+    B. Mann
+    C. Schlamm
+    D. Apfel
+    [/dans3]
+[/dquiz3]

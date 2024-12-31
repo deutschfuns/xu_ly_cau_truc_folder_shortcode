@@ -1,0 +1,14 @@
+[dquiz37 id="BT1.3.2.12.10" title="Nghe và sắp xếp từ để tạo thành câu"]
+
+[daudio]BT1.3.2.12.10.mp3[/daudio]
+
+[dans37 ans="C-B-D-A"]
+A. Kind
+B. finden
+C. Ich
+D. das
+[/dans37]
+
+[hidden]Nội dung file nghe: Ich finde das Kind[/hidden]
+
+[/dquiz37]

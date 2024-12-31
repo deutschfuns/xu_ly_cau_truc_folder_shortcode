@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.3.2.22.10" title="Nghe và chọn những từ đúng sau đây"]
+
+[daudio file="BT1.3.2.22.10.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,D"]
+A. Töchter
+B. können
+C. fröhlich
+D. schön
+[/dans19]
+
+[hidden]Nội dung file nghe: können; schön[/hidden]
+
+[/dquiz19]

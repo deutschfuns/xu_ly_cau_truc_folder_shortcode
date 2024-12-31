@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.5.34" title="Nghe câu và điền từ thích hợp vào chỗ trống"]
+    [daudio]BT5.5.34.mp3[/daudio]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Der [dans44]Kopierer[/dans44] funktioniert heute nicht.
+    [hidden]Nội dung file nghe: Der Kopierer funktioniert heute nicht.[/hidden]
+[/dquiz44]

@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.6.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.6.5.mp3[/daudio]
+
+[dans44]Dorf[/dans44]
+[dans44]Datum[/dans44]
+[dans44]Deutsch[/dans44]
+
+[hidden]Nội dung file nghe: Dorf; Datum; Deutsch[/hidden]
+
+[/dquiz44]

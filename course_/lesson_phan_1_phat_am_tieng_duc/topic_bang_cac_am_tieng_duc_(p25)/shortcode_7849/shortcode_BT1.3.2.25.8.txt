@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.25.8" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.25.8.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="D,E"]
+A. Reis
+B. rot
+C. reich
+D. Ring
+E. Rose
+[/dans19]
+
+[hidden]Nội dung file nghe: Ring; Rose[/hidden]
+
+[/dquiz19]

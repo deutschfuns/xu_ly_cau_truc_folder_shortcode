@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.36.13" title="Nghe và chọn từ đúng với nghĩa &quot;thời gian&quot;"]
+    [daudio]BT1.3.2.36.13.mp3[/daudio]
+    [hidden]Nội dung file nghe: Zeit[/hidden]
+    
+    [dans3 ans="D"]
+    A. Eis
+    B. Wein
+    C. Mai
+    D. Zeit
+    [/dans3]
+[/dquiz3]

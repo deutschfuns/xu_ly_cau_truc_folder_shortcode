@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.2.7.2.4" title="Nghe câu và chọn từ thích hợp để hoàn thành câu."]
+
+    [daudio]BT5.2.7.2.4.mp3[/daudio]
+
+    Das ____ ist sehr kompliziert.
+    [dans3 ans="B"]
+    A. Drama
+    B. Schema
+    C. Komma
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Das Schema ist sehr kompliziert.[/hidden]
+
+[/dquiz3]

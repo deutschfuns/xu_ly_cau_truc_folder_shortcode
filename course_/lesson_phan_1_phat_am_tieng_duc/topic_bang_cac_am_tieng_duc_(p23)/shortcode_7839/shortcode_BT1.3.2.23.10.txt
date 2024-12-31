@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.3.2.23.10" title="Nghe và chọn những từ đúng sau đây"]
+
+[daudio file="BT1.3.2.23.10.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="A,B"]
+A. Papier
+B. Pflanze
+C. Puppe
+D. Paket
+[/dans19]
+
+[hidden]Nội dung file nghe: Papier; Pflanze[/hidden]
+
+[/dquiz19]

@@ -1,0 +1,8 @@
+[dquiz44 id="BT2.1.1.3" title="Điền đại từ nhân xưng phù hợp vào chỗ trống theo ngữ cảnh" case-sensitive="false"]
+
+    Ich bin Student. [dans44]Ich[/dans44]
+    Du kommst aus Vietnam, oder? [dans44]Du[/dans44]
+    Sie sind Lehrer. [dans44]Sie[/dans44]
+    Sie heißt Anna. [dans44]Sie[/dans44]
+
+[/dquiz44]

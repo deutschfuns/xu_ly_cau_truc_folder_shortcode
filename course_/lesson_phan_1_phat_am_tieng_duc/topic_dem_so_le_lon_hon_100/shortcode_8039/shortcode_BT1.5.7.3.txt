@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.5.7.3" title="Số nào sau đây là số lẻ?"]
+
+[dans3 ans="C"]
+A. zwei-hundert-zehn
+B. fünf-hundert
+C. drei-hundert-drei-und-dreißig
+[/dans3]
+
+[/dquiz3]

@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.15.2" title="Đọc và ghi âm lại từ" ]
+
+Hãy đọc và ghi âm lại từ sau:
+Lehrer
+
+[hidden]Hãy đọc và ghi âm lại từ sau:
+Lehrer[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

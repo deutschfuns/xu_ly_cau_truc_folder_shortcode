@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.5.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.5.5.mp3[/daudio]
+
+[dans44]Computer[/dans44]
+[dans44]City[/dans44]
+[dans44]Café[/dans44]
+
+[hidden]Nội dung file nghe: Computer; City; Café[/hidden]
+
+[/dquiz44]

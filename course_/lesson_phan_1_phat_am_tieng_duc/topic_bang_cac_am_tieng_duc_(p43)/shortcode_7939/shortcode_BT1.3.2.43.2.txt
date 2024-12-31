@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.43.2" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-A,3-C,4-D"]
+    1. Bauch
+    2. Dach
+    3. Loch
+    4. Nacht
+    A. Mái nhà
+    B. Bụng
+    C. Lỗ
+    D. Đêm
+    [/dans31]
+[/dquiz31]

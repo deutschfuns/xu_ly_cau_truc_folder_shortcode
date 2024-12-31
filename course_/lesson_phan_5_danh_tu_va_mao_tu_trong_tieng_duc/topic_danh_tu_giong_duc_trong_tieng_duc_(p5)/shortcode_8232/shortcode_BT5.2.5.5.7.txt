@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.5.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.5.5.7.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Lehrer
+    B. Maler
+    C. Schüler
+    D. Bauer
+    [/dans3]
+    [hidden]Nội dung file nghe: Maler[/hidden]
+[/dquiz3]

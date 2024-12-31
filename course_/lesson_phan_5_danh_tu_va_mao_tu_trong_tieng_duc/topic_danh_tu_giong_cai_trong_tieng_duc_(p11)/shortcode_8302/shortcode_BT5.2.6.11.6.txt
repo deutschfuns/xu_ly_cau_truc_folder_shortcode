@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.11.6" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.11.6.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Musikerin[/dans44] spielt Geige in einem Orchester.
+
+    [hidden]Nội dung file nghe: Die Musikerin spielt Geige in einem Orchester.[/hidden]
+
+[/dquiz44]

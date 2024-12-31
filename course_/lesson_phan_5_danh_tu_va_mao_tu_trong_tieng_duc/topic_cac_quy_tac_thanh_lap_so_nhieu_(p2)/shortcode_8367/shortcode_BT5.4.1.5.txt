@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.4.1.5" title="Nghe câu và điền dạng số nhiều đúng vào chỗ trống"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.4.1.5.mp3[/daudio]
+    Die Kinder spielen mit den [dans44]Bällen[/dans44].
+    [hidden]Nội dung file nghe: Die Kinder spielen mit den Bällen.[/hidden]
+[/dquiz44]

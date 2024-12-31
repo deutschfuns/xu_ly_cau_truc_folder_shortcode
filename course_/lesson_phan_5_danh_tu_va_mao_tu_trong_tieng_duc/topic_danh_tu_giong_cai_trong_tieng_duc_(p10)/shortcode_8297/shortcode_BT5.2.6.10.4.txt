@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.6.10.4" title="Chọn nghĩa tiếng Việt đúng"]
+    Reparatur
+    [dans3 ans="B"]
+    A. Văn học
+    B. Sự sửa chữa
+    C. Sinh vật
+    [/dans3]
+[/dquiz3]

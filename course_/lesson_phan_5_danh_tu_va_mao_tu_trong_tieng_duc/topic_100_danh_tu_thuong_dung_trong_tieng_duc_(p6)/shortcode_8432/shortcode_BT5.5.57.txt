@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.5.57" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+    Ich muss mein ____ aufladen.
+    (Tôi phải sạc điện thoại của mình.)
+    [dans3 ans="B"]
+    A. Gürtel
+    B. Handy
+    C. Kopfhörer
+    [/dans3]
+[/dquiz3]

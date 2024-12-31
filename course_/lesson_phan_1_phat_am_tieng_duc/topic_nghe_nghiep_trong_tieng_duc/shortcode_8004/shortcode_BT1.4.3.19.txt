@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.4.3.19" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.4.3.19.mp3[/daudio]
+
+[dans44]Feuerwehrmann[/dans44]
+[dans44]Tischlerin[/dans44]
+[dans44]Elektrikerin[/dans44]
+
+[hidden]Nội dung file nghe: Feuerwehrmann; Tischlerin; Elektrikerin[/hidden]
+
+[/dquiz44]

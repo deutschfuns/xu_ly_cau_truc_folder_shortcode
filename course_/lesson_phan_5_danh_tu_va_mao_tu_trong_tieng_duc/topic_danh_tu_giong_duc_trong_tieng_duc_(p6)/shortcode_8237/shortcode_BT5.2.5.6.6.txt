@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.5.6.6" title="Nối từ tiếng Đức với nghề nghiệp tương ứng"]
+    [dans31 ans="1-D,2-C,3-A,4-B"]
+    1. Pilot
+    2. Journalist
+    3. Elektriker
+    4. Forscher
+    A. Thợ điện
+    B. Nhà nghiên cứu
+    C. Nhà báo
+    D. Phi công
+    [/dans31]
+[/dquiz31]

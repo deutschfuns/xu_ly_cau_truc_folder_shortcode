@@ -1,0 +1,6 @@
+[dquiz1 title="Chọn Richtig hoặc Falsch cho mỗi câu dưới đây" id="BT5.2.5.7.13"]
+
+[dans1 title="Richtig/Falsch" ans="2"]Der Winter ist sehr heiß.[/dans1]
+[dans1 title="Richtig/Falsch" ans="1"]Der Montag ist der erste Tag der Woche.[/dans1]
+
+[/dquiz1]

@@ -1,0 +1,9 @@
+[dquiz1 title="Chọn Richtig hoặc Falsch cho mỗi câu dưới đây" id="BT5.2.6.1.3"]
+
+Gesundheit bedeutet “Sự thật”.
+[dans1 title="Richtig/Falsch" ans="2"]Gesundheit bedeutet “Sự thật”.[/dans1]
+
+Schönheit bedeutet “Vẻ đẹp”.
+[dans1 title="Richtig/Falsch" ans="1"]Schönheit bedeutet “Vẻ đẹp”.[/dans1]
+
+[/dquiz1]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.51.7" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy là một người rất tốt, anh ấy là __ của tôi.
+    [dans3 ans="B"]
+    A. Frucht
+    B. Freund
+    C. Frost
+    [/dans3]
+[/dquiz3]

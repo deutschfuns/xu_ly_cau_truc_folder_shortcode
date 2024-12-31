@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.8.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.8.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Lampe[/hidden]
+
+    [dans3 ans="B"]
+    A. Liebe
+    B. Lampe
+    C. Torte
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,8 @@
+[dquiz44 id="BT1.7.2.5.11" title="Chọn từ đúng để hoàn thành câu về trạng từ chỉ ngày trong tuần" case-sensitive="false"]
+
+    Mỗi thứ hai: [dans44]montags[/dans44]
+    Mỗi thứ ba: [dans44]dienstags[/dans44]
+    Mỗi thứ tư: [dans44]mittwochs[/dans44]
+    Mỗi thứ năm: [dans44]donnerstags[/dans44]
+
+[/dquiz44]

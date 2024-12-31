@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.48.7" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.48.7.mp3[/daudio]
+    [hidden]Nội dung file nghe: springen[/hidden]
+
+    [dans3 ans="C"]
+    A. Nói
+    B. Chơi
+    C. Nhảy
+    [/dans3]
+[/dquiz3]

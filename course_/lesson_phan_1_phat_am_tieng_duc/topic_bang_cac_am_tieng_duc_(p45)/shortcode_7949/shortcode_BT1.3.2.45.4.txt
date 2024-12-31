@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.45.4" title="Từ nào sau đây có nghĩa là &quot;đẹp&quot;?"]
+
+[dans3 ans="C"]
+A. Schnee
+B. Schlüssel
+C. schön
+[/dans3]
+
+[/dquiz3]

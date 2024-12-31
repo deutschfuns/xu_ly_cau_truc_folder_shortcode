@@ -1,0 +1,17 @@
+[dquiz58 id="BT3.1.2.8" title="Luyện nói" ]
+
+Hãy đọc và ghi âm lại những lời chào sau bằng tiếng Đức cho phù hợp:
+Gặp bạn vào buổi sáng.
+Gặp đồng nghiệp vào buổi tối.
+Chúc người thân ngủ ngon.
+
+[hidden]Hãy đọc và ghi âm lại những lời chào sau bằng tiếng Đức cho phù hợp:
+Gặp bạn vào buổi sáng.
+Gặp đồng nghiệp vào buổi tối.
+Chúc người thân ngủ ngon.[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

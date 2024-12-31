@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.3.18" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.3.18.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Schauspieler
+    B. Friseur
+    C. Krankenpfleger
+    [/dans3]
+    [hidden]Nội dung file nghe: Krankenpfleger[/hidden]
+[/dquiz3]

@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.5.41" title="Điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    Möchtest du Ketchup zu den [dans44]Pommes[/dans44]?
+
+    [hidden]Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé! Möchtest du Ketchup zu den {{input}}? (Bạn có muốn thêm tương cà cho khoai tây chiên không?)[/hidden]
+
+[/dquiz44]

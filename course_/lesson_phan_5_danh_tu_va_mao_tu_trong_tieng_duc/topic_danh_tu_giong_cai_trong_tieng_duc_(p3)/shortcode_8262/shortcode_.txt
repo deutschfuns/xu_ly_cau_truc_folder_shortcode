@@ -1,0 +1,6 @@
+[dquiz1 title="Chọn Richtig hoặc Falsch cho mỗi câu dưới đây" id="BT5.2.6.3.8"]
+
+[dans1 title="Richtig/Falsch" ans="2"]Unabhängigkeit bedeutet “sự chăm chỉ”.[/dans1]
+[dans1 title="Richtig/Falsch" ans="1"]Dankbarkeit bedeutet “lòng biết ơn”.[/dans1]
+
+[/dquiz1]

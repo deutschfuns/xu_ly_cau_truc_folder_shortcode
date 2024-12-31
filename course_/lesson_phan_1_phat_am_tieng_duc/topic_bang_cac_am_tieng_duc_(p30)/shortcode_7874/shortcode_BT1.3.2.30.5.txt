@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.30.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.30.5.mp3[/daudio]
+
+[dans44]Küche[/dans44]
+[dans44]Brücke[/dans44]
+[dans44]Über[/dans44]
+
+[hidden]Nội dung file nghe: Küche; Brücke; Über[/hidden]
+
+[/dquiz44]

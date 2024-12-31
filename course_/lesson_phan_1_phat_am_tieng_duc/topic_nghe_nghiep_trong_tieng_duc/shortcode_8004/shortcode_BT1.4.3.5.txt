@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.4.3.5" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.4.3.5.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. Polizist
+B. Pilotin
+C. Fotograf
+D. Lehrer
+[/dans19]
+
+[hidden]Nội dung file nghe: Pilotin; Fotograf[/hidden]
+
+[/dquiz19]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.7.6.1" title="Đọc và chọn đáp án đúng"]
+Cách đọc năm 1985 trong tiếng Đức là:
+[dans3 ans="C"]
+A. achtzehn-hundert-fünfundachtzig
+B. neunzehn-hundert-fünfundsiebzig
+C. neunzehn-hundert-fünfundachtzig
+D. zwanzig-hundert-fünfundachtzig
+[/dans3]
+[/dquiz3]

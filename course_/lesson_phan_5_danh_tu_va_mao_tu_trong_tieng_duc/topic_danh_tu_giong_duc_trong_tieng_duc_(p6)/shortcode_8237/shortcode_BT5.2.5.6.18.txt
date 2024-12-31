@@ -1,0 +1,11 @@
+[dquiz44 id="BT5.2.5.6.18" title="Chọn từ đúng để điền vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+    Mein Bruder ist [dans44]Tänzer[/dans44].
+    (Anh trai tôi là vũ công.)
+
+    Mein Vater ist [dans44]Lehrer[/dans44].
+    (Cha tôi là giáo viên.)
+
+[/dquiz44]

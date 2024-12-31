@@ -1,0 +1,15 @@
+[dquiz58 id="BT5.2.7.7.3" title="Đọc và ghi âm lại các từ sau"]
+
+    Đọc và ghi âm lại các từ sau:
+    Ereignis
+    Zeugnis
+
+    [hidden]Đọc và ghi âm lại các từ sau:
+    Ereignis
+    Zeugnis[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

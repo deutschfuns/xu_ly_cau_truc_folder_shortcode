@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.6.7" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy rất __, vì vậy chúng tôi đưa anh ấy nước uống.
+    [dans3 ans="B"]
+    A. Datum
+    B. Durst
+    C. Deutsch
+    [/dans3]
+[/dquiz3]

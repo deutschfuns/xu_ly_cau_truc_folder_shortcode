@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.4.4" title="Nối danh từ với giống đúng của nó"]
+
+    [dans31 ans="1-B,2-A,3-C"]
+    1. Frau
+    2. Baum
+    3. Haus
+    A. der
+    B. die
+    C. das
+    [/dans31]
+
+[/dquiz31]

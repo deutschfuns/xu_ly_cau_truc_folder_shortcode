@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.47.1" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.47.1.mp3[/daudio]
+
+[dans44]Stadt[/dans44]
+[dans44]Stein[/dans44]
+[dans44]Stuhl[/dans44]
+
+[hidden]Nội dung file nghe: Stadt, Stein, Stuhl[/hidden]
+
+[/dquiz44]

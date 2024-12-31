@@ -1,0 +1,16 @@
+[dquiz31 id="BT5.2.7.8.2" title="Nối các danh từ với nghĩa tiếng Việt tương ứng"]
+
+Nối các danh từ với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-B,2-C,3-D,4-A"]
+1. Bekommen
+2. Feiern
+3. Laufen
+4. Entscheiden
+A. Quyết định
+B. Nhận
+C. Lễ kỷ niệm
+D. Chạy
+[/dans31]
+
+[/dquiz31]

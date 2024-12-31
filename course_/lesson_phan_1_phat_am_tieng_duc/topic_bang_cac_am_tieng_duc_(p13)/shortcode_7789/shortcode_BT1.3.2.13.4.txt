@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.13.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.13.4.mp3[/daudio]
+    [dans3 ans="D"]
+    A. Jubiläum
+    B. Journal
+    C. Jahr
+    D. Januar
+    [/dans3]
+    [hidden]Nội dung file nghe: Januar[/hidden]
+[/dquiz3]

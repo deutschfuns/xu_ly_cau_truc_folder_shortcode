@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.15" title="Từ nào sau đây là danh từ chỉ loài động vật?"]
+    [dans3 ans="C"]
+    A. Kleidung
+    B. Eis
+    C. Hais
+    D. Zeit
+    [/dans3]
+[/dquiz3]

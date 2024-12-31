@@ -1,0 +1,14 @@
+[dquiz37 id="BT5.2.6.8.8" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+[daudio]BT5.2.6.8.8.mp3[/daudio]
+
+[dans37 ans="A-C-D-B"]
+A. Physik
+B. interessant
+C. ist
+D. sehr
+[/dans37]
+
+[hidden]Nội dung file nghe: Physik ist sehr interessant.[/hidden]
+
+[/dquiz37]

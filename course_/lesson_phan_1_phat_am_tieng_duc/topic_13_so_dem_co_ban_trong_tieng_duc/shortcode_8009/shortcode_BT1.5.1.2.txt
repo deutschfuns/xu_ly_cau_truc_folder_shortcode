@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.5.1.2" title="Nối số với từ tương ứng"]
+Nối số với từ tương ứng:
+
+[dans31 ans="1-C,2-D,3-B,4-A"]
+1. 0
+2. 5
+3. 9
+4. 12
+A. zwölf
+B. neun
+C. null
+D. fünf
+[/dans31]
+
+[/dquiz31]

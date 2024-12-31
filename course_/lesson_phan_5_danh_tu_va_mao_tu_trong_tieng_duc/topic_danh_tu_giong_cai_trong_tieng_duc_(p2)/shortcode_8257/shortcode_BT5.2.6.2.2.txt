@@ -1,0 +1,17 @@
+[dquiz31 id="BT5.2.6.2.2" title="Nối các danh từ có đuôi &quot;-ung&quot; với nghĩa tiếng Việt tương ứng"]
+Nối các danh từ có đuôi &quot;-ung&quot; với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-C,2-B,3-A,4-D,5-E"]
+1. Entwicklung
+2. Meinung
+3. Lösung
+4. Entschuldigung
+5. Untersuchung
+A. Giải pháp
+B. Quan điểm 
+C. Sự phát triển
+D. Lời xin lỗi
+E. Cuộc điều tra
+[/dans31]
+
+[/dquiz31]

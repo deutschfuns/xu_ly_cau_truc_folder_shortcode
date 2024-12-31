@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.5.21" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.5.21.mp3[/daudio]
+
+    Die [dans44]Veranstaltung[/dans44] findet im großen Saal statt.
+
+    [hidden]Nội dung file nghe: Die Veranstaltung findet im großen Saal statt.[/hidden]
+
+[/dquiz44]

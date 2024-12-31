@@ -1,0 +1,12 @@
+[dquiz31 id="BT5.2.7.1.8" title="Ghép từ với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-C,3-A,4-D"]
+    1. Fläschchen
+    2. Mützchen
+    3. Schälchen
+    4. Hündchen
+    A. Bát nhỏ
+    B. Chai nhỏ
+    C. Mũ nhỏ
+    D. Chó con
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.9" title="Chọn từ đúng để hoàn thành câu"]
+    Anh ấy là một người ___, anh ấy không có kinh nghiệm gì về việc này.
+    [dans3 ans="C"]
+    A. Kaiser
+    B. Mais
+    C. Laie
+    D. Kleidung
+    [/dans3]
+[/dquiz3]

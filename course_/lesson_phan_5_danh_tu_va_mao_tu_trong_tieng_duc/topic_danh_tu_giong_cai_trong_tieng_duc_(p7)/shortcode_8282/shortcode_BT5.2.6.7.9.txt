@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.7.9" title="Nghe từ và chọn nghĩa tiếng Việt phù hợp"]
+    [daudio]BT5.2.6.7.9.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Tính nhân quả
+    B. Thực tế
+    C. Sự ổn định
+    D. Sự phức tạp
+    [/dans3]
+    [hidden]Nội dung file nghe: Realität[/hidden]
+[/dquiz3]

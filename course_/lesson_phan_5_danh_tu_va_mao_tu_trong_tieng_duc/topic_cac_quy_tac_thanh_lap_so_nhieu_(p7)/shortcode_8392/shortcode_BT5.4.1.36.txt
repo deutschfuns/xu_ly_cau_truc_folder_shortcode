@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.4.1.36" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    Die ____ zeigen interessante Informationen.
+    (Các tài liệu mục lục hiển thị thông tin thú vị.)
+    [dans3 ans="B"]
+    A. Kommata
+    B. Indizes
+    C. Globen
+    [/dans3]
+[/dquiz3]

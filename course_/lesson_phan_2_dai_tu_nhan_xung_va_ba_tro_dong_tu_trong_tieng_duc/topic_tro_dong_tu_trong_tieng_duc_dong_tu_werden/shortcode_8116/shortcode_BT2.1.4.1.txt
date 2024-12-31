@@ -1,0 +1,11 @@
+[dquiz31 id="BT2.1.4.1" title="Nối câu với nghĩa tương ứng"]
+    [daudio]V2.1.4.mp4[/daudio]
+    [dans31 ans="1-C,2-A,3-B"]
+    1. Du wirst Lehrer.
+    2. Er wird Vater.
+    3. Sie werden reich.
+    A. Anh ấy sẽ trở thành cha.
+    B. Họ sẽ trở nên giàu có.
+    C. Bạn sẽ trở thành giáo viên.
+    [/dans31]
+[/dquiz31]

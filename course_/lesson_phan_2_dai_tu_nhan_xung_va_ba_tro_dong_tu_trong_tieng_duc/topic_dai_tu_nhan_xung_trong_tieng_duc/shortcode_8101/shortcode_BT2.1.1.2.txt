@@ -1,0 +1,8 @@
+[dquiz3 id="BT2.1.1.2" title="Câu nào dưới đây miêu tả đúng người đang nói (ngôi thứ nhất)?"]
+    [dans3 ans="C"]
+    A. Er wohnt in Berlin.
+    B. Sie wohnt in Berlin.
+    C. Ich wohne in Berlin.
+    D. Du wohnst in Berlin.
+    [/dans3]
+[/dquiz3]

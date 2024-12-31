@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.5.31" title="Điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    Ich habe einen [dans44]Termin[/dans44] in der Sprechstunde.
+
+    [hidden]Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé! Ich habe einen {{input}} in der Sprechstunde.[/hidden]
+
+[/dquiz44]

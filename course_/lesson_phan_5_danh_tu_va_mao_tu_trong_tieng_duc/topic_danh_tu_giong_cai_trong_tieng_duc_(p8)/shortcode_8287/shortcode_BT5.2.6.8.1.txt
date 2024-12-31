@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.8.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.8.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Politik
+    B. Musik
+    C. Physik
+    D. Didaktik
+    [/dans3]
+    [hidden]Nội dung file nghe: Musik[/hidden]
+[/dquiz3]

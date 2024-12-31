@@ -1,0 +1,10 @@
+[dquiz3 id="BT4.3.19" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.3.19.mp3[/daudio]
+    Er ___ die Aufgabe.
+    [dans3 ans="C"]
+    A. erklärst
+    B. erkläre
+    C. erklärt
+    [/dans3]
+    [hidden]Nội dung file nghe: Er erklärt die Aufgabe.[/hidden]
+[/dquiz3]

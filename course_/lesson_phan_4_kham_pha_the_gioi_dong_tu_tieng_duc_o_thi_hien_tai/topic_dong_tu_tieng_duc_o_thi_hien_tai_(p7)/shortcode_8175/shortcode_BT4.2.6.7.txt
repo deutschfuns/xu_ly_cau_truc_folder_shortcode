@@ -1,0 +1,13 @@
+[dquiz31 id="BT4.2.6.7" title="Nối mỗi động từ với ngôi thích hợp của nó"]
+Nối mỗi động từ với ngôi thích hợp của nó.
+
+[dans31 ans="1-C,2-B,3-A"]
+1. du
+2. wir
+3. er
+A. nimmt
+B. nehmen
+C. nimmst
+[/dans31]
+
+[/dquiz31]

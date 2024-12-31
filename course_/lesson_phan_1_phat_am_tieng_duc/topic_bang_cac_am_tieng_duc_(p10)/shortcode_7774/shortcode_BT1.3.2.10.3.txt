@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.10.3" title="Từ nào sau đây có nghĩa là &quot;màu xanh lá cây&quot;?"]
+    [dans3 ans="B"]
+    A. gelb
+    B. grün
+    C. groß
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.5.8.1" title="Điền từ vào chỗ trống" case-sensitive="false"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Kaffee; Likör; Schwarztee; Rotwein
+
+    Am Morgen trinke ich gern eine Tasse [dans44]Kaffee[/dans44].
+    Der [dans44]Schwarztee[/dans44] ist ein schwarzer Tee.
+    Der [dans44]Rotwein[/dans44] ist rot und enthält Alkohol.
+    Der [dans44]Likör[/dans44] ist süß und hat Alkohol.
+[/dquiz44]

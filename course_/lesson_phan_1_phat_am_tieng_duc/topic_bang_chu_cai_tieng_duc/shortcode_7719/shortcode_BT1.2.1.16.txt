@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.2.1.16" title="Nghe và chọn những đáp án đúng"]
+    [daudio]BT1.2.1.16.mp3[/daudio]
+    [dans3 ans="C"]
+    A. ß
+    B. Ö
+    C. Ä
+    [/dans3]
+    [hidden]Nội dung file nghe: Ä[/hidden]
+[/dquiz3]

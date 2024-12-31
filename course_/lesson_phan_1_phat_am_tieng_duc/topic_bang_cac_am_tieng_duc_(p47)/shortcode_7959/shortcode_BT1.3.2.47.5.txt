@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.47.5" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy ném một __ xuống sông.
+    [dans3 ans="C"]
+    A. Stimme
+    B. Stunde
+    C. Stein
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.15.8" title="Chọn từ đúng để điền vào chỗ trống"]
+    ___ là thứ chúng ta cần để đọc sách vào buổi tối.
+    [dans3 ans="A"]
+    A. Lampe
+    B. Liebe
+    C. Lehrer
+    [/dans3]
+[/dquiz3]

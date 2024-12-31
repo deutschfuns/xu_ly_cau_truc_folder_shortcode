@@ -1,0 +1,23 @@
+[dquiz3 id="BT1.5.9.3.1" title="Chọn đáp án đúng để hoàn thành câu sau"]
+
+    (1) ½ trong tiếng Đức là:
+    [dans3 ans="C"]
+    A. ein Viertel
+    B. ein Drittel
+    C. ein Halb
+    [/dans3]
+
+    (2) ¾ trong tiếng Đức là:
+    [dans3 ans="A"]
+    A. drei Viertel
+    B. drei Halbe
+    C. vier Drittel
+    [/dans3]
+
+    (3) Để tạo phân số từ số 10, ta thêm:
+    [dans3 ans="A"]
+    A. -tel
+    B. -stel
+    [/dans3]
+
+[/dquiz3]

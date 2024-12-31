@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.4.3.23" title="Nghe tiếng Đức và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.4.3.23.mp3[/daudio]
+    [hidden]Nội dung file nghe: Schauspieler[/hidden]
+
+    [dans3 ans="B"]
+    A. Nhà báo nữ
+    B. Diễn viên nam
+    C. Kế toán nam
+    [/dans3]
+[/dquiz3]

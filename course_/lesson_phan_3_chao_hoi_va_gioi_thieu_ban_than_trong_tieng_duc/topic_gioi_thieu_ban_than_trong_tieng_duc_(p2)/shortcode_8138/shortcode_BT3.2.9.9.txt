@@ -1,0 +1,11 @@
+[dquiz46 id="BT3.2.9.9" title="Viết giới thiệu về bản thân" input-size="big"]
+Hãy viết phần giới thiệu về bản thân bằng tiếng Đức, bao gồm các thông tin: tên, nghề nghiệp, sở thích và ngôn ngữ mà bạn nói.
+[dans46]
+
+[hidden]Hãy viết phần giới thiệu về bản thân bằng tiếng Đức, bao gồm các thông tin: tên, nghề nghiệp, sở thích và ngôn ngữ mà bạn nói.{{input}}[/hidden]
+
+[prompt]
+    [sc name="prompt46"][/sc]
+[/prompt]
+
+[/dquiz46]

@@ -1,0 +1,12 @@
+[dquiz44 id="BT4.2.4.1" title="Điền các động từ sau đây vào chỗ trống, chia đúng theo thì hiện tại: fallen, geben, fahren, essen" case-sensitive="false"]
+
+    Ich [dans44]esse[/dans44] heute Abend Pizza.
+    (Tối nay tôi ăn pizza.)
+    Er [dans44]gibt[/dans44] mir das Buch.
+    (Anh ấy đưa tôi cuốn sách.)
+    Wir [dans44]fahren[/dans44] morgen nach München.
+    (Ngày mai chúng tôi đi đến Munich.)
+    Sie [dans44]fällt[/dans44] vom Stuhl.
+    (Cô ấy ngã khỏi ghế.)
+
+[/dquiz44]

@@ -1,0 +1,11 @@
+[dquiz44 id="BT5.2.5.6.3" title="Chọn từ đúng để điền vào chỗ trống" case-sensitive="false"]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: Onkel, Bruder, Freund, Vater
+
+    Mein [dans44]Onkel[/dans44] ist der Bruder meiner Mutter.
+    Mein [dans44]Vater[/dans44] hat zwei Kinder.
+    Mein [dans44]Bruder[/dans44] geht noch zur Schule.
+    Mein [dans44]Freund[/dans44] lernt Deutsch mit mir.
+
+[/dquiz44]

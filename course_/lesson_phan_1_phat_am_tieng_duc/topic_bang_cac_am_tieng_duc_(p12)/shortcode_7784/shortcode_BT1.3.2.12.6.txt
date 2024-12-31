@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.12.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-B,3-A,4-C"]
+    1. Sittich
+    2. Wind
+    3. binden
+    4. Fritten
+    A. Buộc
+    B. Gió
+    C. Khoai tây chiên
+    D. Con vẹt
+    [/dans31]
+[/dquiz31]

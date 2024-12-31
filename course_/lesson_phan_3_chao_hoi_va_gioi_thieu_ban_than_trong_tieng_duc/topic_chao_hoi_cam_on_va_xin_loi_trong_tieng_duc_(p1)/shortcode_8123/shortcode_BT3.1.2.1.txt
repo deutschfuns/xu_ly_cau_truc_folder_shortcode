@@ -1,0 +1,8 @@
+[dquiz3 id="BT3.1.2.1" title="Chọn lời chào phù hợp cho buổi sáng"]
+    Chọn lời chào phù hợp cho buổi sáng:
+    [dans3 ans="C"]
+    A. Guten Abend
+    B. Gute Nacht
+    C. Guten Morgen
+    [/dans3]
+[/dquiz3]

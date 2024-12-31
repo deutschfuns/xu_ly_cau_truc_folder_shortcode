@@ -1,0 +1,10 @@
+[dquiz3 id="BT4.2.4.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT4.2.4.7.mp3[/daudio]
+    Người nói đang làm gì?
+    [dans3 ans="C"]
+    A. Đọc sách
+    B. Lái xe
+    C. Giúp đỡ
+    [/dans3]
+    [hidden]Nội dung file nghe: Er hilft seiner Mutter.[/hidden]
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.5.37" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+
+Die deutsche ____ ist sehr berühmt.
+(Xúc xích Đức rất nổi tiếng.)
+
+[dans3 ans="C"]
+A. Frist
+B. Vertrag
+C. Wurst
+[/dans3]
+
+[/dquiz3]

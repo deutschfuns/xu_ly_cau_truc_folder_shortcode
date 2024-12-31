@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.40.1" title="Chọn từ phù hợp để điền vào chỗ trống"]
+    Chúng tôi có một khóa học về __.
+    [dans3 ans="C"]
+    A. Wurst
+    B. Uhr
+    C. Kultur
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.7.5" title="Ghép từ có đuôi &quot;-ität&quot; với lĩnh vực tương ứng"]
+
+    [dans31 ans="1-B,2-C,3-D,4-A"]
+    1. Kreativität
+    2. Solidarität
+    3. Qualität
+    4. Moralität
+    A. Đạo đức
+    B. Sự sáng tạo
+    C. Sự đoàn kết
+    D. Chất lượng
+    [/dans31]
+
+[/dquiz31]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.10.10" title="Chọn từ đúng để hoàn thành câu sau"]
+    Con đường mòn này là __ dẫn đến trang trại.
+    [dans3 ans="C"]
+    A. Zug
+    B. Geschichte
+    C. Weg
+    [/dans3]
+[/dquiz3]

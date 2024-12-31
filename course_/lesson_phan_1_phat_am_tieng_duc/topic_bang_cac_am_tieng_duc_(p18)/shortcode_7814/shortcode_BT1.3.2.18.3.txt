@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.18.3" title="Từ nào sau đây có nghĩa là &quot;chuột&quot;?"]
+
+    [dans3 ans="C"]
+    A. Mann
+    B. Morgen
+    C. Maus
+    [/dans3]
+
+[/dquiz3]

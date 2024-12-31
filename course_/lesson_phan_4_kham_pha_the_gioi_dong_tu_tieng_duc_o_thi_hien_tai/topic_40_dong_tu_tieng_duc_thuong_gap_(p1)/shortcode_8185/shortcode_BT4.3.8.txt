@@ -1,0 +1,21 @@
+[dquiz46 id="BT4.3.8" title="Tìm lỗi sai và viết lại câu cho đúng"]
+
+    Hãy tìm lỗi sai và viết lại câu cho đúng.
+
+    Er spielt ein Buch.
+    [dans46]
+
+    Wir lesen Wasser im Park.
+    [dans46]
+
+    [hidden]
+        Hãy tìm lỗi sai và viết lại câu cho đúng.
+        Er spielt ein Buch.{{input}}
+        Wir lesen Wasser im Park.{{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

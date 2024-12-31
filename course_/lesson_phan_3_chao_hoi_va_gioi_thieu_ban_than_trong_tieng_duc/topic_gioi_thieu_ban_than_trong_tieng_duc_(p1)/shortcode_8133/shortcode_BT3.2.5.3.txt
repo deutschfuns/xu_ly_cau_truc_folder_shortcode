@@ -1,0 +1,23 @@
+[dquiz46 id="BT3.2.5.3" title="Sắp xếp các từ sau để tạo thành câu hoàn chỉnh"]
+
+        Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+
+        heiße / Joachim Löw / Ich
+        [dans46]
+
+        aus / Ich / Vietnam / komme
+        [dans46]
+
+        [hidden]
+                Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+                heiße / Joachim Löw / Ich
+                {{input}}
+                aus / Ich / Vietnam / komme
+                {{input}}
+        [/hidden]
+
+        [prompt]
+                [sc name="prompt46"][/sc]
+        [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,25 @@
+[dquiz44 id="BT5.2.7.2.5" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+[daudio]BT5.2.7.2.5.mp3[/daudio]
+
+Das [dans44]Prisma[/dans44] zeigt eine neue Perspektive.
+
+[hidden]Nội dung file nghe: Das Prisma zeigt eine neue Perspektive.[/hidden]
+
+[/dquiz44]
+
+[dquiz3 id="BT5.2.7.3.1" title="Nghe câu sau và chọn từ thích hợp để hoàn thành câu"]
+
+[daudio]BT5.2.7.3.1.mp3[/daudio]
+
+Das ist ein ______.
+
+[dans3 ans="C"]
+A. Apartment
+B. Zement
+C. Dokument
+[/dans3]
+
+[hidden]Nội dung file nghe: Das ist ein Dokument.[/hidden]
+
+[/dquiz3]

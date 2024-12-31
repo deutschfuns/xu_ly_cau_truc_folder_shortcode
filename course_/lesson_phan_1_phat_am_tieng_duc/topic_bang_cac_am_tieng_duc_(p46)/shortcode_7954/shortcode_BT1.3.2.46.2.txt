@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.46.2" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.46.2.mp3[/daudio]
+
+    [dans37 ans="B-C-D-A"]
+    A. Deutsch
+    B. Ich
+    C. spreche
+    D. gut
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich spreche gut Deutsch.[/hidden]
+[/dquiz37]

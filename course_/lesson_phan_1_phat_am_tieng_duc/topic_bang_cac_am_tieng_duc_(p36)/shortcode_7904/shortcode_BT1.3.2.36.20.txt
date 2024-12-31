@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.36.20" title="Đọc và nối các từ sau đây với nghĩa Tiếng Việt phù hợp"]
+    [dans31 ans="1-C,2-D,3-B,4-A"]
+    1. heiß
+    2. breit
+    3. leise
+    4. frei
+    A. Tự do
+    B. Nhẹ nhàng
+    C. Nóng
+    D. Rộng
+    [/dans31]
+[/dquiz31]

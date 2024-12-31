@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.22.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-D,3-B,4-A"]
+    1. fröhlich
+    2. Öl
+    3. Söhne
+    4. Löffel
+    A. Thìa, muỗng
+    B. Con trai (số nhiều)
+    C. Vui vẻ
+    D. Dầu ăn, dầu đốt
+    [/dans31]
+[/dquiz31]

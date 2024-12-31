@@ -1,0 +1,23 @@
+[dquiz58 id="BT1.4.2.5" title="Ghi âm giới thiệu bản thân" ]
+
+Hãy ghi âm lại phần giới thiệu của bạn bao gồm các thông tin sau:
+Chào hỏi
+Tên và tuổi của bạn
+Quốc gia và nơi ở hiện tại
+Nghề nghiệp của bạn
+Ngôn ngữ bạn nói
+Sở thích của bạn
+
+[hidden]Hãy ghi âm lại phần giới thiệu của bạn bao gồm các thông tin sau:
+Chào hỏi
+Tên và tuổi của bạn
+Quốc gia và nơi ở hiện tại
+Nghề nghiệp của bạn
+Ngôn ngữ bạn nói
+Sở thích của bạn[/hidden]
+
+[prompt]
+    [sc name="prompt57"][/sc]
+[/prompt]
+
+[/dquiz58]

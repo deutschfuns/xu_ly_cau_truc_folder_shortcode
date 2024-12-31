@@ -1,0 +1,11 @@
+[dquiz44 id="BT5.4.1.27" title="Nghe câu và điền dạng số nhiều đúng vào chỗ trống" case-sensitive="false"]
+
+[daudio]BT5.4.1.27.mp3[/daudio]
+
+Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+
+Die [dans44]Ereignisse[/dans44] sind sehr wichtig.
+
+[hidden]Nội dung file nghe: Die Ereignisse sind sehr wichtig.[/hidden]
+
+[/dquiz44]

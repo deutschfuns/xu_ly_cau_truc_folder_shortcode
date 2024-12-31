@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.4.3.2" title="Từ nào sau đây có nghĩa là &quot;bác sĩ nam&quot;?"]
+    [dans3 ans="C"]
+    A. Lehrer
+    B. Koch
+    C. Arzt
+    [/dans3]
+[/dquiz3]

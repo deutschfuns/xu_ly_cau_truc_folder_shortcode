@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.2.7.8.4" title="Chọn từ thích hợp để hoàn thành câu sau."]
+
+Das ____ der Kinder macht Spaß.
+(Tiếng cười của trẻ em mang lại niềm vui.)
+
+[dans3 ans="C"]
+A. Schlafen
+B. Weinen
+C. Lachen
+[/dans3]
+
+[/dquiz3]

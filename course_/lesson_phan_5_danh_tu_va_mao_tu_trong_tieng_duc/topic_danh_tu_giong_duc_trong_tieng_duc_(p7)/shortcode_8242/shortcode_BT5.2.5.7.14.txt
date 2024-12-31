@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.7.14" title="Nghe từ và chọn nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.5.7.14.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Ngày lễ
+    B. Buổi trưa
+    C. La bàn
+    D. Mùa hè
+    [/dans3]
+    [hidden]Nội dung file nghe: Kompass[/hidden]
+[/dquiz3]

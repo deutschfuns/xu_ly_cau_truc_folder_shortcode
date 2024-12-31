@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.8.4" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.8.4.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Technik[/dans44] entwickelt sich schnell.
+
+    [hidden]Nội dung file nghe: Die Technik entwickelt sich schnell.[/hidden]
+
+[/dquiz44]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.2.2" title="Đâu là từ chỉ con vật trong các từ sau đây?"]
+    [dans3 ans="B,C"]
+    A. Kamm
+    B. Katze
+    C. Ratte
+    D. Schrank
+    [/dans3]
+[/dquiz3]

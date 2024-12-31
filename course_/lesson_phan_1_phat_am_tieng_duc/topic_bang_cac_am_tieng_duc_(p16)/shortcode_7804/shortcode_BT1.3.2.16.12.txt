@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.16.12" title="Nghe và chọn những đáp án đúng sau đây"]
+    [daudio]BT1.3.2.16.12.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Schulter
+    B. Ball
+    C. als
+    D. mal
+    [/dans3]
+    [hidden]Nội dung file nghe: als[/hidden]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.20.6" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.20.6.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Boot
+    B. tot
+    C. Floh
+    [/dans3]
+    [hidden]Nội dung file nghe: tot[/hidden]
+[/dquiz3]

@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.50.5" title="Đọc và ghi âm lại nội dung sau" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Graben
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Graben[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

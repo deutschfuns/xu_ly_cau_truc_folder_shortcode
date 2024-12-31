@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.3.6" title="Từ nào sau đây có nghĩa là &quot;tháng ba&quot;?"]
+    [dans3 ans="B"]
+    A. Mädchen
+    B. März
+    C. Märchen
+    [/dans3]
+[/dquiz3]

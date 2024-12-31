@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.3.2.11.5" title="Nối từ với nghĩa phù hợp"]
+Nối từ với nghĩa phù hợp:
+
+[dans31 ans="1-B,2-C,3-A,4-D"]
+1. Lehrer
+2. Hose
+3. Fahrrad
+4. Mahlzeit
+A. Xe đạp
+B. Thầy giáo
+C. Cái quần
+D. Bữa ăn
+[/dans31]
+
+[/dquiz31]

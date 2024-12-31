@@ -1,0 +1,17 @@
+[dquiz58 id="BT1.6.4.5" title="Phát âm" ]
+
+    Đọc và ghi âm các câu nói về giờ bằng tiếng Đức sau:
+    Es ist neun Uhr morgens.
+    Es ist zwölf Uhr mittags.
+    Es ist sieben Uhr abends.
+
+    [hidden]Đọc và ghi âm các câu nói về giờ bằng tiếng Đức sau:
+    Es ist neun Uhr morgens.
+    Es ist zwölf Uhr mittags.
+    Es ist sieben Uhr abends.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

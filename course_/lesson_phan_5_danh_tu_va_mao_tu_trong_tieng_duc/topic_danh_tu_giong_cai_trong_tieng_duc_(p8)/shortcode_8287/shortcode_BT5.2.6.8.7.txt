@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.6.8.7" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.8.7.mp3[/daudio]
+
+    Die [dans44]Klinik[/dans44] befindet sich in der Stadtmitte.
+
+    [hidden]Nội dung file nghe: Die Klinik befindet sich in der Stadtmitte.[/hidden]
+
+[/dquiz44]

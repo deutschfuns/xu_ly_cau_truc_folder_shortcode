@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.37.2" title="Từ nào sau đây có nghĩa là &quot;chuột&quot;?"]
+    [dans3 ans="B"]
+    A. Haus
+    B. Maus
+    C. Frau
+    D. Augen
+    [/dans3]
+[/dquiz3]

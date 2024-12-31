@@ -1,0 +1,10 @@
+[dquiz46 id="BT5.2.7.4.7" title="Viết"]
+    Hãy viết 3 danh từ giống trung khác nhau có đuôi "-um"
+    [dans46]
+    [dans46]
+    [dans46]
+    [hidden]Hãy viết 3 danh từ giống trung khác nhau có đuôi "-um". {{input}} {{input}} {{input}}[/hidden]
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

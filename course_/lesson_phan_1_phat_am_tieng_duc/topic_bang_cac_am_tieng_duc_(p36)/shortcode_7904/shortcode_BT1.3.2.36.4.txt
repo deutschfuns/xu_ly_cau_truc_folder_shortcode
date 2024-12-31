@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.4" title="Từ nào sau đây là tính từ?"]
+    [dans3 ans="C"]
+    A. Ei
+    B. Leiter
+    C. heiß
+    D. Eis
+    [/dans3]
+[/dquiz3]

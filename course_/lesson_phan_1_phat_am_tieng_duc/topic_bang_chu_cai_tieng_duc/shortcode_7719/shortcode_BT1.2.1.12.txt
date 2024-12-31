@@ -1,0 +1,12 @@
+[dquiz58 id="BT1.2.1.12" title="Đọc và ghi âm lại chữ cái sau" ]
+
+Hãy đọc và ghi âm lại chữ cái sau:
+R, S
+
+[hidden]Hãy đọc và ghi âm lại chữ cái sau: R, S[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

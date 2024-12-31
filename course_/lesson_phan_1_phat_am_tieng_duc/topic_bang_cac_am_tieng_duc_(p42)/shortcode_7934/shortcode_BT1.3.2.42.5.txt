@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.42.5" title="Chọn từ phù hợp để điền vào câu sau"]
+    Buổi hòa nhạc sẽ bắt đầu khi __ đã sẵn sàng.
+    [dans3 ans="C"]
+    A. Doktor
+    B. Motor
+    C. Chor
+    [/dans3]
+[/dquiz3]

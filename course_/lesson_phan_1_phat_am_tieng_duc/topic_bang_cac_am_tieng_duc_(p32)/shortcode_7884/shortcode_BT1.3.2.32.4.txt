@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.32.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.32.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Weg[/hidden]
+
+    [dans3 ans="A"]
+    A. Weg
+    B. Wand
+    C. wissen
+    [/dans3]
+[/dquiz3]

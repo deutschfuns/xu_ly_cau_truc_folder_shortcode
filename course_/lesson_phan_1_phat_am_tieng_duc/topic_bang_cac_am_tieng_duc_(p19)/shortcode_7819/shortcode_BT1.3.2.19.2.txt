@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.19.2" title="Từ nào sau đây có nghĩa là &quot;phương Bắc&quot;?"]
+
+    [dans3 ans="D"]
+    A. Nacht
+    B. Nase
+    C. Nebel
+    D. Norden
+    [/dans3]
+
+[/dquiz3]

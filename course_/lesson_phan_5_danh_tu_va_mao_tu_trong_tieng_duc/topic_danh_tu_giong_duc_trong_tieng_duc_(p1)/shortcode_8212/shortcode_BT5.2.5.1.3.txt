@@ -1,0 +1,23 @@
+[dquiz46 id="BT5.2.5.1.3" title="Sắp xếp từ để tạo thành câu hoàn chỉnh"]
+
+    Sắp xếp từ để tạo thành câu hoàn chỉnh
+
+    Teig / Ich / mache / mit / den / Honig.
+    [dans46]
+
+    König / ist / Der / ein / Mann.
+    [dans46]
+
+    [hidden]
+        Sắp xếp từ để tạo thành câu hoàn chỉnh
+        Teig / Ich / mache / mit / den / Honig.
+        {{input}}
+        König / ist / Der / ein / Mann.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

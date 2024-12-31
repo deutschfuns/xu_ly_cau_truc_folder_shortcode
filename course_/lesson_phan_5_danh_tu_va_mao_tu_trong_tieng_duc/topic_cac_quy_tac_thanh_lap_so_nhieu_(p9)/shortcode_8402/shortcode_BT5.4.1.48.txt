@@ -1,0 +1,5 @@
+[dquiz44 id="BT5.4.1.48" title="Nghe câu và điền danh từ số ít thích hợp vào chỗ trống."]
+    [daudio]BT5.4.1.48.mp3[/daudio]
+    Er hat viel [dans44]Geld[/dans44].
+    [hidden]Nội dung file nghe: Er hat viel Geld.[/hidden]
+[/dquiz44]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.5.8.3.4" title="Chọn đáp án đúng"]  
+Số nào là &quot;einundzwanzigste&quot;?  
+[dans3 ans="C"]  
+A. 31.  
+B. 20.  
+C. 21.  
+D. 19.  
+[/dans3]  
+[/dquiz3]

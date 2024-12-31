@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.22.7" title="Chọn đáp án đúng để hoàn thành câu sau:"]
+    Tôi ___cửa và bước vào phòng.
+    [dans3 ans="C"]
+    A. hören
+    B. Söhne
+    C. öffnen
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.3.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.3.3.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Lehrerin
+    B. Köchin
+    C. Ingenieur
+    [/dans3]
+    [hidden]Nội dung file nghe: Ingenieur[/hidden]
+[/dquiz3]

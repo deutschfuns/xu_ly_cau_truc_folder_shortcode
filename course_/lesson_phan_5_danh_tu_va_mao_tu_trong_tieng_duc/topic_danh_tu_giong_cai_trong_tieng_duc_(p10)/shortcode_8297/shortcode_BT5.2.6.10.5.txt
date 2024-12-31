@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.10.5" title="Ghép các danh từ có đuôi &quot;-ur&quot; với lĩnh vực tương ứng"]
+
+    [dans31 ans="1-C,2-B,3-A,4-D"]
+    1. Architektur
+    2. Kreatur
+    3. Skulptur
+    4. Infrastruktur
+    A. Điêu khắc
+    B. Sinh vật
+    C. Kiến trúc
+    D. Cơ sở hạ tầng
+    [/dans31]
+
+[/dquiz31]

@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.2.6.4.1" title="Nghe và chọn đáp án đúng"]
+
+    [daudio]BT5.2.6.4.1.mp3[/daudio]
+
+    [dans3 ans="C"]
+    A. Metzgerei
+    B. Fischerei
+    C. Schneiderei
+    D. Bäckerei
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Schneiderei[/hidden]
+
+[/dquiz3]

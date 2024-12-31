@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.4.1.25" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    Die ____ fahren auf der Straße.
+    (Những chiếc xe tải đang chạy trên đường.)
+    [dans3 ans="B"]
+    A. Taxis
+    B. Lkws
+    C. Pkws
+    [/dans3]
+[/dquiz3]

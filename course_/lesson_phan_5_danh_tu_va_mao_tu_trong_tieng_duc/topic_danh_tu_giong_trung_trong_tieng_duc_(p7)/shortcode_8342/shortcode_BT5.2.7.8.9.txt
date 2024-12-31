@@ -1,0 +1,11 @@
+[dquiz3 id="BT5.2.7.8.9" title="Nghe từ và nối với nghĩa tiếng Việt đúng"]
+    [daudio]BT5.2.7.8.9.mp3[/daudio]
+    
+    [dans3 ans="B"]
+    A. Cười
+    B. Khóc
+    C. Chạy
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Weinen[/hidden]
+[/dquiz3]

@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.5.59" title="Nghe câu và chọn danh từ đúng để hoàn thành câu sau."]
+    [daudio]BT5.5.59.mp3[/daudio]
+
+    Kann ich dein ____ kurz ausleihen?
+    [dans3 ans="B"]
+    A. Krawatte
+    B. Ladegerät
+    C. Gürtel
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Kann ich dein Ladegerät kurz ausleihen?[/hidden]
+[/dquiz3]

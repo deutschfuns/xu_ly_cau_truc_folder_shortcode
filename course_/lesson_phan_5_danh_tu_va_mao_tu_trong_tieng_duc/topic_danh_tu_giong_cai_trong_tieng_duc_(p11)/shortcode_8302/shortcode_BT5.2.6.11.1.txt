@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.6.11.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.11.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ärztin
+    B. Lehrerin
+    C. Schauspielerin
+    [/dans3]
+    [hidden]Nội dung file nghe: Lehrerin[/hidden]
+[/dquiz3]

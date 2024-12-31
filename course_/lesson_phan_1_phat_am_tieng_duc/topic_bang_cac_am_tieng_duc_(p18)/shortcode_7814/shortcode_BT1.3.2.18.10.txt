@@ -1,0 +1,16 @@
+[dquiz19 id="BT1.3.2.18.10" title="Nghe và chọn những từ đúng sau đây"]
+
+[daudio file="BT1.3.2.18.10.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="A,C"]
+A. Mutter
+B. Musik
+C. Mann
+D. Morgen
+[/dans19]
+
+[hidden]Nội dung file nghe: Mutter; Mann[/hidden]
+
+[/dquiz19]

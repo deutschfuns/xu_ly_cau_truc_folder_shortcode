@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.20.5" title="Từ nào sau đây có nghĩa là &quot;màu đỏ&quot;?"]
+    [dans3 ans="B"]
+    A. Hof
+    B. rot
+    C. Brot
+    [/dans3]
+[/dquiz3]

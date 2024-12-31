@@ -1,0 +1,12 @@
+[dquiz44 id="BT1.5.1.4" title="Nghe và viết lại các số đếm đã nghe"]
+
+[daudio]BT1.5.1.4.mp3[/daudio]
+
+[dans44]Null[/dans44]
+[dans44]Drei[/dans44]
+[dans44]Neun[/dans44]
+[dans44]Zwölf[/dans44]
+
+[hidden]Nội dung file nghe: Null; Drei; Neun; Zwölf[/hidden]
+
+[/dquiz44]

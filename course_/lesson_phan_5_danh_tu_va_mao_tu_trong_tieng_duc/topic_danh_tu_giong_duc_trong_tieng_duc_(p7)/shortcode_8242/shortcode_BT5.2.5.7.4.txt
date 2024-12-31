@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.7.4" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Geburtstag
+[dans3 ans="A"]
+A. Ngày sinh nhật
+B. Ngày lễ
+C. Buổi sáng
+D. Ngày làm việc
+[/dans3]
+
+Süden
+[dans3 ans="C"]
+A. Phía Tây
+B. Phía Đông
+C. Phía Nam
+D. Phía Bắc
+[/dans3]
+
+[/dquiz3]

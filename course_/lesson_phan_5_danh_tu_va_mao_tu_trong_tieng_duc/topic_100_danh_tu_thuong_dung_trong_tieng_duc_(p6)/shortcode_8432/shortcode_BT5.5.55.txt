@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.5.55" title="Nghe câu và điền từ thích hợp vào chỗ trống"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT5.5.55.mp3[/daudio]
+    Diese [dans44]Schuhe[/dans44] sind sehr bequem.
+    [hidden]Nội dung file nghe: Diese Schuhe sind sehr bequem.[/hidden]
+[/dquiz44]

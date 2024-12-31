@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.7.7.4" title="Chọn từ thích hợp để hoàn thành câu sau"]
+    Er hat das ____ bekommen.
+    [dans3 ans="C"]
+    A. Gedächtnis
+    B. Versäumnis
+    C. Zeugnis
+    [/dans3]
+[/dquiz3]

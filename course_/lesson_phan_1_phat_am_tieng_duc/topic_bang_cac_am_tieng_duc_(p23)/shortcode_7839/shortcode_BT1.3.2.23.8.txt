@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.23.8" title="Nghe và chọn từ có nghĩa là &quot;giá cả&quot;"]
+    [daudio]BT1.3.2.23.8.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Preis
+    B. Pferd
+    C. Platz
+    [/dans3]
+    [hidden]Nội dung file nghe: Preis[/hidden]
+[/dquiz3]

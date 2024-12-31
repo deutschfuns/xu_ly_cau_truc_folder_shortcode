@@ -1,0 +1,12 @@
+[dquiz3 id="BT1.3.2.35.7" title="Nghe và điền vào chỗ trống"]
+    [daudio]BT1.3.2.35.7.mp3[/daudio]
+    
+    Anh ấy là một người rất __.
+    [dans3 ans="B"]
+    A. Säule
+    B. freundlich
+    C. häufig
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: freundlich[/hidden]
+[/dquiz3]

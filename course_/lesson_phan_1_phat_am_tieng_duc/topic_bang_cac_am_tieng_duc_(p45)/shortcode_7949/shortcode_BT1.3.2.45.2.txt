@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.45.2" title="Chọn từ phù hợp để điền vào câu sau"]
+    Anh ấy chạy rất __.
+    [dans3 ans="B"]
+    A. schwarz
+    B. schnell
+    C. Schuhe
+    [/dans3]
+[/dquiz3]

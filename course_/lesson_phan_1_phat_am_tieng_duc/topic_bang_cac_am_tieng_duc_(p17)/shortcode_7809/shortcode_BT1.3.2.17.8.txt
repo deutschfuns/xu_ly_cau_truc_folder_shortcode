@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.17.8" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.17.8.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Spiegel
+    B. mittel
+    C. Teller
+    [/dans3]
+    [hidden]Nội dung file nghe: Teller[/hidden]
+[/dquiz3]

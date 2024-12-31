@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.50.2" title="Từ nào sau đây có nghĩa là &quot;lời chào&quot;?"]
+    [dans3 ans="B"]
+    A. Grund
+    B. Gruß
+    C. Gruppe
+    [/dans3]
+[/dquiz3]

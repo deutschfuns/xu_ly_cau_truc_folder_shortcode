@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.4.2" title="Danh từ trong tiếng Đức có mấy giống?"]
+
+    Danh từ trong tiếng Đức có mấy giống?
+    [dans3 ans="B"]
+    A. Hai giống
+    B. Ba giống
+    C. Bốn giống
+    [/dans3]
+
+[/dquiz3]

@@ -1,0 +1,18 @@
+[dquiz46 id="BT1.5.8.3.9" title="Sắp xếp lại các từ cho sẵn thành câu"]
+
+    Sắp xếp lại các từ cho sẵn thành câu.
+
+    erste / Ich / bin / der / Schüler
+    [dans46]
+
+    [hidden]
+        Sắp xếp lại các từ cho sẵn thành câu.
+        erste / Ich / bin / der / Schüler
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

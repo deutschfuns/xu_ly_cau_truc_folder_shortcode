@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.18.9" title="Chọn từ phù hợp với nghĩa của từ sau: phương tiện"]
+    [dans3 ans="C"]
+    A. Maus
+    B. Monat
+    C. Mittel
+    [/dans3]
+[/dquiz3]

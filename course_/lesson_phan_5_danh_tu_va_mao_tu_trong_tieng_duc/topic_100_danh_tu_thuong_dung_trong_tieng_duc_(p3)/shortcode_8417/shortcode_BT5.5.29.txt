@@ -1,0 +1,15 @@
+[dquiz46 id="BT5.5.29" title="Viết câu với từ gợi ý"]
+    Viết câu hoàn chỉnh với các từ sau:
+    Das Klassenzimmer
+    [dans46]
+    Die Hausaufgabe
+    [dans46]
+
+    [hidden]Viết câu hoàn chỉnh với các từ sau:
+    Das Klassenzimmer{{input}}
+    Die Hausaufgabe{{input}}[/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+[/dquiz46]

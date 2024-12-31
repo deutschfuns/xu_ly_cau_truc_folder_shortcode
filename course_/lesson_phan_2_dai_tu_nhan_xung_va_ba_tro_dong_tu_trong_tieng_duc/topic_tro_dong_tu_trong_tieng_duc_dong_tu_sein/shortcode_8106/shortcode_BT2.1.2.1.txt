@@ -1,0 +1,24 @@
+[dquiz3 id="BT2.1.2.1" title="Hãy chọn từ đúng (bin, bist, ist, sind, seid) để hoàn thành các câu sau."]
+
+    Ich ___ Lehrer.
+    [dans3 ans="C"]
+    A. ist
+    B. seid
+    C. bin
+    [/dans3]
+
+    Er ___ müde.
+    [dans3 ans="B"]
+    A. bist
+    B. ist
+    C. sind
+    [/dans3]
+
+    Ihr ___ am Bahnhof.
+    [dans3 ans="B"]
+    A. bin
+    B. seid
+    C. sind
+    [/dans3]
+
+[/dquiz3]

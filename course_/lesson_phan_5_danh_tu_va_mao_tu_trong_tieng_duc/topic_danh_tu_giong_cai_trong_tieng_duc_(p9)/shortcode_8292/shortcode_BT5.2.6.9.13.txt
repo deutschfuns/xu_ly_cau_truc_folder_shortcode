@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.9.13" title="Ghép từ có đuôi &quot;-e&quot; với nghĩa tiếng Việt tương ứng"]
+
+    [dans31 ans="1-D,2-A,3-C,4-B"]
+    1. Wiese
+    2. Farbe
+    3. Lampe
+    4. Torte
+    A. Màu sắc
+    B. Bánh ngọt
+    C. Đèn
+    D. Đồng cỏ
+    [/dans31]
+
+[/dquiz31]

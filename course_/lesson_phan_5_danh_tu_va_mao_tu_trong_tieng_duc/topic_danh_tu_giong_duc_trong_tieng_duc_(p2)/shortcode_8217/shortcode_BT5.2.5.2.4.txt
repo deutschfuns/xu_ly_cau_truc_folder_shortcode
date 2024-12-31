@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.2.4" title="Chọn đáp án đúng cho mỗi câu hỏi dưới đây"]
+
+Ai là người học việc?
+[dans3 ans="B"]
+A. Schmetterling
+B. Lehrling
+C. Feigling
+D. Häftling
+[/dans3]
+
+Mùa xuân trong tiếng Đức là từ nào?
+[dans3 ans="A"]
+A. Frühling
+B. Schmetterling
+C. Prüfling
+D. Pflegling
+[/dans3]
+
+[/dquiz3]

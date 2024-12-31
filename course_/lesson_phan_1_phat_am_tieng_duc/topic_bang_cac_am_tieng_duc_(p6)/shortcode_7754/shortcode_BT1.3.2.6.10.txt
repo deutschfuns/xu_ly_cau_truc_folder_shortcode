@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.6.10" title="Từ nào sau đây có nghĩa là &quot;trẻ con&quot;?"]
+    [dans3 ans="C"]
+    A. Wald
+    B. Abend
+    C. Kind
+    [/dans3]
+[/dquiz3]

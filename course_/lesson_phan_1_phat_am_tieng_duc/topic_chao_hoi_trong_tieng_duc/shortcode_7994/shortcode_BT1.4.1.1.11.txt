@@ -1,0 +1,27 @@
+[dquiz58 id="BT1.4.1.1.11" title="Đọc và ghi âm lại nội dung sau"]
+
+Hãy đọc và ghi âm lại nội dung sau:
+A: Hallo!
+B: Hallo!
+A: Guten Morgen!
+B: Guten Morgen!
+A: Wie geht es dir?
+B: Mir geht es gut, danke. Und dir?
+A: Was machst du?
+B: Nichts Besonderes.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+A: Hallo!
+B: Hallo!
+A: Guten Morgen!
+B: Guten Morgen!
+A: Wie geht es dir?
+B: Mir geht es gut, danke. Und dir?
+A: Was machst du?
+B: Nichts Besonderes.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

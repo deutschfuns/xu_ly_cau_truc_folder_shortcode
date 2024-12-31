@@ -1,0 +1,14 @@
+[dquiz58 id="BT1.3.2.4.12" title="Nghe và ghi âm lại" ]
+
+Hãy nghe và ghi âm lại nội dung nghe được:
+
+[daudio]BT1.3.2.4.12.mp3[/daudio]
+
+[hidden]Hãy nghe và ghi âm lại nội dung nghe được
+Nội dung file nghe: Hobby[/hidden]
+
+[prompt]
+    [sc name="prompt86"][/sc]
+[/prompt]
+
+[/dquiz58]

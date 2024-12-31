@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.39.3" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-B,2-C,3-A,4-D"]
+    1. Zirkus
+    2. vier
+    3. Bier
+    4. dir
+    A. Bia
+    B. Rạp xiếc
+    C. Số bốn
+    D. Cho bạn
+    [/dans31]
+[/dquiz31]

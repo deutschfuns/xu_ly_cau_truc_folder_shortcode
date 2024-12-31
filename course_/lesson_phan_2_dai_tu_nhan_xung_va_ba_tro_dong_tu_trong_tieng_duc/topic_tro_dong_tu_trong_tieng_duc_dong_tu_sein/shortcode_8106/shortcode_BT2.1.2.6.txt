@@ -1,0 +1,28 @@
+[dquiz46 id="BT2.1.2.6" title="Sắp xếp từ thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng:
+
+    bin / Lehrer / Ich
+    [dans46]
+
+    bist / schnell / Du
+    [dans46]
+
+    ist / kalt / Es / heute
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng:
+        bin / Lehrer / Ich
+        {{input}}
+        bist / schnell / Du
+        {{input}}
+        ist / kalt / Es / heute
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

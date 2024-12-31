@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.2.5.2.6" title="Nghe từ sau và chọn nghĩa đúng"]  
+[daudio]BT5.2.5.2.6.mp3[/daudio]  
+
+[dans3 ans="C"]  
+A. Mùa xuân  
+B. Tù nhân  
+C. Người học việc  
+D. Con bướm  
+[/dans3]  
+
+[hidden]Nội dung file nghe: Lehrling[/hidden]  
+[/dquiz3]

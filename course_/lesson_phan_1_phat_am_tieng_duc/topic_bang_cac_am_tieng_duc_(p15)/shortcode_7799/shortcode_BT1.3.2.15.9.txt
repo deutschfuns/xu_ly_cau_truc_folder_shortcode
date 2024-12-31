@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.15.9" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.15.9.mp3[/daudio]
+    [dans3 ans="C"]
+    A. lächeln
+    B. Licht
+    C. Luft
+    [/dans3]
+    [hidden]Nội dung file nghe: Luft[/hidden]
+[/dquiz3]

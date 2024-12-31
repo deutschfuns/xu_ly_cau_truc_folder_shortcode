@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.4.1.1" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.4.1.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Guten Morgen
+    B. Guten Tag
+    C. Guten Abend
+    [/dans3]
+    [hidden]Nội dung file nghe: Guten Tag[/hidden]
+[/dquiz3]

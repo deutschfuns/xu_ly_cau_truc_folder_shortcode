@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.50" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Der Ellenbogen
+    [dans46]
+    Das Eis
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Der Ellenbogen
+        {{input}}
+        Das Eis
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

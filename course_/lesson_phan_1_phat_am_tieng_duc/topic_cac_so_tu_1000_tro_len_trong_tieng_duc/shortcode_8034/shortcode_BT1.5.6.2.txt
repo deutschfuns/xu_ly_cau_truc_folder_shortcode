@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.5.6.2" title="Chọn từ phù hợp để điền vào câu sau"]
+    Số 900.000 trong tiếng Đức là __.
+    [dans3 ans="C"]
+    A. neuntausend
+    B. neunzigtausend
+    C. neunhunderttausend
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.5.2" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Gärtner
+[dans3 ans="B"]
+A. Người lái xe
+B. Người làm vườn
+C. Bồi bàn
+D. Vũ công
+[/dans3]
+
+Künstler
+[dans3 ans="A"]
+A. Nghệ sĩ
+B. Chính trị gia
+C. Nhạc sĩ
+D. Người chơi
+[/dans3]
+
+[/dquiz3]

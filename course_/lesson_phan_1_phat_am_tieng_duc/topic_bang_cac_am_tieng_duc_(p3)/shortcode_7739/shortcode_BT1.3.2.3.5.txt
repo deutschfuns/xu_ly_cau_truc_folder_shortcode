@@ -1,0 +1,10 @@
+[dquiz31 id="BT1.3.2.3.5" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-C"]
+    1. Mädchen
+    2. Bär
+    3. Gärtnerei
+    A. Cô gái
+    B. Con gấu
+    C. Vườn ươm
+    [/dans31]
+[/dquiz31]

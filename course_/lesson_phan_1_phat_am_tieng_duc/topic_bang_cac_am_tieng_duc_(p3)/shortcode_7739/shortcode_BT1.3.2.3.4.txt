@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.3.4" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.3.4.mp3[/daudio]
+
+[dans44]Käse[/dans44]
+[dans44]Äpfel[/dans44]
+[dans44]Bär[/dans44]
+
+[hidden]Nội dung file nghe: Käse; Äpfel; Bär[/hidden]
+
+[/dquiz44]

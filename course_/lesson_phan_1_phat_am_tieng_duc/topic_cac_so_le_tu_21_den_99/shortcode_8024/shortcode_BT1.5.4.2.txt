@@ -1,0 +1,15 @@
+[dquiz58 id="BT1.5.4.2" title="Đọc và ghi âm lại"]
+    Hãy đọc và ghi âm lại nội dung sau:
+    Achtundachtzig
+    Siebenundfünfzig
+    Neununddreißig
+
+    [hidden]Hãy đọc và ghi âm lại nội dung sau:
+    Achtundachtzig
+    Siebenundfünfzig
+    Neununddreißig[/hidden]
+
+    [prompt]
+        [sc name="prompt55"][/sc]
+    [/prompt]
+[/dquiz58]

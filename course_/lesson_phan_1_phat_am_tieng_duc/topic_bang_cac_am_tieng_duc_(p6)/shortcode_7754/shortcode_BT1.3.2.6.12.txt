@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.3.2.6.12" title="Nối từ với nghĩa phù hợp"]
+Nối từ với nghĩa phù hợp:
+
+[dans31 ans="1-C,2-B,3-A,4-D"]
+1. Hand
+2. Rad
+3. bald
+4. Abend
+A. Sớm, sắp
+B. Bánh xe
+C. Bàn tay
+D. Buổi tối
+[/dans31]
+
+[/dquiz31]

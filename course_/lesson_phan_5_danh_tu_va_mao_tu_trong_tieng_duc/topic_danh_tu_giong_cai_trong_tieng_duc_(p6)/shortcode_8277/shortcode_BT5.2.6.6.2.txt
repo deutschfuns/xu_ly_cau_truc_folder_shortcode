@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.6.6.2" title="Nối các danh từ có đuôi &quot;-ion&quot; với nghĩa tiếng Việt tương ứng"]
+
+    [dans31 ans="1-C,2-B,3-D,4-A"]
+    1. Revolution
+    2. Diskussion
+    3. Operation
+    4. Funktion
+    A. Chức năng
+    B. Cuộc thảo luận
+    C. Cách mạng
+    D. Ca phẫu thuật
+    [/dans31]
+
+[/dquiz31]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.28.1" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.28.1.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Cái bàn
+    B. Cái túi
+    C. Con gái
+    [/dans3]
+    [hidden]Nội dung file nghe: Tochter[/hidden]
+[/dquiz3]

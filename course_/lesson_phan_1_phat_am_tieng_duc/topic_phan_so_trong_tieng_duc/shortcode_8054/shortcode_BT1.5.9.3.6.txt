@@ -1,0 +1,19 @@
+[dquiz3 id="BT1.5.9.3.6" title="Đọc nội dung sau và trả lời câu hỏi"]
+
+    (1) Ich habe den halben Kuchen gegessen.
+    Tôi đã ăn bao nhiêu chiếc bánh?
+    [dans3 ans="B"]
+    A. Một phần tư chiếc bánh
+    B. Một nửa chiếc bánh
+    C. Một phần ba chiếc bánh
+    [/dans3]
+
+    (2) Er hat eine Dreiviertelstunde gewartet.
+    Anh ấy đã đợi bao lâu?
+    [dans3 ans="C"]
+    A. Một phần tư giờ
+    B. Một giờ
+    C. Ba phần tư giờ
+    [/dans3]
+
+[/dquiz3]

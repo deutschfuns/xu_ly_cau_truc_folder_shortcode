@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.4.1.9" title="Nghe câu và chọn dạng số nhiều đúng để hoàn thành câu sau."]
+    [daudio]BT5.4.1.9.mp3[/daudio]
+
+    Der Vater und die ____ sind hier.
+    [dans3 ans="C"]
+    A. Äpfel
+    B. Tage
+    C. Väter
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Der Vater und die Väter sind hier.[/hidden]
+[/dquiz3]

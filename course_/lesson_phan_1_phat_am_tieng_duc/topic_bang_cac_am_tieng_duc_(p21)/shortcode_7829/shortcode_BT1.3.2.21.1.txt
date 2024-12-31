@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.21.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.21.1.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,D"]
+A. Kollege
+B. Dorf
+C. Kopf
+D. Sonntag
+E. hoffen
+[/dans19]
+
+[hidden]Nội dung file nghe: Dorf; Sonntag[/hidden]
+
+[/dquiz19]

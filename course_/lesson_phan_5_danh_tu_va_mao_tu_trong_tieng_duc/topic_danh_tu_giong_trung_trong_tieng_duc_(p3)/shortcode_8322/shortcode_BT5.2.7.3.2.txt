@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.7.3.2" title="Nối các danh từ sau với nghĩa tiếng Việt tương ứng"]
+    Nối các danh từ sau với nghĩa tiếng Việt tương ứng:
+
+    [dans31 ans="1-C,2-A,3-B,4-D"]
+    1. Monument
+    2. Instrument
+    3. Apartment
+    4. Management
+    A. Nhạc cụ
+    B. Căn hộ
+    C. Tượng đài
+    D. Quản lý
+    [/dans31]
+
+[/dquiz31]

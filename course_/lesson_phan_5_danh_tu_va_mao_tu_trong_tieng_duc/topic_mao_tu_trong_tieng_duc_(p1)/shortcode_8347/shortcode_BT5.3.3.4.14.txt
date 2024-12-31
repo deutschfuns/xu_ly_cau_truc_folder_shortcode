@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.3.3.4.14" title="Nghe câu và điền mạo từ không xác định đúng vào chỗ trống."]
+
+[daudio]BT5.3.3.4.14.mp3[/daudio]
+
+Ich habe [dans44]ein[/dans44] Haus gekauft.
+
+[hidden]Nội dung file nghe: Ich habe ein Haus gekauft.[/hidden]
+
+[/dquiz44]

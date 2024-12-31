@@ -1,0 +1,11 @@
+[dquiz44 id="BT1.3.2.23.5" title="Nghe và viết lại những từ vựng vừa học"]
+
+[daudio]BT1.3.2.23.5.mp3[/daudio]
+
+[dans44]Apfel[/dans44]
+[dans44]Preis[/dans44]
+[dans44]Platz[/dans44]
+
+[hidden]Nội dung file nghe: Apfel; Preis; Platz[/hidden]
+
+[/dquiz44]

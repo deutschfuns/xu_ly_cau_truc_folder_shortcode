@@ -1,0 +1,8 @@
+[dquiz3 id="BT3.2.9.4" title="Chọn từ đúng để hoàn thành các câu sau."]
+Meine ___ ist Vietnamesisch.
+[dans3 ans="B"]
+A. Sprachen
+B. Muttersprache
+C. Arbeit
+[/dans3]
+[/dquiz3]

@@ -1,0 +1,8 @@
+[dquiz44 id="BT5.2.5.7.8" title="Chọn từ đúng để điền vào chỗ trống" case-sensitive="false"]
+
+    Im [dans44]Winter[/dans44] ist es sehr kalt.
+    Der erste Tag der Woche ist der [dans44]Montag[/dans44].
+    Der Kompass zeigt den [dans44]Süden[/dans44] an.
+    Ein [dans44]Jahr[/dans44] hat 12 Monate.
+
+[/dquiz44]

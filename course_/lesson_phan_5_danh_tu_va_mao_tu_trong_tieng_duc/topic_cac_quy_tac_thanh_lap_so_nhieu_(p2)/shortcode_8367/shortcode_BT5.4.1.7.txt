@@ -1,0 +1,11 @@
+[dquiz3 id="BT5.4.1.7" title="Chọn dạng số nhiều đúng để hoàn thành câu sau."]
+
+Die ____ sind neu. (Những chiếc điện thoại mới.)
+
+[dans3 ans="B"]
+A. Boote
+B. Telefone
+C. Nächte
+[/dans3]
+
+[/dquiz3]

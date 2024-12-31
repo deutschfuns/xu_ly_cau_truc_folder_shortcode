@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.6.11.2" title="Nối các danh từ với nghĩa tiếng Việt tương ứng"]
+    Nối các danh từ với nghĩa tiếng Việt tương ứng.
+
+    [dans31 ans="1-B,2-C,3-A,4-D"]
+    1. Mutter
+    2. Freundin
+    3. Hündin
+    4. Polizistin
+    A. Chó cái
+    B. Mẹ
+    C. Bạn gái
+    D. Cảnh sát nữ
+    [/dans31]
+
+[/dquiz31]

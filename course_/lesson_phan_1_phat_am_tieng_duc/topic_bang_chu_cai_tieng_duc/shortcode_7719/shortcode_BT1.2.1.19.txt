@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.2.1.19" title="Nghe và chọn chữ cái đúng"]
+    [daudio]BT1.2.1.19.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Y
+    B. W
+    C. ß
+    [/dans3]
+    [hidden]Nội dung file nghe: ß[/hidden]
+[/dquiz3]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.34.15" title="Từ nào sau đây có nghĩa là &quot;Berg&quot;?"]
+    [dans3 ans="A"]
+    A. Núi
+    B. Hạt
+    C. Quảng cáo
+    [/dans3]
+[/dquiz3]

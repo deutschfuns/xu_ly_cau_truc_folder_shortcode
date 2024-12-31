@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.32.5" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-D,2-B,3-A,4-C"]
+    1. Wasser
+    2. Wand
+    3. Wohnung
+    4. Wein
+    A. Căn hộ
+    B. Tường nhà
+    C. Rượu vang
+    D. Nước
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.13.7" title="Từ nào sau đây có nghĩa là &quot;tạp chí&quot;?"]
+    [dans3 ans="B"]
+    A. Junge
+    B. Journal
+    C. Januar
+    [/dans3]
+[/dquiz3]

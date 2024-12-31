@@ -1,0 +1,10 @@
+[dquiz44 id="BT1.4.3.11" title="Điền từ đúng vào chỗ trống"]
+Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+Từ cho sẵn: Zahnärztin, Lehrerin, Koch, Pilot
+
+Cô ấy làm việc tại trường học, cô ấy là một [dans44]Lehrerin[/dans44].
+Bác sĩ chuyên về răng là [dans44]Zahnärztin[/dans44].
+Anh ấy lái máy bay, anh ấy là một [dans44]Pilot[/dans44].
+Anh ấy làm việc trong nhà bếp, anh ấy là một [dans44]Koch[/dans44].
+
+[/dquiz44]

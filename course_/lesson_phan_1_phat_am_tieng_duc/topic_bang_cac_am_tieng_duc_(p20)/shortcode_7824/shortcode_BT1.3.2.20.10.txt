@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.20.10" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.20.10.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="B,C"]
+A. Boot
+B. Brot
+C. froh
+D. Hof
+E. tot
+[/dans19]
+
+[hidden]Nội dung file nghe: Brot; froh[/hidden]
+
+[/dquiz19]

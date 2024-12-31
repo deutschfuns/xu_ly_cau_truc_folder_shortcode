@@ -1,0 +1,13 @@
+[dquiz58 id="BT3.2.5.5" title="Luyện nói"]
+
+    Hãy ghi âm lại cách đánh vần tên của bạn bằng tiếng Đức.
+    Ví dụ: J-O-A-C-H-I-M L-Ö-W
+
+    [hidden]Hãy ghi âm lại cách đánh vần tên của bạn bằng tiếng Đức.
+    Ví dụ: J-O-A-C-H-I-M L-Ö-W[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

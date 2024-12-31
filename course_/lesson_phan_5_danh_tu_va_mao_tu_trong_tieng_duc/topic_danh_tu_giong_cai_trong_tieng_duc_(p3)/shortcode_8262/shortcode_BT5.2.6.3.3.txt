@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.6.3.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.6.3.3.mp3[/daudio]
+    [dans3 ans="B,C"]
+    A. Möglichkeit
+    B. Gerechtigkeit
+    C. Möglichkeit
+    D. Traurigkeit
+    [/dans3]
+    [hidden]Nội dung file nghe: Möglichkeit und Gerechtigkeit[/hidden]
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.18.8" title="Nghe và chọn từ có nghĩa là &quot;nhiều hơn&quot;"]
+    [daudio]BT1.3.2.18.8.mp3[/daudio]
+    [dans3 ans="C"]
+    A. immer
+    B. morgen
+    C. mehr
+    [/dans3]
+    [hidden]Nội dung file nghe: mehr[/hidden]
+[/dquiz3]

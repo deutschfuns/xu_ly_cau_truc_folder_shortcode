@@ -1,0 +1,14 @@
+[dquiz3 id="BT1.6.4.1" title="Nghe đoạn ghi âm và chọn thời gian phù hợp với trạng từ đã nghe."]
+    Nghe đoạn ghi âm và chọn thời gian phù hợp với trạng từ đã nghe.
+    
+    [daudio]BT1.6.4.1.mp3[/daudio]
+    
+    Mấy giờ rồi?
+    [dans3 ans="B"]
+    A. 7 Uhr abends
+    B. 6 Uhr früh
+    C. 11 Uhr nachts
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Es ist sechs Uhr früh.[/hidden]
+[/dquiz3]

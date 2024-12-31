@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.4.2.2" title="Nghe đoạn giới thiệu sau và chọn từ thích hợp từ danh sách cho sẵn để điền vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT1.4.2.2.mp3[/daudio]
+
+    Hallo, guten Tag! Mein Name ist Hasie. Ich bin [dans44]achtzehn[/dans44] Jahre alt. Ich komme aus Vietnam, aber jetzt wohne ich in [dans44]Berlin[/dans44], Deutschland. Beruflich bin ich [dans44]Köchin[/dans44]. Ich spreche Vietnamesisch und ein bisschen [dans44]Deutsch[/dans44]. Meine Hobbys sind Lesen, Musik hören und [dans44]Sport treiben[/dans44].
+
+    [hidden]Nội dung file nghe: Hallo, guten Tag! Mein Name ist Hasie. Ich bin achtzehn Jahre alt. Ich komme aus Vietnam, aber jetzt wohne ich in Berlin, Deutschland. Beruflich bin ich Köchin. Ich spreche Vietnamesisch und ein bisschen Deutsch. Meine Hobbys sind Lesen, Musik hören und Sport treiben.[/hidden]
+
+[/dquiz44]

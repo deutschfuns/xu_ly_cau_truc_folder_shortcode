@@ -1,0 +1,19 @@
+[dquiz58 id="BT5.2.5.4.7" title="Đọc và ghi âm lại các từ sau đây" ]
+
+    Đọc và ghi âm lại các từ sau đây.
+    Kapitalismus
+    Rassismus
+    Tourismus
+    Organismus
+
+    [hidden]Đọc và ghi âm lại các từ sau đây.
+    Kapitalismus
+    Rassismus
+    Tourismus
+    Organismus[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

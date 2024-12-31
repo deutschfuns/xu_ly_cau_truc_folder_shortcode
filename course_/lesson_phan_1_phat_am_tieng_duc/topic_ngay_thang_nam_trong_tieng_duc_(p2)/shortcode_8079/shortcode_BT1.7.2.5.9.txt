@@ -1,0 +1,12 @@
+[dquiz44 id="BT1.7.2.5.9" title="Nghe đoạn ghi âm và điền tên tháng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT1.7.2.5.9.mp3[/daudio]
+
+    Tháng sau tháng tư là [dans44]Mai[/dans44].
+    Tháng trước tháng tám là [dans44]Juli[/dans44].
+    Tháng thứ ba là [dans44]März[/dans44].
+    Tháng cuối cùng trong năm là [dans44]Dezember[/dans44].
+
+    [hidden]Nội dung file nghe: Mai, Juli, März, Dezember[/hidden]
+
+[/dquiz44]

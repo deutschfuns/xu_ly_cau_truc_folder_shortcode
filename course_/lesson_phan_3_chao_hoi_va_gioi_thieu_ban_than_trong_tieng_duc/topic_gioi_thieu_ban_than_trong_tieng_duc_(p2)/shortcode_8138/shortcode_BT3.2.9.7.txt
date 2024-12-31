@@ -1,0 +1,12 @@
+[dquiz3 id="BT3.2.9.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT3.2.9.7.mp3[/daudio]
+    
+    Người nói tên là gì?
+    [dans3 ans="B"]
+    A. Minh
+    B. Nam
+    C. Huy
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Ich heiße Nam und komme aus Vietnam.[/hidden]
+[/dquiz3]

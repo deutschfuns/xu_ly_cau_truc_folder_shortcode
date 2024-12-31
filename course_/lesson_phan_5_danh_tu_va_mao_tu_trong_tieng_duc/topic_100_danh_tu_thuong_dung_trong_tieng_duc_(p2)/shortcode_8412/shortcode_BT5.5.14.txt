@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.5.14" title="Nghe câu và điền từ thích hợp vào chỗ trống"]
+    [daudio]BT5.5.14.mp3[/daudio]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Zusammenarbeit[/dans44] im Team läuft gut.
+    [hidden]Nội dung file nghe: Die Zusammenarbeit im Team läuft gut.[/hidden]
+[/dquiz44]

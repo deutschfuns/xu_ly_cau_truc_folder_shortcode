@@ -1,0 +1,13 @@
+[dquiz37 id="BT5.2.6.5.4" title="Nghe câu và sắp xếp từ thành câu đúng"]
+
+    [daudio]BT5.2.6.5.4.mp3[/daudio]
+
+    [dans37 ans="B-A-C"]
+    A. ist
+    B. Freundschaft
+    C. wichtig
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Freundschaft ist wichtig.[/hidden]
+
+[/dquiz37]

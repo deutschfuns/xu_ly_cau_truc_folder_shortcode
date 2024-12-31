@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.7.7.1" title="Chọn nghĩa tiếng Việt đúng cho các danh từ có đuôi &quot;-nis&quot;"]
+
+    [daudio]V5.2.7_7.mp4[/daudio]
+
+    Ergebnis
+    [dans3 ans="B"]
+    A. Trải nghiệm
+    B. Kết quả
+    C. Di sản
+    [/dans3]
+
+    Verhältnis
+    [dans3 ans="C"]
+    A. Sự kiện
+    B. Bằng chứng
+    C. Mối quan hệ
+    [/dans3]
+
+[/dquiz3]

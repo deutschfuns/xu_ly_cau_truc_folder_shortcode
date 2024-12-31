@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.10" title="Từ nào sau đây có nghĩa là &quot;rộng lớn&quot;?"]
+    [dans3 ans="B"]
+    A. heiß
+    B. breit
+    C. leise
+    D. frei
+    [/dans3]
+[/dquiz3]

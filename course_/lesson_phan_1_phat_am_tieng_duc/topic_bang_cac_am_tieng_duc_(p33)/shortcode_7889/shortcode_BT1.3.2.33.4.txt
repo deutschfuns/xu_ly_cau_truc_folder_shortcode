@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.33.4" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Tôi muốn đi thăm __ vào cuối tuần này.
+    [dans3 ans="C"]
+    A. Zucker
+    B. Zimmer
+    C. Zoo
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,11 @@
+[dquiz58 id="BT3.2.9.10" title="Luyện nói"]
+
+Hãy ghi âm lại phần tự giới thiệu bản thân bằng tiếng Đức, bao gồm các thông tin sau: tên, nghề nghiệp, sở thích và ngôn ngữ mà bạn nói.
+
+[hidden]Hãy ghi âm lại phần tự giới thiệu bản thân bằng tiếng Đức, bao gồm các thông tin sau: tên, nghề nghiệp, sở thích và ngôn ngữ mà bạn nói.[/hidden]
+
+[prompt]
+    [sc name="prompt57"][/sc]
+[/prompt]
+
+[/dquiz58]

@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.35.4" title="Nghe và chọn nghĩa tiếng Việt"]
+    [daudio]BT1.3.2.35.4.mp3[/daudio]
+    [hidden]Nội dung file nghe: Europa[/hidden]
+
+    [dans3 ans="C"]
+    A. Lửa
+    B. Nhà
+    C. Châu Âu
+    [/dans3]
+[/dquiz3]

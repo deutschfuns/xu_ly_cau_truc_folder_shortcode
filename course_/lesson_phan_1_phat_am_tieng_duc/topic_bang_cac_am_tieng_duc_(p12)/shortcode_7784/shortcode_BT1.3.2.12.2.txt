@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.12.2" title="Đọc và ghi âm lại nội dung sau" ]
+
+Hãy đọc và ghi âm lại nội dung sau: 
+Ritter
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau: 
+Ritter[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

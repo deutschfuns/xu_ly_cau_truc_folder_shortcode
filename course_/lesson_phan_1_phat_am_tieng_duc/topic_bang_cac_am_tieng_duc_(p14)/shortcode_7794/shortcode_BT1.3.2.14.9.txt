@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.14.9" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-A,3-D,4-B"]
+    1. Kind
+    2. Klasse
+    3. Kleid
+    4. König
+    A. Lớp học
+    B. Vua
+    C. Trẻ con
+    D. Váy
+    [/dans31]
+[/dquiz31]

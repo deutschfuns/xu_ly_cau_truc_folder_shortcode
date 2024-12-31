@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.5.2.2" title="Đọc và ghi âm lại nội dung sau"]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Vierzehn, siebzehn
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Vierzehn, siebzehn[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

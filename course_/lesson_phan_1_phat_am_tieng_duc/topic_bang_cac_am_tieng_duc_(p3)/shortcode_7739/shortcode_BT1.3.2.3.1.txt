@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.3.1" title="Nghe và chọn những đáp án đúng sau đây"]
+
+    [daudio file="BT1.3.2.3.1.mp3"]
+
+    Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+    [dans19 ans="C,D"]
+    A. Käse
+    B. Strände
+    C. Märchen
+    D. Bär
+    E. Ämter
+    [/dans19]
+
+    [hidden]Nội dung file nghe: Märchen; Bär[/hidden]
+
+[/dquiz19]

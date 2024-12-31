@@ -1,0 +1,8 @@
+[dquiz3 id="BT3.2.9.5" title="Chọn câu trả lời đúng"]
+    Welche Sprachen sprechen Sie?
+    [dans3 ans="C"]
+    A. Ich bin Lehrer.
+    B. Meine Muttersprache ist Deutsch.
+    C. Meine Muttersprache ist Vietnamesisch, und jetzt lerne ich Deutsch.
+    [/dans3]
+[/dquiz3]

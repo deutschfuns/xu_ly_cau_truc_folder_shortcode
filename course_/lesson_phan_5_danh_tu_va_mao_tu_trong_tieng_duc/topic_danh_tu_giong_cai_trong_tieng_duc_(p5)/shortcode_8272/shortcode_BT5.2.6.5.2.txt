@@ -1,0 +1,10 @@
+[dquiz37 id="BT5.2.6.5.2" title="Nghe và sắp xếp từ thành câu"]
+    [daudio]BT5.2.6.5.2.mp3[/daudio]
+    [dans37 ans="A-C-B-D"]
+    A. Die
+    B. ist
+    C. Wissenschaft
+    D. spannend
+    [/dans37]
+    [hidden]Nội dung file nghe: Die Wissenschaft ist spannend.[/hidden]
+[/dquiz37]

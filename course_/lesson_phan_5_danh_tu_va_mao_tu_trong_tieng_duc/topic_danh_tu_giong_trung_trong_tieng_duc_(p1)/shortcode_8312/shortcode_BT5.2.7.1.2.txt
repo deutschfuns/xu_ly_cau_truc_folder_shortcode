@@ -1,0 +1,15 @@
+[dquiz31 id="BT5.2.7.1.2" title="Nối các danh từ có đuôi &quot;-chen&quot; với nghĩa tiếng Việt tương ứng"]
+Nối các danh từ có đuôi &quot;-chen&quot; với nghĩa tiếng Việt tương ứng.
+
+[dans31 ans="1-A,2-D,3-B,4-C"]
+1. Mädchen
+2. Häuschen
+3. Kätzchen
+4. Brötchen
+A. Cô gái
+B. Mèo con
+C. Bánh mì nhỏ
+D. Ngôi nhà nhỏ
+[/dans31]
+
+[/dquiz31]

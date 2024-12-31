@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.3.8" title="Từ nào sau đây có nghĩa là &quot;những bàn tay&quot;?"]
+    [dans3 ans="B"]
+    A. Länder
+    B. Hände
+    C. Männchen
+    [/dans3]
+[/dquiz3]

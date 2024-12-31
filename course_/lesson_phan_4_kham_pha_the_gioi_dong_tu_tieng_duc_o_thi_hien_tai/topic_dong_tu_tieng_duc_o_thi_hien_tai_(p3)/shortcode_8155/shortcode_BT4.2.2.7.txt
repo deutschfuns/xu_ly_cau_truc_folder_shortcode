@@ -1,0 +1,8 @@
+[dquiz44 id="BT4.2.2.7" title="Hãy chia các động từ bất quy tắc trong ngoặc theo thì hiện tại"]
+
+    Ich [dans44]lese[/dans44] (lesen) ein spannendes Buch.
+    Ihr [dans44]esst[/dans44] (essen) das Frühstück in der Küche.
+    Sie [dans44]fahren[/dans44] (fahren) mit dem Bus zur Schule.
+    Sehen Sie den Vogel im Garten? Ja, ich [dans44]sehe[/dans44] (sehen) ihn.
+
+[/dquiz44]

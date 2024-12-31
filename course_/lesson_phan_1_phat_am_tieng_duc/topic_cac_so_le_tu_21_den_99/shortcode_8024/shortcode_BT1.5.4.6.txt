@@ -1,0 +1,18 @@
+[dquiz31 id="BT1.5.4.6" title="Nối các số sau đây với nghĩa phù hợp"]
+
+Nối các số sau đây với nghĩa phù hợp:
+
+[dans31 ans="1-D,2-B,3-C,4-A"]
+
+1. siebenundsiebzig
+2. dreiundfünfzig
+3. vierunddreißig
+4. neunundachtzig
+A. 89
+B. 53
+C. 34
+D. 77
+
+[/dans31]
+
+[/dquiz31]

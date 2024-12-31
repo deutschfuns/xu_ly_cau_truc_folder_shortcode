@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.4.1.13" title="Nghe câu và chọn dạng số nhiều đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.4.1.13.mp3[/daudio]
+
+    Die ____ spielen im Garten.
+    [dans3 ans="C"]
+    A. Wörter
+    B. Bilder
+    C. Kinder
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Kinder spielen im Garten.[/hidden]
+
+[/dquiz3]

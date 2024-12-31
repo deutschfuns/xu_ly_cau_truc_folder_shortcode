@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.9.14" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.9.14.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Brücke[/dans44] ist lang und breit.
+
+    [hidden]Nội dung file nghe: Die Brücke ist lang und breit.[/hidden]
+
+[/dquiz44]

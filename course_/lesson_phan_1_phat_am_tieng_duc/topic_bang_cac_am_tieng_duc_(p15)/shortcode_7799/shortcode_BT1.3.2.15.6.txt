@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.15.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-B,3-D,4-A"]
+    1. Licht
+    2. Land
+    3. Luft
+    4. lachen
+    A. Cười
+    B. Đất nước, nông thôn
+    C. Ánh sáng
+    D. Không khí
+    [/dans31]
+[/dquiz31]

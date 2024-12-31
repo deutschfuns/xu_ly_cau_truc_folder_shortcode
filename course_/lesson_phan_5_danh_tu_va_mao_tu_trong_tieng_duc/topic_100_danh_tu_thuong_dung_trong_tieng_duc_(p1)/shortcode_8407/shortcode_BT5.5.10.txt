@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.10" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+
+    1. Das Zimmer
+    [dans46]
+
+    2. Die Straße
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        1. Das Zimmer {{input}}
+        2. Die Straße {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

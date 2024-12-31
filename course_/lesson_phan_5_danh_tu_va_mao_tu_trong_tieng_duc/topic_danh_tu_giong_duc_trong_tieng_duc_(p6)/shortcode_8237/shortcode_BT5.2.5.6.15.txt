@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.6.15" title="Chọn từ đúng dựa trên mô tả về động vật"]
+
+Der ____ ist ein männlicher Löwe.
+[dans3 ans="B"]
+A. Stier
+B. Löwe
+C. Hengst
+D. Kater
+[/dans3]
+
+Der ____ ist ein männliches Schaf.
+[dans3 ans="B"]
+A. Bock
+B. Widder
+C. Eber
+D. Hahn
+[/dans3]
+
+[/dquiz3]

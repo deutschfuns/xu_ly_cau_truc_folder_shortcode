@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.5.4" title="Chọn từ đúng để trả lời câu hỏi."]
+
+Wer fährt das Auto?
+[dans3 ans="B"]
+A. Der Maler
+B. Der Fahrer
+C. Der Lehrer
+D. Der Bäcker
+[/dans3]
+
+Wer arbeitet auf dem Feld?
+[dans3 ans="A"]
+A. Der Bauer
+B. Der Schüler
+C. Der Kellner
+D. Der Retter
+[/dans3]
+
+[/dquiz3]

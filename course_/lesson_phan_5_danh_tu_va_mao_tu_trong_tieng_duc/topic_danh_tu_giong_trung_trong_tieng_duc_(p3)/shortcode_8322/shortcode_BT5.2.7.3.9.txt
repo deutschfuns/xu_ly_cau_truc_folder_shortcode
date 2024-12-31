@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.7.3.9" title="Nghe câu sau và điền từ đúng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.2.7.3.9.mp3[/daudio]
+
+    Hier ist das [dans44]Dokument[/dans44].
+
+    [hidden]Nội dung file nghe: Hier ist das Dokument.[/hidden]
+
+[/dquiz44]

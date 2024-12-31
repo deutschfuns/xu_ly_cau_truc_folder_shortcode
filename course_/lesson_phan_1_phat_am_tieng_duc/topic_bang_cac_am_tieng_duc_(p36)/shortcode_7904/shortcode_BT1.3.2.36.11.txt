@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.36.11" title="Từ nào sau đây là đại từ sở hữu?"]
+    [dans3 ans="D"]
+    A. Wein
+    B. Ei
+    C. Kleidung
+    D. mein
+    [/dans3]
+[/dquiz3]

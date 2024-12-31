@@ -1,0 +1,12 @@
+[dquiz3 id="BT3.1.6.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT3.1.6.3.mp3[/daudio]
+    
+    Người nói đang làm gì?
+    [dans3 ans="C"]
+    A. Xin cảm ơn
+    B. Xin nhắc lại điều gì đó
+    C. Xin lỗi và yêu cầu lặp lại câu hỏi
+    [/dans3]
+    
+    [hidden]Nội dung file nghe: Entschuldigung, können Sie das bitte wiederholen?[/hidden]
+[/dquiz3]

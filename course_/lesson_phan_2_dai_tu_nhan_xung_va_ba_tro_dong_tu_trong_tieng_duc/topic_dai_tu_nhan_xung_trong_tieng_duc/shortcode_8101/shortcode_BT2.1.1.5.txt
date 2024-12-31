@@ -1,0 +1,6 @@
+[dquiz44 id="BT2.1.1.5" title="Nghe và hoàn thành câu"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    [daudio]BT2.1.1.5.mp3[/daudio]
+    [dans44]Du[/dans44] bist mein bester Freund.
+    [hidden]Nội dung file nghe: Du bist mein bester Freund.[/hidden]
+[/dquiz44]

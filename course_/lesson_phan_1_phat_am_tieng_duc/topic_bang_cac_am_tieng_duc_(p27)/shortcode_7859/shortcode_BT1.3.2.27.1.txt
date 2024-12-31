@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.27.1" title="Chọn đáp án đúng để hoàn thành câu sau:"]
+    [daudio]V1.3.2_27.mp4[/daudio]
+
+    ___ là một hoạt động thể thao phổ biến.
+    [dans3 ans="B"]
+    A. Schweiß
+    B. Fußball
+    C. schließen
+    [/dans3]
+
+[/dquiz3]

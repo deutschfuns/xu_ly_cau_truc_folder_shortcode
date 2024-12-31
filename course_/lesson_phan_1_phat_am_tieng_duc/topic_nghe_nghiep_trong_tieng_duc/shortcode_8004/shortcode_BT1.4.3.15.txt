@@ -1,0 +1,11 @@
+[dquiz37 id="BT1.4.3.15" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.4.3.15.mp3[/daudio]
+
+    [dans37 ans="B-C-A"]
+    A. Polizistin
+    B. Sie
+    C. ist
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Sie ist Polizistin[/hidden]
+[/dquiz37]

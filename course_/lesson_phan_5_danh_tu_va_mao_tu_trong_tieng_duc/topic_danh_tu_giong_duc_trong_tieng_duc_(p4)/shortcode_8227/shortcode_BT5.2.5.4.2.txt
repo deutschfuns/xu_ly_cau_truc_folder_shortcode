@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.4.2" title="Chọn nghĩa đúng của các từ sau."]
+
+Organismus
+[dans3 ans="C"]
+A. Ngành báo chí
+B. Chủ nghĩa tư bản
+C. Sinh vật, cơ thể sống
+D. Chủ nghĩa cộng sản
+[/dans3]
+
+Polytheismus
+[dans3 ans="A"]
+A. Chủ nghĩa đa thần
+B. Chủ nghĩa duy vật
+C. Chủ nghĩa phân biệt giới tính
+D. Chủ nghĩa phân biệt chủng tộc
+[/dans3]
+
+[/dquiz3]

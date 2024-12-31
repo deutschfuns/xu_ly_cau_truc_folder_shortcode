@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.3.3.4.20" title="Nghe câu và điền mạo từ xác định đúng vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.3.3.4.20.mp3[/daudio]
+
+    Die Häuser sind im Stadtzentrum. [dans44]Die[/dans44]
+
+    [hidden]Nội dung file nghe: Die Häuser sind im Stadtzentrum.[/hidden]
+
+[/dquiz44]

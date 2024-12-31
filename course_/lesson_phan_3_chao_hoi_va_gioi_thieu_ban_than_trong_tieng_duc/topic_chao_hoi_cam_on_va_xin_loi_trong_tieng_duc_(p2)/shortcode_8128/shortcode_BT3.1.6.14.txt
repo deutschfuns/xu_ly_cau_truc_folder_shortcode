@@ -1,0 +1,14 @@
+[dquiz46 id="BT3.1.6.14" title="Luyện viết"]
+    Hãy viết 3 câu xin lỗi khác nhau bằng tiếng Đức.
+    
+    [dans46]
+    [dans46]
+    [dans46]
+
+    [hidden]Hãy viết 3 câu xin lỗi khác nhau bằng tiếng Đức.{{input}} {{input}} {{input}}[/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

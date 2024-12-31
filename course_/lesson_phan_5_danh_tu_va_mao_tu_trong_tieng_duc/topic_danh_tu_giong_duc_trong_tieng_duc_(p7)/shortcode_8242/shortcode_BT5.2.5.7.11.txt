@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.2.5.7.11" title="Nghe và viết lại từ đã nghe"]
+
+    [daudio]BT5.2.5.7.11.mp3[/daudio]
+
+    [dans44]Dezember[/dans44]
+
+    [hidden]Nội dung file nghe: Dezember[/hidden]
+
+[/dquiz44]

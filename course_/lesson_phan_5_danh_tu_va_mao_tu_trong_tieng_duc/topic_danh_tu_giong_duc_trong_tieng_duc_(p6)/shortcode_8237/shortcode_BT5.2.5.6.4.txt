@@ -1,0 +1,10 @@
+[dquiz3 id="BT5.2.5.6.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT5.2.5.6.4.mp3[/daudio]
+    [dans3 ans="D"]
+    A. Bruder
+    B. Vater
+    C. Sohn
+    D. Onkel
+    [/dans3]
+    [hidden]Nội dung file nghe: Onkel[/hidden]
+[/dquiz3]

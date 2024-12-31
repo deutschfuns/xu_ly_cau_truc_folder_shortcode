@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.21.9" title="Chọn từ phù hợp với nghĩa của từ &quot;ngày mai&quot;&quot;]
+
+[dans3 ans="B"]
+A. hoffen
+B. morgen
+C. Kopf
+[/dans3]
+
+[/dquiz3]

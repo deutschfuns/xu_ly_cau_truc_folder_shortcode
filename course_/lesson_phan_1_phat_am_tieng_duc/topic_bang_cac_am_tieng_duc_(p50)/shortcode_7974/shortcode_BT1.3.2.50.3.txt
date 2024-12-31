@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.50.3" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.50.3.mp3[/daudio]
+    [hidden]Nội dung file nghe: Grenze[/hidden]
+    
+    [dans3 ans="C"]
+    A. groß
+    B. Gruppe
+    C. Grenze
+    [/dans3]
+[/dquiz3]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.49.7" title="Chọn từ phù hợp để điền vào câu sau"]
+    Trong bếp, tôi luôn cần một ít __ để nêm nếm món ăn.
+    [dans3 ans="C"]
+    A. Pfanne
+    B. Pflege
+    C. Pfeffer
+    [/dans3]
+[/dquiz3]

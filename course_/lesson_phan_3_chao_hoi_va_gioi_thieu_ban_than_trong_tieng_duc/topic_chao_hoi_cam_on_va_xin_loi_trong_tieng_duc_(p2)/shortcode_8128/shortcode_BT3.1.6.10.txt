@@ -1,0 +1,18 @@
+[dquiz46 id="BT3.1.6.10" title="Sắp xếp các từ sau để tạo thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+
+    Sie / können / das / wiederholen / bitte / ?
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+        Sie / können / das / wiederholen / bitte / ?
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

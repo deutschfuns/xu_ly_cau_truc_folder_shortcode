@@ -1,0 +1,17 @@
+[dquiz58 id="BT5.2.5.1.4" title="Đọc và ghi âm lại những danh từ có đuôi &quot;ig&quot; sau" ]
+
+    Đọc và ghi âm lại những danh từ có đuôi "ig" sau:
+    König
+    Teig
+    Honig
+
+    [hidden]Đọc và ghi âm lại những danh từ có đuôi "ig" sau:
+    König
+    Teig
+    Honig[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

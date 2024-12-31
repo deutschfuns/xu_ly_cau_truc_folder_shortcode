@@ -1,0 +1,18 @@
+[dquiz46 id="BT5.2.6.11.10" title="Sắp xếp các từ sau để tạo thành câu đúng"]
+
+    Sắp xếp các từ sau để tạo thành câu đúng.
+
+    Die / ist / groß / Kuh.
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu đúng.
+        Die / ist / groß / Kuh.
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

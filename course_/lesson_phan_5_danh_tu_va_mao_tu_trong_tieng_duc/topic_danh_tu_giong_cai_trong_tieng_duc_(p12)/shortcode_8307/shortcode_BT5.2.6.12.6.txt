@@ -1,0 +1,10 @@
+[dquiz37 id="BT5.2.6.12.6" title="Sắp xếp các từ sau để tạo thành câu đúng"]
+    [daudio]BT5.2.6.12.6.mp3[/daudio]
+    [dans37 ans="A-B-C-D"]
+    A. Die
+    B. Orange
+    C. ist
+    D. frisch
+    [/dans37]
+    [hidden]Nội dung file nghe: Die Orange ist frisch.[/hidden]
+[/dquiz37]

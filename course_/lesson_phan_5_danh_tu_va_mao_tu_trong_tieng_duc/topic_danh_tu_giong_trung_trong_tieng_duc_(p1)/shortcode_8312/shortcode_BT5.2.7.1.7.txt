@@ -1,0 +1,6 @@
+[dquiz44 id="BT5.2.7.1.7" title="Nghe câu và điền từ thích hợp vào chỗ trống"]
+    [daudio]BT5.2.7.1.7.mp3[/daudio]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Das [dans44]Kätzchen[/dans44] schläft im Bettchen.
+    [hidden]Nội dung file nghe: Das Kätzchen schläft im Bettchen.[/hidden]
+[/dquiz44]

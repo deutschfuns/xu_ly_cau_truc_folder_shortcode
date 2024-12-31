@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.7.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.7.4.mp3[/daudio]
+    [dans3 ans="C"]
+    A. Esel
+    B. Energie
+    C. Ende
+    [/dans3]
+    [hidden]Nội dung file nghe: Ende[/hidden]
+[/dquiz3]

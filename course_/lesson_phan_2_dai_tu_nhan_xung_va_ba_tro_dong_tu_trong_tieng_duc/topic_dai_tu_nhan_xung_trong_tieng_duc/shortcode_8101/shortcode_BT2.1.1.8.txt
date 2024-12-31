@@ -1,0 +1,9 @@
+[dquiz3 id="BT2.1.1.8" title="Điền đại từ nhân xưng phù hợp vào chỗ trống"]
+    Maria ist meine Schwester. ___ wohnt in Hamburg.
+    [dans3 ans="D"]
+    A. Er
+    B. Du
+    C. Es
+    D. Sie
+    [/dans3]
+[/dquiz3]

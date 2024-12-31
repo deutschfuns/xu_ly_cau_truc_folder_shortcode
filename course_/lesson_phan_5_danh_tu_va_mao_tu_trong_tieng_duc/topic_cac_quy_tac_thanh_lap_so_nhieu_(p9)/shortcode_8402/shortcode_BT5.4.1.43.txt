@@ -1,0 +1,7 @@
+[dquiz44 id="BT5.4.1.43" title="Điền danh từ số ít thích hợp vào chỗ trống"]
+
+Ich habe heute viel [dans44]Zeit[/dans44].
+
+[hidden]Ich habe heute viel {{input}}.[/hidden]
+
+[/dquiz44]

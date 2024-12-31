@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.3.2" title="Từ nào sau đây có nghĩa là &quot;phô mai&quot;?"]
+    [dans3 ans="A"]
+    A. Käse
+    B. Äpfel
+    C. Märchen
+    [/dans3]
+[/dquiz3]

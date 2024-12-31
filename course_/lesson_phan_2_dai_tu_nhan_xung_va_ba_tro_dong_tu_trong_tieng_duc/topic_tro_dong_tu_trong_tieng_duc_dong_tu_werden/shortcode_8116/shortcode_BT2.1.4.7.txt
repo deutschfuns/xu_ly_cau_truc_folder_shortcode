@@ -1,0 +1,9 @@
+[dquiz3 id="BT2.1.4.7" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT2.1.4.7.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ich werde Arzt.
+    B. Du wirst Arzt.
+    C. Er wird Arzt.
+    [/dans3]
+    [hidden]Nội dung file nghe: Du wirst Arzt.[/hidden]
+[/dquiz3]

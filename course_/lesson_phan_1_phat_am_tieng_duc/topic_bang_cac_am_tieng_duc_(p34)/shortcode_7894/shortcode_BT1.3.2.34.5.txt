@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.34.5" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.34.5.mp3[/daudio]
+
+    [dans37 ans="A-C-D-B"]
+    A. Ich
+    B. Lehrer
+    C. bin
+    D. ein
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Ich bin ein Lehrer[/hidden]
+[/dquiz37]

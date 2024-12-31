@@ -1,0 +1,17 @@
+[dquiz3 id="BT4.2.6.2" title="Chọn dạng chia đúng của động từ trong các câu sau."]
+
+Du ___ (grüßen) deine Freunde.
+[dans3 ans="B"]
+A. grüßst
+B. grüßt
+C. grüßest
+[/dans3]
+
+Ihr ___ (halten) den Tisch.
+[dans3 ans="B"]
+A. hältet
+B. haltet
+C. haltetst
+[/dans3]
+
+[/dquiz3]

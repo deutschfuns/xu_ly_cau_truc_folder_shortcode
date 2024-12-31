@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.4.2.1" title="Đọc và ghi âm lại nội dung sau" ]
+
+Hãy đọc và ghi âm lại nội dung sau:
+Hallo! Ich heiße Hasie. Ich komme aus Vietnam. Ich wohne in Berlin. Ich bin Köchin.
+
+[hidden]Hãy đọc và ghi âm lại nội dung sau:
+Hallo! Ich heiße Hasie. Ich komme aus Vietnam. Ich wohne in Berlin. Ich bin Köchin.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

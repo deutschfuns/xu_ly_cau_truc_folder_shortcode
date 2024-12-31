@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.42.4" title="Từ nào sau đây có nghĩa là &quot;hình dạng&quot;?"]
+    [dans3 ans="C"]
+    A. Chor
+    B. Motor
+    C. Form
+    [/dans3]
+[/dquiz3]

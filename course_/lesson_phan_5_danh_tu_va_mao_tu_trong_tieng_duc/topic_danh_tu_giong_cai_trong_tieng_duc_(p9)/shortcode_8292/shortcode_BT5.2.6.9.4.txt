@@ -1,0 +1,10 @@
+[dquiz44 id="BT5.2.6.9.4" title="Nghe và điền từ" case-sensitive="false"]
+
+    [daudio]BT5.2.6.9.4.mp3[/daudio]
+
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Die [dans44]Straße[/dans44] ist sehr lang.
+
+    [hidden]Nội dung file nghe: Die Straße ist sehr lang.[/hidden]
+
+[/dquiz44]

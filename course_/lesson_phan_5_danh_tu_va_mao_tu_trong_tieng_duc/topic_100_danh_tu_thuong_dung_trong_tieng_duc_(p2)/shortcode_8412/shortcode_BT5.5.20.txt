@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.20" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+    Die Zusammenarbeit
+    [dans46]
+    Der Frieden
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        Die Zusammenarbeit
+        {{input}}
+        Der Frieden
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

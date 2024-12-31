@@ -1,0 +1,7 @@
+[dquiz3 id="BT2.1.3.5" title="Đọc và chọn câu trả lời chính xác"]
+    [dans3 ans="B"]
+    A. Er haben ein Buch.
+    B. Er hat ein Buch.
+    C. Er habst ein Buch.
+    [/dans3]
+[/dquiz3]

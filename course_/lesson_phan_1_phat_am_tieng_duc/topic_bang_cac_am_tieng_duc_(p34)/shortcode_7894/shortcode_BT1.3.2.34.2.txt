@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.3.2.34.2" title="Điền từ đúng vào chỗ trống:"]
+    Chú ý: Đừng quên viết hoa đầu câu và danh từ nhé!
+    Từ cho sẵn: fern, Kern, Wert, Termin
+
+    (1) Tôi có một [dans44]Termin[/dans44] với bác sĩ vào ngày mai.
+    (2) Quả táo này có một [dans44]Kern[/dans44] ở giữa.
+    (3) Chiếc nhẫn này có [dans44]Wert[/dans44] tinh thần rất lớn đối với tôi.
+    (4) Nhà của tôi rất [dans44]fern[/dans44] so với trường học.
+[/dquiz44]

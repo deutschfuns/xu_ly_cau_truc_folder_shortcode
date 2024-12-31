@@ -1,0 +1,7 @@
+[dquiz3 id="BT1.3.2.17.9" title="Từ nào sau đây có nghĩa là &quot;gương&quot;?"]
+    [dans3 ans="C"]
+    A. Himmel
+    B. Onkel
+    C. Spiegel
+    [/dans3]
+[/dquiz3]

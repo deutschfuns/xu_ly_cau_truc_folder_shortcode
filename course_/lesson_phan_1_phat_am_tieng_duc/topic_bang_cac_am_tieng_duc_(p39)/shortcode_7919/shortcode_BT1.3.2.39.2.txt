@@ -1,0 +1,17 @@
+[dquiz19 id="BT1.3.2.39.2" title="Nghe và chọn những đáp án đúng sau đây"]
+
+[daudio file="BT1.3.2.39.2.mp3"]
+
+Câu hỏi: Đáp án nào sau đây có trong file nghe?
+
+[dans19 ans="C,E"]
+A. wir
+B. Bier
+C. dir
+D. Papier
+E. Tier
+[/dans19]
+
+[hidden]Nội dung file nghe: dir; Tier[/hidden]
+
+[/dquiz19]

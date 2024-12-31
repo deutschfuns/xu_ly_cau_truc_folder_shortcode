@@ -1,0 +1,12 @@
+[dquiz37 id="BT1.3.2.36.8" title="Nghe và sắp xếp từ để tạo thành câu"]
+    [daudio]BT1.3.2.36.8.mp3[/daudio]
+
+    [dans37 ans="D-A-B-C"]
+    A. Zeit
+    B. ist
+    C. kostbar
+    D. Die
+    [/dans37]
+
+    [hidden]Nội dung file nghe: Die Zeit ist kostbar.[/hidden]
+[/dquiz37]

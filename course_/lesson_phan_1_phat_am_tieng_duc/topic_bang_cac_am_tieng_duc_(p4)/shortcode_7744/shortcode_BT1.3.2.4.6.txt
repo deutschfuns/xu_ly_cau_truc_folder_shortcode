@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.4.6" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-A,2-B,3-D,4-C"]
+    1. Abend
+    2. Blume
+    3. Bein
+    4. Bruder
+    A. Buổi tối
+    B. Hoa
+    C. Anh trai, em trai
+    D. Chân
+    [/dans31]
+[/dquiz31]

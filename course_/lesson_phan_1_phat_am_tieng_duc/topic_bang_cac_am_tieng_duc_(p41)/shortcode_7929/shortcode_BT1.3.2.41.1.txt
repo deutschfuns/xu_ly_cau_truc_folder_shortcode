@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.3.2.41.1" title="Từ nào sau đây có nghĩa là &quot;người hướng dẫn&quot;?"]
+
+    [daudio]V1.3.2_41.mp4[/daudio]
+
+    [dans3 ans="B"]
+    A. Bürger
+    B. Führer
+    C. Tür
+    [/dans3]
+
+[/dquiz3]

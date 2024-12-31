@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.3.2.9.3" title="Đọc và ghi âm lại từ" ]
+
+Hãy đọc và ghi âm lại từ sau:
+Freund
+
+[hidden]Hãy đọc và ghi âm lại từ sau:
+Freund[/hidden]
+
+[prompt]
+    [sc name="prompt54"][/sc]
+[/prompt]
+
+[/dquiz58]

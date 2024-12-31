@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.4.3.21" title="Đọc các từ sau đây và nối chúng với nghĩa phù hợp"]
+    [dans31 ans="1-C,2-B,3-D,4-A"]
+    1. Schauspielerin
+    2. Elektriker
+    3. Buchhalterin
+    4. Krankenpfleger
+    A. Y tá nam
+    B. Thợ điện nam
+    C. Diễn viên nữ
+    D. Kế toán nữ
+    [/dans31]
+[/dquiz31]

@@ -1,0 +1,24 @@
+[dquiz3 id="BT1.5.7.2" title="Đọc các số sau và chọn đáp án đúng"]
+
+Số 101
+[dans3 ans="C"]
+A. ein-hundert-zwei
+B. zwei-hundert-eins
+C. ein-hundert-eins
+[/dans3]
+
+Số 333
+[dans3 ans="B"]
+A. zwei-hundert-drei-und-dreißig
+B. drei-hundert-drei-und-dreißig
+C. vier-hundert-drei-und-dreißig
+[/dans3]
+
+Số 555
+[dans3 ans="A"]
+A. fünf-hundert-fünf-und-fünfzig
+B. sechs-hundert-fünf-und-fünfzig
+C. vier-hundert-fünf-und-fünfzig
+[/dans3]
+
+[/dquiz3]

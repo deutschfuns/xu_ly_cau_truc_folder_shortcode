@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.7.2.5.14" title="Luyện nói" ]
+
+Hãy ghi âm lại 1 câu nói về ngày sinh nhật của bạn bằng tiếng Đức.
+Ví dụ: Ich habe am fünften Oktober Geburtstag.
+
+[hidden]Hãy ghi âm lại 1 câu nói về ngày sinh nhật của bạn bằng tiếng Đức.
+Ví dụ: Ich habe am fünften Oktober Geburtstag.[/hidden]
+
+[prompt]
+    [sc name="prompt57"][/sc]
+[/prompt]
+
+[/dquiz58]

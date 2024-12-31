@@ -1,0 +1,9 @@
+[dquiz3 id="BT2.1.3.7" title="Nghe đoạn âm thanh và chọn đáp án đúng"]
+    [daudio]BT2.1.3.7.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Ich habe eine Tasche.
+    B. Du hast eine Tasche.
+    C. Er hat eine Tasche.
+    [/dans3]
+    [hidden]Nội dung file nghe: Du hast eine Tasche.[/hidden]
+[/dquiz3]

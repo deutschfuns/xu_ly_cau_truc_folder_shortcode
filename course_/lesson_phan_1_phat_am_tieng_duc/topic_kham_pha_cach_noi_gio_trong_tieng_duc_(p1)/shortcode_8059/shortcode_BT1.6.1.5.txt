@@ -1,0 +1,17 @@
+[dquiz58 id="BT1.6.1.5" title="Đọc và ghi âm lại" ]
+
+Đọc và ghi âm lại các câu sau về giờ bằng tiếng Đức.
+Es ist Viertel vor sieben.
+Es ist halb neun.
+Es ist fünf nach elf.
+
+[hidden]Đọc và ghi âm lại các câu sau về giờ bằng tiếng Đức.
+Es ist Viertel vor sieben.
+Es ist halb neun.
+Es ist fünf nach elf.[/hidden]
+
+[prompt]
+    [sc name="prompt55"][/sc]
+[/prompt]
+
+[/dquiz58]

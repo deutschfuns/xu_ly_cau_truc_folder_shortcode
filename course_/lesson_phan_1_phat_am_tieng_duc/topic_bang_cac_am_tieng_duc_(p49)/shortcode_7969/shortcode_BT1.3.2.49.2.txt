@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.49.2" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.49.2.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Pferd
+    B. Apfel
+    C. Pfad
+    [/dans3]
+    [hidden]Nội dung file nghe: Apfel[/hidden]
+[/dquiz3]

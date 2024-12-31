@@ -1,0 +1,11 @@
+[dquiz3 id="BT1.7.2.5.7" title="Nghe đoạn ghi âm và chọn đáp án đúng"]
+    [daudio]BT1.7.2.5.7.mp3[/daudio]
+    [hidden]Nội dung file nghe: Freitag[/hidden]
+
+    [dans3 ans="D"]
+    A. Montag
+    B. Dienstag
+    C. Donnerstag
+    D. Freitag
+    [/dans3]
+[/dquiz3]

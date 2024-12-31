@@ -1,0 +1,13 @@
+[dquiz58 id="BT1.5.8.3.7" title="Đọc và ghi âm lại dãy số thứ tự" ]
+
+Hãy đọc và ghi âm lại dãy số thứ tự sau:
+Zwanzigste, einundzwanzigste, zweiundzwanzigste, dreiundzwanzigste.
+
+[hidden]Hãy đọc và ghi âm lại dãy số thứ tự sau:
+Zwanzigste, einundzwanzigste, zweiundzwanzigste, dreiundzwanzigste.[/hidden]
+
+[prompt]
+    [sc name="prompt58"][/sc]
+[/prompt]
+
+[/dquiz58]

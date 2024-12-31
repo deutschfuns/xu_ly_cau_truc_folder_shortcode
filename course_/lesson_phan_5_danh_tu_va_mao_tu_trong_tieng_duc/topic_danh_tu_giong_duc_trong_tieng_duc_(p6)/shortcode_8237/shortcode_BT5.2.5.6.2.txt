@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.6.2" title="Chọn nghĩa tiếng Việt đúng cho các từ sau."]
+
+Stier
+[dans3 ans="B"]
+A. Sư tử đực
+B. Bò đực
+C. Mèo đực
+D. Chó đực
+[/dans3]
+
+Hengst
+[dans3 ans="A"]
+A. Ngựa đực
+B. Dê đực
+C. Lợn đực
+D. Gà trống
+[/dans3]
+
+[/dquiz3]

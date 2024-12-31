@@ -1,0 +1,12 @@
+[dquiz31 id="BT1.3.2.24.10" title="Nối từ với nghĩa tương ứng"]
+    [dans31 ans="1-D,2-B,3-C,4-A"]
+    1. Qualität
+    2. Quarantäne
+    3. Quiz
+    4. bequem
+    A. Thoải mái
+    B. Cách ly
+    C. Trò chơi câu đố
+    D. Chất lượng
+    [/dans31]
+[/dquiz31]

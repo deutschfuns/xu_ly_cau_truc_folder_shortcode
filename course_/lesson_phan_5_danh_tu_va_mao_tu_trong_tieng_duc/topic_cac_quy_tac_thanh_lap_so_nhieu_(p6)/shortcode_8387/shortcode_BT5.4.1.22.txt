@@ -1,0 +1,14 @@
+[dquiz3 id="BT5.4.1.22" title="Nghe câu và chọn dạng số nhiều đúng để hoàn thành câu sau."]
+
+    [daudio]BT5.4.1.22.mp3[/daudio]
+
+    Die ____ sind draußen.
+    [dans3 ans="B"]
+    A. Teams
+    B. Taxis
+    C. Sofas
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Die Taxis sind draußen.[/hidden]
+
+[/dquiz3]

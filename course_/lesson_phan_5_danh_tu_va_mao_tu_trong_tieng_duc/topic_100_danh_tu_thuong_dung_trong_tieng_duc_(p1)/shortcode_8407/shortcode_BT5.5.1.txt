@@ -1,0 +1,9 @@
+[dquiz44 id="BT5.5.1" title="Nghe câu và điền từ thích hợp vào chỗ trống" case-sensitive="false"]
+
+    [daudio]BT5.5.1.mp3[/daudio]
+
+    Mein [dans44]Koffer[/dans44] ist sehr schwer.
+
+    [hidden]Nội dung file nghe: Mein Koffer ist sehr schwer.[/hidden]
+
+[/dquiz44]

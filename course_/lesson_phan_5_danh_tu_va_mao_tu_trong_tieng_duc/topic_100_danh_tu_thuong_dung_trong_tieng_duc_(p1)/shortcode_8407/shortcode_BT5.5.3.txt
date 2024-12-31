@@ -1,0 +1,12 @@
+[dquiz3 id="BT5.5.3" title="Chọn danh từ thích hợp để hoàn thành câu sau."]
+
+Ich brauche eine ____ für den Bus.
+(Tôi cần một vé xe buýt.)
+
+[dans3 ans="B"]
+A. Zimmer
+B. Fahrkarte
+C. Jugendherberge
+[/dans3]
+
+[/dquiz3]

@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.36.19" title="Chọn từ đúng để điền vào câu"]
+    Chúng ta đang ở rất ___ nhau, nên cần giữ liên lạc.
+    [dans3 ans="C"]
+    A. breit
+    B. heiß
+    C. weit
+    D. Eis
+    [/dans3]
+[/dquiz3]

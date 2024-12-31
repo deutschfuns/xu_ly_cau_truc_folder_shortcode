@@ -1,0 +1,13 @@
+[dquiz58 id="BT5.5.68" title="Đọc và ghi âm lại câu sau" ]
+
+    Đọc và ghi âm lại câu sau.
+    Die Straßenkehrer arbeiten früh am Morgen.
+
+    [hidden]Đọc và ghi âm lại câu sau.
+    Die Straßenkehrer arbeiten früh am Morgen.[/hidden]
+
+    [prompt]
+        [sc name="prompt58"][/sc]
+    [/prompt]
+
+[/dquiz58]

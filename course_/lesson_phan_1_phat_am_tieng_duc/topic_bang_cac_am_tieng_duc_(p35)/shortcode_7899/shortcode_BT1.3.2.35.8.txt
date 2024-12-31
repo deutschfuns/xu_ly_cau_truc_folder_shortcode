@@ -1,0 +1,8 @@
+[dquiz3 id="BT1.3.2.35.8" title="Chọn từ phù hợp để điền vào câu sau:"]
+    Trời mưa __ vào mùa xuân.
+    [dans3 ans="B"]
+    A. Säule
+    B. häufig
+    C. Feuer
+    [/dans3]
+[/dquiz3]

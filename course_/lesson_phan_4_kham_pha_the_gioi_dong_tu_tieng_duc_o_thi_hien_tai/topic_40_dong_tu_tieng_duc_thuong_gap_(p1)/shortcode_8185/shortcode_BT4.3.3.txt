@@ -1,0 +1,38 @@
+[dquiz3 id="BT4.3.3" title="Chọn câu có cách chia động từ đúng cho mỗi ngôi"]
+
+Er ___ seine Hausaufgaben.
+[dans3 ans="B"]
+A. machen
+B. macht
+C. machst
+[/dans3]
+
+Ich ___ jeden Morgen Kaffee.
+[dans3 ans="B"]
+A. trinkst
+B. trinke
+C. trinken
+[/dans3]
+
+Sie ___ sehr gut Deutsch.
+[dans3 ans="B"]
+A. sprichst
+B. spricht
+C. spreche
+[/dans3]
+
+Wir ___ zusammen in der Küche.
+[dans3 ans="C"]
+A. kochst
+B. koche
+C. kochen
+[/dans3]
+
+Du ___ ein Buch im Park.
+[dans3 ans="B"]
+A. liesst
+B. liest
+C. lesen
+[/dans3]
+
+[/dquiz3]

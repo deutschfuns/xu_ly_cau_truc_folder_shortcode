@@ -1,0 +1,23 @@
+[dquiz46 id="BT4.2.2.2" title="Sắp xếp các từ sau để tạo thành câu hoàn chỉnh"]
+
+    Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+
+    blühen / im Frühling / Die Blumen
+    [dans46]
+
+    Der Lehrer / die Regel / erklärt
+    [dans46]
+
+    [hidden]
+        Sắp xếp các từ sau để tạo thành câu hoàn chỉnh.
+        blühen / im Frühling / Die Blumen
+        {{input}}
+        Der Lehrer / die Regel / erklärt
+        {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

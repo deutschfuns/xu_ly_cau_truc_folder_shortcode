@@ -1,0 +1,14 @@
+[dquiz31 id="BT5.2.5.6.1" title="Nối từ tiếng Đức với nghĩa tiếng Việt tương ứng"]
+
+[dans31 ans="1-C,2-A,3-B,4-D"]
+1. Mann
+2. Neffe
+3. Onkel
+4. Vater
+A. Cháu trai
+B. Chú, bác
+C. Người đàn ông
+D. Cha
+[/dans31]
+
+[/dquiz31]

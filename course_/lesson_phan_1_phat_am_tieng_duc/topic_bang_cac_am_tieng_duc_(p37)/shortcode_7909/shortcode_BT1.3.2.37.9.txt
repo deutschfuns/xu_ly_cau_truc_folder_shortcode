@@ -1,0 +1,15 @@
+[dquiz3 id="BT1.3.2.37.9" title="Nghe và chọn từ đúng để hoàn thành câu:"]
+
+    [daudio]BT1.3.2.37.9.mp3[/daudio]
+
+    Der ___ ist sehr hoch.
+    [dans3 ans="B"]
+    A. Auto
+    B. Baum
+    C. Maus
+    D. Frau
+    [/dans3]
+
+    [hidden]Nội dung file nghe: Baum[/hidden]
+
+[/dquiz3]

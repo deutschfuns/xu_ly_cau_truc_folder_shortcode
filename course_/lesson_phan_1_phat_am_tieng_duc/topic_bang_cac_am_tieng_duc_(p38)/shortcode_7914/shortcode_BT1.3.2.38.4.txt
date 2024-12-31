@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.38.4" title="Nghe và chọn đáp án đúng"]
+    [daudio]BT1.3.2.38.4.mp3[/daudio]
+    [dans3 ans="A"]
+    A. Frieden
+    B. Liebe
+    C. Lieder
+    [/dans3]
+    [hidden]Nội dung file nghe: Frieden[/hidden]
+[/dquiz3]

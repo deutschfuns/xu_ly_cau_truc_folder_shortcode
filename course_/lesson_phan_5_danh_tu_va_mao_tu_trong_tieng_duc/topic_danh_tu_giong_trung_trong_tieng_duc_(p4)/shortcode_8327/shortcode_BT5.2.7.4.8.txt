@@ -1,0 +1,8 @@
+[dquiz3 id="BT5.2.7.4.8" title="Chọn từ có nghĩa phù hợp với &quot;diễn đàn&quot;"]
+    [dans3 ans="C"]
+    A. Kollegium
+    B. Christentum
+    C. Forum
+    D. Praktikum
+    [/dans3]
+[/dquiz3]

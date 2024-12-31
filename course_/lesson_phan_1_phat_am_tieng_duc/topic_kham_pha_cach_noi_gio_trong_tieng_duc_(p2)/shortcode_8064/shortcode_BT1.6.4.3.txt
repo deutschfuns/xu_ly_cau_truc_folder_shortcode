@@ -1,0 +1,15 @@
+[dquiz31 id="BT1.6.4.3" title="Nối giờ hiển thị với cách diễn đạt tương ứng bằng tiếng Đức"]
+Nối giờ hiển thị với cách diễn đạt tương ứng bằng tiếng Đức.
+
+[dans31 ans="1-C,2-D,3-A,4-B"]
+1. 6:00 AM
+2. 7:00 PM
+3. 11:00 PM
+4. 12:00 PM
+A. elf Uhr nachts
+B. zwölf Uhr mittags
+C. sechs Uhr früh
+D. sieben Uhr abends
+[/dans31]
+
+[/dquiz31]

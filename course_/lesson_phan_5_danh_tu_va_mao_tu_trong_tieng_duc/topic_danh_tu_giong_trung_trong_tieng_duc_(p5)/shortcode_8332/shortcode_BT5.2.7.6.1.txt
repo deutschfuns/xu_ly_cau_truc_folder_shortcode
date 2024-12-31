@@ -1,0 +1,9 @@
+[dquiz3 id="BT5.2.7.6.1" title="Nghe từ và chọn đáp án đúng"]
+    [daudio]BT5.2.7.6.1.mp3[/daudio]
+    [dans3 ans="B"]
+    A. Büchlein
+    B. Fräulein
+    C. Bäumlein
+    [/dans3]
+    [hidden]Nội dung file nghe: Fräulein[/hidden]
+[/dquiz3]

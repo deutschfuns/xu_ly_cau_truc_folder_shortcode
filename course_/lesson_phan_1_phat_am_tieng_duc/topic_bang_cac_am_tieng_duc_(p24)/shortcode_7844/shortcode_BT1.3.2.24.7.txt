@@ -1,0 +1,9 @@
+[dquiz3 id="BT1.3.2.24.7" title="Chọn từ phù hợp để điền vào câu dưới đây"]
+    Das ist meine _____________.
+    (Đây là hóa đơn của tôi)
+    [dans3 ans="C"]
+    A. Quiz
+    B. Quelle
+    C. Quittung
+    [/dans3]
+[/dquiz3]

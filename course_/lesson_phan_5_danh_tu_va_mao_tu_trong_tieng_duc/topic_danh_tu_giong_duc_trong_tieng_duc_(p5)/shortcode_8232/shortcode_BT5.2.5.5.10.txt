@@ -1,0 +1,19 @@
+[dquiz3 id="BT5.2.5.5.10" title="Đọc tiếng Việt và chọn từ tiếng Đức phù hợp"]
+
+Nghệ sĩ
+[dans3 ans="B"]
+A. Bäcker
+B. Künstler
+C. Retter
+D. Gegner
+[/dans3]
+
+Người thuê nhà
+[dans3 ans="B"]
+A. Vermieter
+B. Mieter
+C. Schüler
+D. Maler
+[/dans3]
+
+[/dquiz3]

@@ -1,0 +1,17 @@
+[dquiz58 id="BT1.6.6.7" title="Phát âm"]
+
+    Đọc và ghi âm lại các câu sau về giờ bằng tiếng Đức.
+    Es ist zwei Uhr mittags.
+    Es ist elf Uhr nachts.
+    Der Film beginnt um acht Uhr abends.
+
+    [hidden]Đọc và ghi âm lại các câu sau về giờ bằng tiếng Đức.
+    Es ist zwei Uhr mittags.
+    Es ist elf Uhr nachts.
+    Der Film beginnt um acht Uhr abends.[/hidden]
+
+    [prompt]
+        [sc name="prompt57"][/sc]
+    [/prompt]
+
+[/dquiz58]

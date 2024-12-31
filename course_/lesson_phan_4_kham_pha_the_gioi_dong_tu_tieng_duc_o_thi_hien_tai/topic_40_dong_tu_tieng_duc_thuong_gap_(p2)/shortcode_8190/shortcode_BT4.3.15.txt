@@ -1,0 +1,9 @@
+[dquiz44 id="BT4.3.15" title="Nghe và điền đáp án đúng"]
+
+[daudio]BT4.3.15.mp3[/daudio]
+
+[dans44]waschen[/dans44]
+
+[hidden]Nội dung file nghe: Sie waschen Ihre Hände.[/hidden]
+
+[/dquiz44]

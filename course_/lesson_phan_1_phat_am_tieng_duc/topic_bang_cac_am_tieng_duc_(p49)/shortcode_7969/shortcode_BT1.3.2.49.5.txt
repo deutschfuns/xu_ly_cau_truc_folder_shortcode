@@ -1,0 +1,10 @@
+[dquiz3 id="BT1.3.2.49.5" title="Nghe và chọn nghĩa Tiếng Việt"]
+    [daudio]BT1.3.2.49.5.mp3[/daudio]
+    [hidden]Nội dung file nghe: Pferd[/hidden]
+
+    [dans3 ans="C"]
+    A. Cây
+    B. Hạt tiêu
+    C. Con ngựa
+    [/dans3]
+[/dquiz3]

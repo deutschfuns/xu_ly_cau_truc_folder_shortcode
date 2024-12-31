@@ -1,0 +1,21 @@
+[dquiz46 id="BT5.5.70" title="Viết câu với từ gợi ý"]
+
+    Viết câu hoàn chỉnh với các từ sau:
+
+    1. Der Chef
+    [dans46]
+
+    2. Der Koch
+    [dans46]
+
+    [hidden]
+        Viết câu hoàn chỉnh với các từ sau:
+        1. Der Chef {{input}}
+        2. Der Koch {{input}}
+    [/hidden]
+
+    [prompt]
+        [sc name="prompt46"][/sc]
+    [/prompt]
+
+[/dquiz46]

@@ -1,0 +1,8 @@
+[dquiz3 id="BT2.1.1.6" title="&quot;Sie&quot; trong câu &quot;Sie spielt Tennis.&quot; có nghĩa là gì?"]
+    [dans3 ans="C"]
+    A. Anh ấy
+    B. Tôi
+    C. Cô ấy
+    D. Bạn
+    [/dans3]
+[/dquiz3]

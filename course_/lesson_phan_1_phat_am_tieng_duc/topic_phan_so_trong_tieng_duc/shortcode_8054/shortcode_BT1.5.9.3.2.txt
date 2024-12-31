@@ -1,0 +1,9 @@
+[dquiz44 id="BT1.5.9.3.2" title="Nghe và viết lại" case-sensitive="false"]
+
+    [daudio]BT1.5.9.3.2.mp3[/daudio]
+
+    [dans44]Ein Drittel[/dans44]
+
+    [hidden]Nội dung file nghe: Ein Drittel[/hidden]
+
+[/dquiz44]
